@@ -1,0 +1,6 @@
+Action,ProductSKU,ProductName,Location,MinimumBeforeReorder,ReorderQuantity,StockLocator,PickZones
+Create/Update,999888777,Handblown Cocktail Set 6 piece,Oak Hill,0,8,,
+Create/Update,812066023387,Macallan 18y Double Cask 750ml,Oak Hill,0,12,,
+Create/Update,123631,Viski Teardrop Barspoon 40cm Stainless,Oak Hill,0,24,,
+Create/Update,87236950705,Mount Gay 1703 750ml,Oak Hill,0,6,,
+Create/Update,876718042843,Viski Heavyweight Cobbler Shaker,Oak Hill,3,12,,
