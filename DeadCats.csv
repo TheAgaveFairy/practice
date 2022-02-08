@@ -1,0 +1,195 @@
+CategoryDear,Customer,Category_Sold,Category_Total,Savings
+Absinthe,Customer Square 1,13,15,419.96000000000004
+Absinthe,Customer Square 2,19,22,0.0
+Absinthe,Customer Square 3,10,21,1403.83
+Amaro,Customer Square 1,91,103,747.7750000000001
+Amaro,Customer Square 2,99,111,1178.6599999999999
+Amaro,Customer Square 3,79,108,1885.39
+Aquavit,Customer Square 1,5,5,0.0
+Aquavit,Customer Square 2,5,5,0.0
+Aquavit,Customer Square 3,2,5,287.91999999999996
+Bacanora,Customer Square 1,1,1,0.0
+Bacanora,Customer Square 2,2,2,0.0
+Bacanora,Customer Square 3,1,2,324.95
+Bag,Customer Square 1,7,10,1628.25
+Bag,Customer Square 2,7,10,2511.625
+Bag,Customer Square 3,3,4,0.0
+Baijiu,Customer Square 1,2,2,0.0
+Baijiu,Customer Square 2,3,3,0.0
+Baijiu,Customer Square 3,1,2,44.97
+Bar Tools,Customer Square 1,130,151,626.3
+Bar Tools,Customer Square 2,124,153,696.1
+Bar Tools,Customer Square 3,90,132,4186.0
+Bitters,Customer Square 1,130,154,820.54
+Bitters,Customer Square 2,151,173,657.67
+Bitters,Customer Square 3,87,148,2946.653333333333
+Books,Customer Square 1,33,45,659.4300000000001
+Books,Customer Square 2,41,50,380.0
+Books,Customer Square 3,9,44,1898.32
+Brandy,Customer Square 1,53,56,221.95999999999998
+Brandy,Customer Square 2,52,63,963.8599999999999
+Brandy,Customer Square 3,42,60,1727.195047361299
+Bubbles,Customer Square 1,44,46,49.98
+Bubbles,Customer Square 2,55,57,12.99
+Bubbles,Customer Square 3,40,43,279.1903448275862
+Cachaca,Customer Square 1,6,7,299.94
+Cachaca,Customer Square 2,8,8,0.0
+Cachaca,Customer Square 3,6,8,257.94
+Calvados,Customer Square 1,2,2,0.0
+Calvados,Customer Square 2,3,3,0.0
+Calvados,Customer Square 3,2,3,85.98
+Charanda,Customer Square 1,2,3,179.94
+Charanda,Customer Square 2,3,3,0.0
+Charanda,Customer Square 3,3,3,0.0
+Cider,Customer Square 1,42,43,0.0
+Cider,Customer Square 2,37,38,0.0
+Cider,Customer Square 3,34,35,89.94
+Cognac,Customer Square 1,28,34,255.98000000000002
+Cognac,Customer Square 2,35,39,199.99
+Cognac,Customer Square 3,30,39,264.98
+Craft Beer,Customer Square 1,221,238,188.97
+Craft Beer,Customer Square 2,120,131,265.79545454545456
+Craft Beer,Customer Square 3,84,87,264.91
+Dom Beer,Customer Square 1,53,53,0.0
+Dom Beer,Customer Square 2,25,26,0.0
+Dom Beer,Customer Square 3,18,19,6.810037831021437
+Fortified,Customer Square 1,113,125,745.5999999999999
+Fortified,Customer Square 2,122,136,555.68
+Fortified,Customer Square 3,76,127,3224.0505882352945
+Fruit,Customer Square 1,1,3,0.0
+Fruit,Customer Square 2,0,3,4526.5
+Fruit,Customer Square 3,4,4,0.0
+Garnish,Customer Square 1,53,56,9.99
+Garnish,Customer Square 2,53,62,194.84
+Garnish,Customer Square 3,24,29,313.82
+Gin,Customer Square 1,148,163,1166.71
+Gin,Customer Square 2,180,192,963.58
+Gin,Customer Square 3,131,169,4419.539999999998
+Glassware,Customer Square 1,32,36,20.0
+Glassware,Customer Square 2,31,38,156.0
+Glassware,Customer Square 3,30,32,96.0
+Grappa,Customer Square 1,5,9,149.98
+Grappa,Customer Square 2,7,14,167.97
+Grappa,Customer Square 3,2,9,256.96
+Ice,Customer Square 1,1,2,0.0
+Ice,Customer Square 2,1,2,0.0
+Imp Beer,Customer Square 1,25,25,0.0
+Imp Beer,Customer Square 2,15,15,0.0
+Imp Beer,Customer Square 3,18,18,0.0
+Liqueur,Customer Square 1,220,255,2321.962857142857
+Liqueur,Customer Square 2,246,290,3119.9900000000002
+Liqueur,Customer Square 3,184,269,5252.360000000001
+Mead,Customer Square 1,1,1,0.0
+Mead,Customer Square 2,1,1,0.0
+Mead,Customer Square 3,1,1,0.0
+Mezcal,Customer Square 1,215,234,3278.29
+Mezcal,Customer Square 2,234,280,5405.439999999999
+Mezcal,Customer Square 3,175,274,17126.105
+Mixer,Customer Square 1,66,71,122.88999999999999
+Mixer,Customer Square 2,73,81,562.1133333333332
+Mixer,Customer Square 3,67,76,348.77
+Non Alcoholic Beverage,Customer Square 1,77,80,0.0
+Non Alcoholic Beverage,Customer Square 2,68,75,162.11346153846154
+Non Alcoholic Beverage,Customer Square 3,63,66,241.42000000000002
+Orange Wine,Customer Square 1,16,17,0.0
+Orange Wine,Customer Square 2,16,16,0.0
+Orange Wine,Customer Square 3,12,15,297.9
+Other,Customer Square 1,3,3,0.0
+Other,Customer Square 2,3,3,0.0
+Other,Customer Square 3,2,2,0.0
+Pisco,Customer Square 1,4,6,128.82888888888888
+Pisco,Customer Square 2,7,7,0.0
+Pisco,Customer Square 3,4,5,65.98
+Pox,Customer Square 1,1,1,0.0
+Pox,Customer Square 2,1,1,0.0
+Pox,Customer Square 3,0,1,79.98
+RTD,Customer Square 1,28,30,0.0
+RTD,Customer Square 2,53,56,0.0
+RTD,Customer Square 3,32,32,0.0
+Raicilla,Customer Square 1,18,20,189.99
+Raicilla,Customer Square 2,17,19,219.98
+Raicilla,Customer Square 3,14,20,1105.8700000000001
+Red,Customer Square 2,0,1,0.0
+Red,Customer Square 3,0,1,0.0
+Red New World,Customer Square 1,73,77,254.44
+Red New World,Customer Square 2,83,86,215.88000000000002
+Red New World,Customer Square 3,69,80,2124.59
+Red Old World,Customer Square 1,67,70,161.88
+Red Old World,Customer Square 2,74,76,374.89
+Red Old World,Customer Square 3,67,80,1385.98
+Retail,Customer Square 1,17,18,0.0
+Retail,Customer Square 2,12,13,11.0
+Retail,Customer Square 3,8,11,94.62857142857143
+Rose,Customer Square 1,24,24,0.0
+Rose,Customer Square 2,27,27,0.0
+Rose,Customer Square 3,22,27,483.78999999999996
+Rum,Customer Square 1,222,239,1181.0166666666667
+Rum,Customer Square 2,252,271,1154.85
+Rum,Customer Square 3,193,260,7575.0650000000005
+Sake,Customer Square 1,12,13,0.0
+Sake,Customer Square 2,11,12,0.0
+Sake,Customer Square 3,10,11,0.0
+Shochu,Customer Square 1,20,22,0.0
+Shochu,Customer Square 2,22,24,139.96
+Shochu,Customer Square 3,9,21,771.74
+Singani,Customer Square 1,1,2,32.99
+Singani,Customer Square 2,2,2,0.0
+Singani,Customer Square 3,1,2,135.96
+Snacks,Customer Square 1,21,22,0.0
+Snacks,Customer Square 2,1,3,3.421379310344827
+Snacks,Customer Square 3,1,1,0.0
+Soju,Customer Square 1,2,2,0.0
+Soju,Customer Square 2,3,6,0.0
+Soju,Customer Square 3,2,2,0.0
+Sotol,Customer Square 1,24,26,311.92
+Sotol,Customer Square 2,26,29,252.98000000000002
+Sotol,Customer Square 3,21,30,1179.1733333333334
+Tequila,Customer Square 1,176,190,2127.43
+Tequila,Customer Square 2,242,275,3186.09
+Tequila,Customer Square 3,202,232,4954.49
+Tobacco,Customer Square 1,43,43,0.0
+Tobacco,Customer Square 2,1,1,0.0
+Tobacco,Customer Square 3,0,1,23.78640776699029
+Vodka,Customer Square 1,152,155,71.97
+Vodka,Customer Square 2,208,220,327.88
+Vodka,Customer Square 3,151,164,879.74
+Whiskey American Single Malt,Customer Square 1,19,22,94.99
+Whiskey American Single Malt,Customer Square 2,21,25,1033.9
+Whiskey American Single Malt,Customer Square 3,13,22,1584.8000000000002
+Whiskey Bourbon/American,Customer Square 1,379,399,1190.72
+Whiskey Bourbon/American,Customer Square 2,410,434,5088.162307692308
+Whiskey Bourbon/American,Customer Square 3,329,361,6481.564666666667
+Whiskey Canadian,Customer Square 1,15,20,289.57086956521744
+Whiskey Canadian,Customer Square 2,21,23,0.0
+Whiskey Canadian,Customer Square 3,14,19,589.95
+Whiskey Chech,Customer Square 2,0,1,0.0
+Whiskey French,Customer Square 1,2,2,0.0
+Whiskey French,Customer Square 2,1,2,319.95
+Whiskey French,Customer Square 3,1,2,199.98
+Whiskey Indian,Customer Square 1,1,7,494.91999999999996
+Whiskey Indian,Customer Square 2,2,6,119.99
+Whiskey Indian,Customer Square 3,1,4,65.98
+Whiskey Irish,Customer Square 1,49,53,174.98
+Whiskey Irish,Customer Square 2,60,68,1089.96
+Whiskey Irish,Customer Square 3,41,57,3048.4971428571434
+Whiskey Japanese,Customer Square 1,42,52,833.92
+Whiskey Japanese,Customer Square 2,39,48,969.9200000000001
+Whiskey Japanese,Customer Square 3,16,38,3353.629999999999
+Whiskey Mexican,Customer Square 1,5,5,0.0
+Whiskey Mexican,Customer Square 2,4,5,149.97
+Whiskey Mexican,Customer Square 3,5,5,0.0
+Whiskey Rye,Customer Square 1,101,114,1515.3500000000001
+Whiskey Rye,Customer Square 2,111,123,2944.75
+Whiskey Rye,Customer Square 3,93,112,3158.605106382978
+Whiskey Scotch,Customer Square 1,166,196,3221.175
+Whiskey Scotch,Customer Square 2,176,218,6137.4
+Whiskey Scotch,Customer Square 3,124,187,15068.193333333333
+Whiskey South African,Customer Square 2,1,1,0.0
+Whiskey Taiwaneese,Customer Square 1,2,3,89.99
+Whiskey Taiwaneese,Customer Square 2,2,3,89.99
+Whiskey Taiwaneese,Customer Square 3,3,3,0.0
+Whisky German,Customer Square 2,1,1,0.0
+Whisky German,Customer Square 3,1,1,0.0
+White,Customer Square 1,68,77,601.69
+White,Customer Square 2,77,83,517.86
+White,Customer Square 3,57,74,1868.126984126984
