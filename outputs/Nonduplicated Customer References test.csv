@@ -1,0 +1,691 @@
+index,Location,Sales Representative,SKU,Product,Order Date,Order #,Invoice #,Customer,Customer Reference,FulFillment Status,Fulfillment #,Carrier,Tracking #,Quantity Ordered,Quantity Picked,Quantity Packed,Quantity Shipped,DUPE
+2298,Oak Hill,Square,721059000604,Wray and Nephew Overproof 1L,07-Jul-2022,SO-349714,INV-349710,Customer Square 3,16atKp3Rty8aroazX0sv88qgvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+924,Airport,Square,96749908516,Lunazul Blanco 50ml,09-Jul-2022,SO-350463,INV-350459,Customer Square 1,16eZZqH8XB8z0tWEVC7qUJ2WvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1207,Airport,Square,674545000001,Don Julio Blanco 750ml,08-Jul-2022,SO-350262,INV-350258,Customer Square 1,18dsv0f6apVDCVRgIZkLLvjguaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4054,Pleasant Valley,Square,898563002629,Fernet Branca 750ml,09-Jul-2022,SO-350706,INV-350702,Customer Square 2,18vHA28FlOXulvIupWYNelh5uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+649,Airport,Square,87229127305,Luxardo Amaretto 750ml,08-Jul-2022,SO-350204,INV-350200,Customer Square 1,1MTZ2UQDMHzgHRFMcvtycJKguaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2125,Oak Hill,Square,96749021178,Evan Williams Bonded 175L,12-Jul-2022,SO-351219,INV-351215,Customer Square 3,1OEDDYJECA4zZ4SxEYInLIUkuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3516,Pleasant Valley,Square,680203050073,Pure Kentucky XO 750ml,08-Jul-2022,SO-349903,INV-349899,Customer Square 2,1OWcZXP5L7crKfm6Lt6EjyvbvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1901,Oak Hill,Square,80686001607,Jim Beam 375ml,09-Jul-2022,SO-350593,INV-350589,Customer Square 3,1Q7Ia9fF5bqvShuou93kUV5ZuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3025,Pleasant Valley,Square,86208390716,Monopolowa Vodka 1.75L,09-Jul-2022,SO-350652,INV-350648,Customer Square 2,1QridiPsy0t4pOAqdPnzPM9tuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+941,Airport,Square,96925003042,Barnard Griffin Rose 750ml,08-Jul-2022,SO-350132,INV-350128,Customer Square 1,1SAgz0BLDT8bbm9fkUXHZvM3uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1896,Oak Hill,Square,80660957555,Modelo Especial Cans 6 Pack,08-Jul-2022,SO-350099,INV-350095,Customer Square 3,1SUqN1DFYtGCzJuOWDKivB46taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+48,Airport,Square,18200250019,Bud light 25oz,07-Jul-2022,SO-349549,INV-349545,Customer Square 1,1SYaKKSYGcEaSpPKFCCSoUbsvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+4067,Pleasant Valley,Square,9120028071361,Grrrr Gruner Veltliner 1L,09-Jul-2022,SO-350667,INV-350663,Customer Square 2,1SuRyPupSavmskdhqT84MLqjuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3456,Pleasant Valley,Square,619947000037,Titos Vodka 1.75L,08-Jul-2022,SO-350065,INV-350061,Customer Square 2,1U7FDsOMInP9pFKsvWa2c0EsvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2276,Oak Hill,Square,695521151425,Pierre Ferrand Cru De Cognac 1840 750ml,08-Jul-2022,SO-350091,INV-350087,Customer Square 3,1WOa1qkw6l7FjwgJYcWkaTZgvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+958,Airport,Square,1234500000019,Bag Ice 20LB,08-Jul-2022,SO-349914,INV-349910,Customer Square 1,1YrABgRUOu1lDmgwJQVuwNL0uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1304,Airport,Square,744607068307,El Jimador Blanco 1L,09-Jul-2022,SO-350693,INV-350689,Customer Square 1,1YvKVc154A5qNx1Bnr84CMJTuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4003,Pleasant Valley,Square,864903000198,Kooper Single Barrel Bourbon 750ml,11-Jul-2022,SO-350907,INV-350903,Customer Square 2,1aiJynQYSCIx0AhkB1D2Mn5DuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2978,Pleasant Valley,Square,85000019498,New Amsterdam Vodka 750ml,07-Jul-2022,SO-349624,INV-349620,Customer Square 2,1cTzlImT3wHA2Yda0F8nJTDPvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3829,Pleasant Valley,Square,850020408016,Fox and Seeker Vodka 750ml,09-Jul-2022,SO-350765,INV-350761,Customer Square 2,1gDe3YuOP1KIdsd1n1JG4zvUvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3143,Pleasant Valley,Square,88004144708,Fireball 50ml,08-Jul-2022,SO-349930,INV-349926,Customer Square 2,1iGz3Z3YOpPzT0hMcDn8hLRauaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3152,Pleasant Valley,Square,88004144708,Fireball 50ml,11-Jul-2022,SO-350926,INV-350922,Customer Square 2,1mY9C4sGGnUFcs6afc5OzzhavaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3235,Pleasant Valley,Square,96749021642,Evan Williams Black 375ml,07-Jul-2022,SO-349679,INV-349675,Customer Square 2,1oBz7kCYeThQsCqF3bEA1APBwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3926,Pleasant Valley,Square,856442005390,Bozal Cuishe 750ml,09-Jul-2022,SO-350444,INV-350440,Customer Square 2,1u8TxwL3B917NEkmiIK4cncFvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2239,Oak Hill,Square,619947000037,Titos Vodka 1.75L,09-Jul-2022,SO-350504,INV-350500,Customer Square 3,1wPcTt7zFpesbagpZbzJaRK5taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1288,Airport,Square,7264520142272,Rucolino Amaro 750ml,08-Jul-2022,SO-350197,INV-350193,Customer Square 1,1ySBXQg0FU8xU3zHkyT4C6evvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3918,Pleasant Valley,Square,856065002400,Deep Eddy Lemon 50ml,09-Jul-2022,SO-350553,INV-350549,Customer Square 2,1yo6shXVJCrFxZIMOX1aNKBDwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+345,Airport,Square,70462098501,Sour Patch Kids,07-Jul-2022,SO-349749,INV-349745,Customer Square 1,355vNCw2F2RtwCec0pu8t2RavaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+613,Airport,Square,86208390761,Monopolowa Vodka 375ml,08-Jul-2022,SO-349980,INV-349976,Customer Square 1,35tBXZ2LDF4Zuj7Oplu5jyn8vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1974,Oak Hill,Square,85246500101,Makers Mark 46 750ml,09-Jul-2022,SO-350366,INV-350362,Customer Square 3,37kE1cbXovL7yJNtfcoPWQ0TvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+848,Airport,Square,96749001361,Lunazul Blanco 375ml,07-Jul-2022,SO-349697,INV-349693,Customer Square 1,3BRTSYJD1Ga8kNuwLJ3qE7VUvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3467,Pleasant Valley,Square,619947000051,Titos 375ml,09-Jul-2022,SO-350708,INV-350704,Customer Square 2,3DeHPbvpf2VmzlY65gO7pgLZuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1596,Airport,Square,856803003010,Better Half Sauvignon Blanc 750ml,09-Jul-2022,SO-350688,INV-350684,Customer Square 1,3PM7f9OGaUKoFR7OgQSiIvlZvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+552,Airport,Square,85000024874,New Amsterdam Apple 750ml,07-Jul-2022,SO-349520,INV-349516,Customer Square 1,3RDGVkMw3Fui19RETToOrHLGuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2229,Oak Hill,Square,619947000013,Titos 1L,09-Jul-2022,SO-350643,INV-350639,Customer Square 3,3ZBFKa4N5rv1B7ltxmzKMxgeuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1150,Airport,Square,619947000044,Titos Vodka 200ml,08-Jul-2022,SO-349840,INV-349836,Customer Square 1,3Zv4AkTTp1xM0kla2VpTA6qOuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3464,Pleasant Valley,Square,619947000051,Titos 375ml,08-Jul-2022,SO-350240,INV-350236,Customer Square 2,3bESg4RFHaUkQe0X73Naj6AHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1151,Airport,Square,619947000051,Titos 375ml,07-Jul-2022,SO-349794,INV-349790,Customer Square 1,3dZQ6S0BAYTfLsGtxzG08xPbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1878,Oak Hill,Square,80480986353,Angels Envy Shaker Barrel 750ml,08-Jul-2022,SO-350101,INV-350097,Customer Square 3,3dbJ6oyjZTRmkyWByCIyqPowvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3832,Pleasant Valley,Square,850047003065,Angels Envy Rye 750ml,09-Jul-2022,SO-350609,INV-350605,Customer Square 2,3f4JzyhDB6BDCGkc6r3sRkw9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+542,Airport,Square,85000017739,La Marca Prosecco 750ml,07-Jul-2022,SO-349574,INV-349570,Customer Square 1,3fkvPED0TPpOPWVVfwJsYtM8uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2688,Pleasant Valley,Square,29929115411,Licor 43 750ml,09-Jul-2022,SO-350604,INV-350600,Customer Square 2,3hHaU0r4A0kJTql9LqMiYghRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3175,Pleasant Valley,Square,88110150525,Hennessy VS 200ml,08-Jul-2022,SO-350168,INV-350164,Customer Square 2,3hXAbIpluOD944ssZxzc2oeUvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3650,Pleasant Valley,Square,786992211685,Bounty Dark Rum 1L,07-Jul-2022,SO-349656,INV-349652,Customer Square 2,3rEembvnjvUcCy8MZ73DRwgLuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1938,Oak Hill,Square,83664872459,Tullamore Dew 50ml,08-Jul-2022,SO-349957,INV-349953,Customer Square 3,3vGmQ0ydZAGLPVHoVYAc2qniuaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+2233,Oak Hill,Square,619947000020,Titos Vodka 750ml,08-Jul-2022,SO-350163,INV-350159,Customer Square 3,3vYxRQIpsFTQTWElOPqNko4cuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1583,Airport,Square,856065002301,Deep Eddy Lime 50ml,09-Jul-2022,SO-350787,INV-350783,Customer Square 1,3vuSqbUS9Ic6NnOEsRugnARmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+765,Airport,Square,88076179073,Ciroc Pineapple 375ml,09-Jul-2022,SO-350780,INV-350776,Customer Square 1,56fkq0vFazZItuVNn8TvSTh3vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+739,Airport,Square,88004144708,Fireball 50ml,07-Jul-2022,SO-349759,INV-349755,Customer Square 1,5S9taC2aqRkn0Z5LvyTgXqkzvaB,SHIPPED,1.0,DEFAULT Carrier,,10,10,10,10,False
+1865,Oak Hill,Square,80432500118,Jameson 1L,11-Jul-2022,SO-351206,INV-351202,Customer Square 3,5WpWaLNcMwx3Q5Qt96hjIF2RuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3255,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,11-Jul-2022,SO-350883,INV-350879,Customer Square 2,5cIU4CvzIazksUeBBJE6c3SRuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+454,Airport,Square,80480984069,Cazadores Reposado 50ml,07-Jul-2022,SO-349795,INV-349791,Customer Square 1,5cO3CzvoUzsaodxbiS2aq5sevaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3603,Pleasant Valley,Square,744607068307,El Jimador Blanco 1L,09-Jul-2022,SO-350513,INV-350509,Customer Square 2,5eRcc9exr5eQ9dRTgAGp2hv8vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+112,Airport,Square,21296600316,Paul Masson Brandy 50ml,07-Jul-2022,SO-349704,INV-349700,Customer Square 1,5eVAviQNTHhqo8JRgTbJyI05vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1913,Oak Hill,Square,82000752967,Bulleit Rye 750ml,11-Jul-2022,SO-350916,INV-350912,Customer Square 3,5gUBASmxo3GBbdBiCxi3ryrHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3445,Pleasant Valley,Square,619947000020,Titos Vodka 750ml,09-Jul-2022,SO-350607,INV-350603,Customer Square 2,5gaIgnhVXaodp2p1eevV9NA8uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2033,Oak Hill,Square,88004027490,Miles Gin 750ml,08-Jul-2022,SO-349922,INV-349918,Customer Square 3,5gk3fGKvKRvohtsFhzZjzTSkuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+851,Airport,Square,96749001361,Lunazul Blanco 375ml,08-Jul-2022,SO-350130,INV-350126,Customer Square 1,5oiSaSJdvqxQNNsZ58oRfuihvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1670,Airport,Square,887341340060,Aperol 375ml,09-Jul-2022,SO-350487,INV-350483,Customer Square 1,5qdjS32Bzob6K1tVQUGfXbTLuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2851,Pleasant Valley,Square,80480986353,Angels Envy Shaker Barrel 750ml,08-Jul-2022,SO-349889,INV-349885,Customer Square 2,5qh1Wpcx2I953EXMZxZYsrYuvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+461,Airport,Square,80660620992,99 Bananas 50ml,09-Jul-2022,SO-350681,INV-350677,Customer Square 1,5upSX7CAt2YADHaOsfHlNAVRvaB,SHIPPED,1.0,DEFAULT Carrier,,8,8,8,8,False
+636,Airport,Square,87000005525,Bulleit Bourbon 750ml,07-Jul-2022,SO-349666,INV-349662,Customer Square 1,5wW0nEcVJYcxsPB9FbeirRhsuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2854,Pleasant Valley,Square,80480986353,Angels Envy Shaker Barrel 750ml,09-Jul-2022,SO-350654,INV-350650,Customer Square 2,71uXHAGOReldnmuvNmwUtjvSvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3035,Pleasant Valley,Square,86208390761,Monopolowa Vodka 375ml,09-Jul-2022,SO-350743,INV-350739,Customer Square 2,75AVkhIXLezrnI9j7KQINfoOvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3591,Pleasant Valley,Square,736040012870,Hpnotiq 50ml,09-Jul-2022,SO-350747,INV-350743,Customer Square 2,75uY0esPfvRMCkRoiKMLYDl6uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3263,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,08-Jul-2022,SO-349967,INV-349963,Customer Square 2,7Fa1V2xIIOJeLrvQvDA2ftXHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3043,Pleasant Valley,Square,86208390778,Monopolowa Vodka 750ml,11-Jul-2022,SO-350856,INV-350852,Customer Square 2,7J8dFQRmt1ImJxKdy66PqSVcvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2880,Pleasant Valley,Square,80686016762,Knob Creek Bourbon 750ml,07-Jul-2022,SO-349776,INV-349772,Customer Square 2,7L5HDaWscCxq08ztNdaQXnNuuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+7420,Warehouse,Square,787790957522,J Rieger KU Championship Bourbon 750ml,08-Jul-2022,SO-349934,INV-349930,Customer Square Warehouse,7PzB8nAHGjHGr7b6eMeKq0MxuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3218,Pleasant Valley,Square,94922658159,Dripping Springs Vodka 1.75L,08-Jul-2022,SO-350248,INV-350244,Customer Square 2,7ZeWHebXI7t8zzOr5jwTAMBAwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3071,Pleasant Valley,Square,87692752318,Twisted Tea Half & Half 24oz,09-Jul-2022,SO-350750,INV-350746,Customer Square 2,7bRfpvf9SbeFUsJAcaPtsbPBuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+793,Airport,Square,88110150624,Hennessy VS 375ml,07-Jul-2022,SO-349763,INV-349759,Customer Square 1,7bdpRetN8xSwtoVQ7CxFNG7UuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2000,Oak Hill,Square,87000004047,Bulleit Bourbon 1.75L,07-Jul-2022,SO-349644,INV-349640,Customer Square 3,7bp7NZL0KJSjXbJwOgHMeQaUvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+210,Airport,Square,3400810,Miller High Life Can 32oz,08-Jul-2022,SO-350150,INV-350146,Customer Square 1,7n73eEbEXW9ACmomD2pwMwKPvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3959,Pleasant Valley,Square,858604005644,Eastcider Seltzer Blk Cherry 6pk cans,09-Jul-2022,SO-350346,INV-350342,Customer Square 2,7p0d99nY79BoAulc6Vo36g6zvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2068,Oak Hill,Square,88004144708,Fireball 50ml,09-Jul-2022,SO-350698,INV-350694,Customer Square 3,7p2QWN9RfvEvutLhgP1QW2LFvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+441,Airport,Square,80480002930,Dusse VSOP 375ml,09-Jul-2022,SO-350722,INV-350718,Customer Square 1,7tcojoOQF2yEdi4qPC6h1eE1uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+763,Airport,Square,88076163461,Caol Ila 12y 750ml,09-Jul-2022,SO-350461,INV-350457,Customer Square 1,7vRgwLS4IoOvf9FhR4VpMWqPuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2453,Oak Hill,Square,852895003280,Austin Beerworks La Verdad Cans 6 Pack,08-Jul-2022,SO-349997,INV-349993,Customer Square 3,7xqavf0GzqJfcJDo4Vj30bgtuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2365,Oak Hill,Square,8032692480206,Lunaria Ramoro Pinot Grigio Terre di Chieti 750mL,08-Jul-2022,SO-350162,INV-350158,Customer Square 3,7xumgZo12wCb5k782dVJlsF8vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3351,Pleasant Valley,Square,123500,Cocktail Kingdom Lewis Bag,09-Jul-2022,SO-350523,INV-350519,Customer Square 2,90tXzmjCJ2wSYmn0DEjhex6juaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+607,Airport,Square,86208390754,Monopolowa Vodka 200ml,07-Jul-2022,SO-349696,INV-349692,Customer Square 1,92YYZ8KjgkexTtc51W87Qo04taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+640,Airport,Square,87000007604,Crown Royal 375ml,07-Jul-2022,SO-349641,INV-349637,Customer Square 1,96Y9ce1WcmTLGARyQSoEHkBnvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1556,Airport,Square,852895003150,Austin Beerworks Bloodwork IPA Cans 6 Pack,09-Jul-2022,SO-350635,INV-350631,Customer Square 1,98rikrbWovKX24IqOL8V99tCwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2237,Oak Hill,Square,619947000037,Titos Vodka 1.75L,08-Jul-2022,SO-349884,INV-349880,Customer Square 3,9ARSDVsjqjjSLokL6dV6AmIXuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1132,Airport,Square,616003741361,Zing Zang Bloody Mary Mix PET 32oz,09-Jul-2022,SO-350388,INV-350384,Customer Square 1,9AfhBWmfb1JBw71I8jcLVfB2vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1498,Airport,Square,850013382200,Ranch Rider Margarita 12oz 4pk,07-Jul-2022,SO-349750,INV-349746,Customer Square 1,9CI702aaw1pfZGHiQOljWMlBuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+962,Airport,Square,1234500000019,Bag Ice 20LB,08-Jul-2022,SO-350193,INV-350189,Customer Square 1,9CyWVHXwNwWidbmHwgnVYfNGuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+595,Airport,Square,8567507,New Amsterdam Pink Whitney 50ml,09-Jul-2022,SO-350462,INV-350458,Customer Square 1,9MjG6lSiPAal0TtPphsor112vaB,SHIPPED,1.0,DEFAULT Carrier,,10,10,10,10,False
+3739,Pleasant Valley,Square,818367000010,Neisson Agricole Blanc 1L,07-Jul-2022,SO-349662,INV-349658,Customer Square 2,9OijRbZwcBdOGw0kJguOSuMfvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3526,Pleasant Valley,Square,698450753463,Socorro Blanco 750ml,08-Jul-2022,SO-349876,INV-349872,Customer Square 2,9QlkbS08tZ9iwx3Mpfy87Q0YvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3133,Pleasant Valley,Square,88004139940,Sazerac Rye 6y 750ml,08-Jul-2022,SO-349873,INV-349869,Customer Square 2,9SCKxHKy6Dxcfxn2tNMxTBqYuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1614,Airport,Square,859612001024,21st Amendment Seasonal Release Cans 6 Pack,08-Jul-2022,SO-350147,INV-350143,Customer Square 1,9WKrUxEPcE02l9GuL8Zt04KOvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2023,Oak Hill,Square,88004000073,Taaka 375ml,09-Jul-2022,SO-350810,INV-350806,Customer Square 3,9WY0HEb2OVAzfgTpNwcFDnVZuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3623,Pleasant Valley,Square,7503016230018,Mezcal Union 750ml,11-Jul-2022,SO-350921,INV-350917,Customer Square 2,9WwclWYuE05aQrjiAE0MiLb3vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1483,Airport,Square,850013382002,Ranch Rider Ranch Water 12oz 4pk,08-Jul-2022,SO-350259,INV-350255,Customer Square 1,9YD1dSAOZHrj1DGzCFgPYMVKuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3253,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,09-Jul-2022,SO-350351,INV-350347,Customer Square 2,9cVrUG4NOCdx15ONwSrn5BNDuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+484,Airport,Square,80686961048,Courvoisier VS 750ml,08-Jul-2022,SO-349983,INV-349979,Customer Square 1,9eaXrRtmBuzUBNdfuI6FCzqMvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+5,Airport,Square,513073041,Hamilton West Indies 1670 Blend 750ml,08-Jul-2022,SO-350268,INV-350264,Customer Square 1,9g7hGEJYU5sE8yezKKIG3sCxuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2428,Oak Hill,Square,850015899003,Mijenta Tequila Blanco 750ml,09-Jul-2022,SO-350592,INV-350588,Customer Square 3,9k70qTotnI6gVFbw9cXmKkH4vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2267,Oak Hill,Square,674545000001,Don Julio Blanco 750ml,09-Jul-2022,SO-350699,INV-350695,Customer Square 3,9k7MscHxLzKaMT3VVL9Jrj6WvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1218,Airport,Square,680203040180,Willett Family Estate Rye 4y 750ml,07-Jul-2022,SO-349534,INV-349530,Customer Square 1,9m4GqKc5sWWnIgmHf5QsjxVnuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+954,Airport,Square,1234500000019,Bag Ice 20LB,07-Jul-2022,SO-349605,INV-349601,Customer Square 1,9mU8Uj3lunLsHJZuSvqWDRJOvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+2834,Pleasant Valley,Square,80432500170,Jameson 750ml,09-Jul-2022,SO-350669,INV-350665,Customer Square 2,9ohigF7L3E1zAzCMfzlAeKoAvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2874,Pleasant Valley,Square,80686001607,Jim Beam 375ml,07-Jul-2022,SO-349689,INV-349685,Customer Square 2,9ucCWvtpKXu6hbltAHyui5g1vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+415,Airport,Square,80432108260,Olmeca Altos Plata 375ml,08-Jul-2022,SO-350258,INV-350254,Customer Square 1,9wzx0bqVvj6cmCcdoIElqwYsuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1910,Oak Hill,Square,81128001506,Woodford Reserve Bourbon 750ml,09-Jul-2022,SO-350738,INV-350734,Customer Square 3,B0GghkhJR2r355EGUXrvEm7kuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+318,Airport,Square,62920223,Populis Reversee 2021 750ml,09-Jul-2022,SO-350679,INV-350675,Customer Square 1,B694csSSEWIuSXnAQNjNxlPMuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+258,Airport,Square,47995855239,American Spirit Orange,08-Jul-2022,SO-350078,INV-350074,Customer Square 1,B6dEUHPRNJMFqPmmZbB6uGBTvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+888,Airport,Square,96749312504,Kentucky Deluxe 200ml,08-Jul-2022,SO-350138,INV-350134,Customer Square 1,B6jj8IZ7fPspir92R1lZTzZmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1223,Airport,Square,690271800104,Golden Bay Reds,07-Jul-2022,SO-349752,INV-349748,Customer Square 1,BAmXe4LvZTEYMzZ6aoBeiHwPuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+506,Airport,Square,83664869220,Reyka 50ml,08-Jul-2022,SO-350277,INV-350273,Customer Square 1,BEsrpvsENIVNJMaBSnDiUjslvaB,SHIPPED,1.0,DEFAULT Carrier,,6,6,6,6,False
+3755,Pleasant Valley,Square,8421478770158,Raventos De Nit Rose 750ml,09-Jul-2022,SO-350439,INV-350435,Customer Square 2,BG7CrinzWnV4s8Q1FCkzWM8yuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2461,Oak Hill,Square,853396007180,Kings County Bourbon 750ml,08-Jul-2022,SO-349998,INV-349994,Customer Square 3,BKbJ38odsHg72suPVngfzpTJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1630,Airport,Square,860272001446,Long Drink Traditional 6/12 Cans,09-Jul-2022,SO-350800,INV-350796,Customer Square 1,Ba1cI6i4n9iSJXG2y6kJNRjMvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+670,Airport,Square,88004000066,Taaka 200ml,07-Jul-2022,SO-349700,INV-349696,Customer Square 1,BcoRcVwctu9A2ShjkuBjLamCwaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1324,Airport,Square,7503027709091,Nixta Licor De Elote 750ml,07-Jul-2022,SO-349701,INV-349697,Customer Square 1,BguF3sVtY5HFJDSAJcuuwPoKuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2318,Oak Hill,Square,736040537274,Barrell Bourbon Store Pick 750ml,08-Jul-2022,SO-349921,INV-349917,Customer Square 3,BkKkiBTdwrQts0s8zvO6wzkFuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3446,Pleasant Valley,Square,619947000020,Titos Vodka 750ml,09-Jul-2022,SO-350744,INV-350740,Customer Square 2,Bsc1pQSDYwOSGsdULvh9TQY1uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2920,Pleasant Valley,Square,83089524001,Jagermeister 750ml,08-Jul-2022,SO-350244,INV-350240,Customer Square 2,ByLVc9ZmRv5mCgPlPANkb48LuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1893,Oak Hill,Square,80660956886,Corona 4-pack 16oz,09-Jul-2022,SO-350590,INV-350586,Customer Square 3,Byf9X1WKYFUGnZdRV4povycLvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3831,Pleasant Valley,Square,850047003003,Angels Envy Bourbon 750ml,09-Jul-2022,SO-350764,INV-350760,Customer Square 2,D9mujXjOVqYypHRW3AXUIz8kvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1250,Airport,Square,711629001100,El Dorado 5y 1L,08-Jul-2022,SO-349939,INV-349935,Customer Square 1,DBmTgmoTXYUTwRXWduEagW0uvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2196,Oak Hill,Square,182972000025,Clement Creole Shrubb 750ml,08-Jul-2022,SO-350043,INV-350039,Customer Square 3,DF2MvxeOpPrtUPxfwDnpKQYRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2495,Oak Hill,Square,856724006114,Casamigos Blanco 750ml,08-Jul-2022,SO-350098,INV-350094,Customer Square 3,DHTcMFlX0m7cV0QkVOgD3cYauaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2151,Oak Hill,Square,96749908516,Lunazul Blanco 50ml,08-Jul-2022,SO-350001,INV-349997,Customer Square 3,DHl9W6u02aoO8Ghz27fB4zgIuaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+665,Airport,Square,87692832317,Twisted Tea 24oz,09-Jul-2022,SO-350691,INV-350687,Customer Square 1,DLPt6zXVG0NZMSJIz12GPo53uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2488,Oak Hill,Square,856065002400,Deep Eddy Lemon 50ml,07-Jul-2022,SO-349611,INV-349607,Customer Square 3,DNMbck35IRNDPy2vFvfli39GvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+2641,Pleasant Valley,Square,21296620031,Paul Masson Peach Brandy 200ml,08-Jul-2022,SO-349850,INV-349846,Customer Square 2,DNacjv2v5YpLfEtXUPJN1aFHuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3085,Pleasant Valley,Square,88004000073,Taaka 375ml,11-Jul-2022,SO-350882,INV-350878,Customer Square 2,DPlBZOwsyLTFW9PoW39FMdjjuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3840,Pleasant Valley,Square,850832004000,Alias Pinot Noir 750ml,07-Jul-2022,SO-349678,INV-349674,Customer Square 2,DRQMGPMPAxJb3FOaYu6LEoVZvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2890,Pleasant Valley,Square,80686967613,Cruzan Blackstrap 1L,08-Jul-2022,SO-349904,INV-349900,Customer Square 2,DRSZAxuWHjT2ZZyxHfNWoBWxuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2472,Oak Hill,Square,856065002035,Deep Eddy Vodka 750ml,09-Jul-2022,SO-350647,INV-350643,Customer Square 3,DTD7FLDx8YGNuStoEmM3CtwZuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+679,Airport,Square,88004000073,Taaka 375ml,08-Jul-2022,SO-350081,INV-350077,Customer Square 1,DV2EJ97FJnOFfG9N3BH9pj2BvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3909,Pleasant Valley,Square,856065002301,Deep Eddy Lime 50ml,08-Jul-2022,SO-349909,INV-349905,Customer Square 2,DVWK8XoWRLvLYE8d8fPl5NqEuaB,SHIPPED,1.0,DEFAULT Carrier,,10,10,10,10,False
+3382,Pleasant Valley,Square,195893155033,Slow Luck Non-Alcoholic 750ml,09-Jul-2022,SO-350441,INV-350437,Customer Square 2,DVmgR4rnqLpnJ1BCs1bVSzzIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1311,Airport,Square,744607069601,El Jimador Reposado 375ml,08-Jul-2022,SO-349978,INV-349974,Customer Square 1,DX1Nsis3CutSgLku5eE8fe4CvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2363,Oak Hill,Square,8009720634252,Poggio Anima Nero D'Avola 750ml,09-Jul-2022,SO-350700,INV-350696,Customer Square 3,DZu5EagEFTJjAOj4eYdrEiUkuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3144,Pleasant Valley,Square,88004144708,Fireball 50ml,08-Jul-2022,SO-350051,INV-350047,Customer Square 2,DZuj18uci2mth4n6hRACHpbCvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+2399,Oak Hill,Square,818490010580,Montucky Cold Snacks Cans 6 Pack,08-Jul-2022,SO-350291,INV-350287,Customer Square 3,DbZAHNHdaPY0YKEdN8FxF5KsuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2034,Oak Hill,Square,88004029296,Fireball Party Bucket,08-Jul-2022,SO-350294,INV-350290,Customer Square 3,DjR8q0OpNfX3B5Q6LE4q7SrdvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4016,Pleasant Valley,Square,8710631219031,Bobbys Dry Gin 750ml,08-Jul-2022,SO-349969,INV-349965,Customer Square 2,Djd6cpXvF22OTMQ2O9KrMx1svaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1675,Airport,Square,897114001258,Ancient Peaks Renegade 750ml,09-Jul-2022,SO-350798,INV-350794,Customer Square 1,DjnbUKH087e9MaVLUw3eAnEJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3565,Pleasant Valley,Square,720815930636,Corralejo Blanco 750ml,09-Jul-2022,SO-350566,INV-350562,Customer Square 2,DlKscEOzt5Gdounc87wjrzTbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+658,Airport,Square,87692752318,Twisted Tea Half & Half 24oz,09-Jul-2022,SO-350533,INV-350529,Customer Square 1,Dn1poQAr2Q4tXdYukEcvbkzIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1229,Airport,Square,695521153108,Pierre Ferrand Dry Curacao 1L,08-Jul-2022,SO-350145,INV-350141,Customer Square 1,DpQYlUDCvm1ltCfrfkTdAWJ6taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+889,Airport,Square,96749312504,Kentucky Deluxe 200ml,09-Jul-2022,SO-350390,INV-350386,Customer Square 1,DpUw67eXrojZo89HyH11TDjvvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3440,Pleasant Valley,Square,619947000013,Titos 1L,09-Jul-2022,SO-350598,INV-350594,Customer Square 2,DxE85D7GDGfZGKsiEYQmb8PnvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1071,Airport,Square,3483812150007,Saint Cosme Cotes du Rhone 750ml,07-Jul-2022,SO-349693,INV-349689,Customer Square 1,Dxubiz0nMy2pogm1ydN5dv9fuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3582,Pleasant Valley,Square,721733000029,Patron Silver 750ml,07-Jul-2022,SO-349588,INV-349584,Customer Square 2,F2eAnAYUcrzENUItY9wnrcwCuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+751,Airport,Square,88004144708,Fireball 50ml,09-Jul-2022,SO-350804,INV-350800,Customer Square 1,F87raOmR93P07woGqCnlGOx3uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3951,Pleasant Valley,Square,857932007009,Mr Black Cold Brew 750ml,09-Jul-2022,SO-350656,INV-350652,Customer Square 2,FCY4wp487Cww91DCFBTZGo2JuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3290,Pleasant Valley,Square,96749908509,Lunazul Reposado 50ml,09-Jul-2022,SO-350658,INV-350654,Customer Square 2,FEBUuQDYN7enazkWewDmCe6VvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+835,Airport,Square,9331457,King Lighter,09-Jul-2022,SO-350731,INV-350727,Customer Square 1,FEJmTzTlK830w7t52ASF5S4svaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+792,Airport,Square,88110150563,Hennessy VS 1L,09-Jul-2022,SO-350779,INV-350775,Customer Square 1,FI5NzxSynKady5SGWncBw30euaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3081,Pleasant Valley,Square,88004000066,Taaka 200ml,11-Jul-2022,SO-350855,INV-350851,Customer Square 2,FKebfQs2TOZY5hRJ4yAINH1YuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3573,Pleasant Valley,Square,721059002387,Aperol 1L,09-Jul-2022,SO-350383,INV-350379,Customer Square 2,FM9ggrUX08bVyBrnfzWcwTVFuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3463,Pleasant Valley,Square,619947000051,Titos 375ml,07-Jul-2022,SO-349508,INV-349504,Customer Square 2,FOus0QEQdw0Jipm0DiL0382rvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2827,Pleasant Valley,Square,80432500149,Jameson 375ml,07-Jul-2022,SO-349745,INV-349741,Customer Square 2,FQdJrgdOrglSyUwklJotTSg9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1495,Airport,Square,850013382170,Ranch Rider Ranch Water Jalapeno 12oz 4pk,08-Jul-2022,SO-349937,INV-349933,Customer Square 1,FSkaSygC6XRw8DCWXN5zsd8FuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+942,Airport,Square,97985153739,Lustau Brandy De Jerez 750ml,08-Jul-2022,SO-349946,INV-349942,Customer Square 1,FURUM4XYzlbgeUM96r4431FwuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3693,Pleasant Valley,Square,8057438300068,Domus Picta Treviso Prosecco 750ml,07-Jul-2022,SO-349740,INV-349736,Customer Square 2,FUnTEDHJ65KZ3b1XsiT6hRdpvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1961,Oak Hill,Square,85000029626,New Amsterdam Pink Whitney 750ml,11-Jul-2022,SO-351213,INV-351209,Customer Square 3,FYRPeMSLdLgw3LOAH9i2rWe9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2873,Pleasant Valley,Square,80686001409,Jim Beam 750ml,08-Jul-2022,SO-350124,INV-350120,Customer Square 2,FYZn8uuzFRtdmBgVbg1QxwKJuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3986,Pleasant Valley,Square,860272001477,Long Drink Strong 6/12 Cans,09-Jul-2022,SO-350561,INV-350557,Customer Square 2,Faud8ryKLeem1aenNbEU8vWmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2240,Oak Hill,Square,619947000037,Titos Vodka 1.75L,11-Jul-2022,SO-350902,INV-350898,Customer Square 3,FeYPHtEanbY43Swz2LQdeuASvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+97,Airport,Square,21296006019,Paul Masson Brandy 750ml,08-Jul-2022,SO-350288,INV-350284,Customer Square 1,FgNvYyrhuTrILmYQXkWZ4dlHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3251,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,08-Jul-2022,SO-349907,INV-349903,Customer Square 2,FmmeY1JitzVIOwUWnd0khRcquaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3279,Pleasant Valley,Square,96749908028,Lunazul Blanco 1L,08-Jul-2022,SO-350061,INV-350057,Customer Square 2,Fuasn1seKtEShefMgOEJ6SUCvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2578,Pleasant Valley,Square,850030152077,DEHY Blood Orange Fine Cut Garnishes,09-Jul-2022,SO-350515,INV-350511,Customer Square 2,FwP4WmjF6O5Nu5ah6kFWeWimvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3924,Pleasant Valley,Square,856065002417,Deep Eddy Lemon 750ml,09-Jul-2022,SO-350745,INV-350741,Customer Square 2,FwVjiC50dTX5SIH7ItRH880OuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+688,Airport,Square,88004022686,Wheatley 1L,09-Jul-2022,SO-350781,INV-350777,Customer Square 1,FySHf77zVyvHsEAT5Sg7jp8VuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+370,Airport,Square,73360186615,Lone Star Bottles 6 Pack,07-Jul-2022,SO-349711,INV-349707,Customer Square 1,H3GWg0NlH6WD4xYDC4qW5sc1vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+671,Airport,Square,88004000066,Taaka 200ml,08-Jul-2022,SO-350200,INV-350196,Customer Square 1,H3gzocZ3BW3p3x6uu3c5zjtFvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1489,Airport,Square,850013382019,Ranch Rider Tequila Paloma 12oz 4pk,08-Jul-2022,SO-350209,INV-350205,Customer Square 1,H5H8rGI8zjjO4bCqyYUQr1HrvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2254,Oak Hill,Square,635985548904,White Claw Variety #1 12pk Cans,09-Jul-2022,SO-350641,INV-350637,Customer Square 3,H7y3YX69hMJMqfYSpv7QtuITvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3543,Pleasant Valley,Square,704228014213,Arette Reposado 1L,09-Jul-2022,SO-350657,INV-350653,Customer Square 2,H9RAne1CXgY7HtmqRbLyRbw8uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1612,Airport,Square,859026001221,La Gritona Reposado 750ml,08-Jul-2022,SO-350068,INV-350064,Customer Square 1,H9VWvlxSH6FjWYsofZgSjqPnvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+606,Airport,Square,86208390754,Monopolowa Vodka 200ml,07-Jul-2022,SO-349627,INV-349623,Customer Square 1,H9x2ycgtCp87e5etV7tMIvRPuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2534,Oak Hill,Square,867615000418,Volans Blanco 750ml,07-Jul-2022,SO-349800,INV-349796,Customer Square 3,HBFL0SMiVA9zCXs0cf5GsPUtvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2981,Pleasant Valley,Square,85000019498,New Amsterdam Vodka 750ml,09-Jul-2022,SO-350381,INV-350377,Customer Square 2,HDe1RtUKIW7VA7iUPin6UmOUvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1064,Airport,Square,21351,Il Baffone Pet Nat 750ml,08-Jul-2022,SO-350195,INV-350191,Customer Square 1,HFhyBKGNJKdqnS2bz8JFjSwgvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2273,Oak Hill,Square,680203010374,Old Bardstown Bourbon 750ml,11-Jul-2022,SO-351225,INV-351221,Customer Square 3,HLaNXhaZDXcQAx1vagC7B1kYuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1177,Airport,Square,635985548904,White Claw Variety #1 12pk Cans,09-Jul-2022,SO-350411,INV-350407,Customer Square 1,HLuV6XCQJPPvCDGW0I5QH9mGvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3161,Pleasant Valley,Square,88004146689,Fireball 750ml,08-Jul-2022,SO-350241,INV-350237,Customer Square 2,HNTTolxqwrtbeeniaFuKUmdmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3731,Pleasant Valley,Square,816136022980,Madre Mezcal 750ml,07-Jul-2022,SO-349511,INV-349507,Customer Square 2,HTSZ4T3YylPT28PYwyT7mTqhvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1421,Airport,Square,813198701877,Knuttel Family RR Chardonnay 750mL,08-Jul-2022,SO-350144,INV-350140,Customer Square 1,HVh4o9V0h1ttIETncQWJp4VduaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2278,Oak Hill,Square,698450753463,Socorro Blanco 750ml,11-Jul-2022,SO-351230,INV-351226,Customer Square 3,HXOq6dYp2AEtn5BzoBmh4fxYvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4006,Pleasant Valley,Square,866634000393,Oh Well Vodka 1L,08-Jul-2022,SO-350062,INV-350058,Customer Square 2,HXg9zlTZmw75LFErOxs4Ouc3vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2317,Oak Hill,Square,736040012887,Hpnotiq 1L,11-Jul-2022,SO-351221,INV-351217,Customer Square 3,HZHYPZDYDCT79YeNRJbKiKu5uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+637,Airport,Square,87000005525,Bulleit Bourbon 750ml,07-Jul-2022,SO-349791,INV-349787,Customer Square 1,HlX7UKQzudYyiRyv0NItODCTvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1166,Airport,Square,630832614443,Real Ale Hans Pils Cans 6 Pack,08-Jul-2022,SO-350031,INV-350027,Customer Square 1,HreNWLcHFC7h6UjUvhyATrYKvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+407,Airport,Square,80432106853,Olmeca Altos Reposado 750ml,07-Jul-2022,SO-349577,INV-349573,Customer Square 1,Hrg6wffuzh3fip37WFFtzv2mvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1599,Airport,Square,856847004509,Mezcal Vago Espadin Joel Barriga 750ml,07-Jul-2022,SO-349670,INV-349666,Customer Square 1,HrgO2XUujjXIiKIPsMRopvoHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+492,Airport,Square,81753833916,Whispering Angel 750ml,09-Jul-2022,SO-350492,INV-350488,Customer Square 1,HvQjzsRx5L46GsvAewyiz5ICwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3160,Pleasant Valley,Square,88004146689,Fireball 750ml,07-Jul-2022,SO-349738,INV-349734,Customer Square 2,J2nr68OiPM1f4mGzp5pFolGDvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2140,Oak Hill,Square,96749312603,Kentucky Deluxe 375ml,11-Jul-2022,SO-351211,INV-351207,Customer Square 3,J2vtjr9V0hnea12OF3YCoEMovaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1627,Airport,Square,860272001439,Long Drink Zero 6/12oz Cans,07-Jul-2022,SO-349671,INV-349667,Customer Square 1,J6vm8hZvVoeFkGfluxSl1O01uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+107,Airport,Square,21296006064,Paul Masson Brandy 375ml,07-Jul-2022,SO-349748,INV-349744,Customer Square 1,JAwXnwEbbOdb2TDig6XzFb36taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+672,Airport,Square,88004000066,Taaka 200ml,09-Jul-2022,SO-350355,INV-350351,Customer Square 1,JC7I16ppIQgKAb2gIZ8pgjGQvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3686,Pleasant Valley,Square,804879598008,Friend and Farmer White Blend 750ml,07-Jul-2022,SO-349778,INV-349774,Customer Square 2,JGFYRHqrXcX46WYUcLmstTrqvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3266,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,09-Jul-2022,SO-350766,INV-350762,Customer Square 2,JICaPvv2xTupWhX85dwLOUhqvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1900,Oak Hill,Square,80686001607,Jim Beam 375ml,07-Jul-2022,SO-349713,INV-349709,Customer Square 3,JIGecPMevo1K0VTQ6cibu5LouaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3678,Pleasant Valley,Square,8032692480206,Lunaria Ramoro Pinot Grigio Terre di Chieti 750mL,08-Jul-2022,SO-350230,INV-350226,Customer Square 2,JK7O3bkiCEwkWOvwT4zw21qxvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1906,Oak Hill,Square,80686436201,Old Overholt Rye 1L,09-Jul-2022,SO-350503,INV-350499,Customer Square 3,JKRVRV6eO4UMJO3OexWIKKY8taB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3450,Pleasant Valley,Square,619947000037,Titos Vodka 1.75L,07-Jul-2022,SO-349621,INV-349617,Customer Square 2,JKVzlSTkudhXutiQjEynWOIFvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+951,Airport,Square,1234500000019,Bag Ice 20LB,07-Jul-2022,SO-349576,INV-349572,Customer Square 1,JKdb7EjeLh9YL21LEbaS38TpvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1575,Airport,Square,855439000691,Lime Margarita Salt Rimmer,08-Jul-2022,SO-349943,INV-349939,Customer Square 1,JM0qvNXRHr8aHLjAcE1yjMJVuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1543,Airport,Square,852895003006,Austin Beerworks Fire Eagle Cans 6 Pack,07-Jul-2022,SO-349597,INV-349593,Customer Square 1,JOR2mD027trx3NEsFscr0rY9taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1445,Airport,Square,836137000275,Leopold Brothers BIB 750ml,08-Jul-2022,SO-349940,INV-349936,Customer Square 1,JQ2gmfh9a4R5Y6fESaswLbX8uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3441,Pleasant Valley,Square,619947000013,Titos 1L,11-Jul-2022,SO-350888,INV-350884,Customer Square 2,JQ8PiurrPBFd1iMRmwqO6X7CvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1946,Oak Hill,Square,83664874811,Hendricks Neptunia 750ml,08-Jul-2022,SO-350297,INV-350293,Customer Square 3,JSryIgoKAQeiPjMm3AnQ4u7cvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3980,Pleasant Valley,Square,860272001446,Long Drink Traditional 6/12 Cans,09-Jul-2022,SO-350336,INV-350332,Customer Square 2,JUcqqtQwt0ECHT00GjkoUMBwuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3592,Pleasant Valley,Square,736040012887,Hpnotiq 1L,07-Jul-2022,SO-349735,INV-349731,Customer Square 2,JY6iHlcFmI9GPdkmpC3FQNHzuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2012,Oak Hill,Square,8727707,Captain Morgan 375ml,09-Jul-2022,SO-350695,INV-350691,Customer Square 3,JYuIdjZwcCk4JOBhnMYXiUcAwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3525,Pleasant Valley,Square,698450753463,Socorro Blanco 750ml,07-Jul-2022,SO-349732,INV-349728,Customer Square 2,Jex0r3Jf8Eu7SBibvLy4iBY5vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3562,Pleasant Valley,Square,718783000031,Cascahuin 48 750ml,07-Jul-2022,SO-349683,INV-349679,Customer Square 2,JgcNRBFSe3EmULNEUxV5CZJIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2161,Oak Hill,Square,96749941001,Bernheim Wheat Whiskey 750ml,08-Jul-2022,SO-350092,INV-350088,Customer Square 3,JkOpdQM3csu1G36Ab73FkzeRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+483,Airport,Square,80686835066,Sauza Hornitos Reposado 200ml,09-Jul-2022,SO-350803,INV-350799,Customer Square 1,Jmf32LEMn3MFzvKJDi7wcMc8uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1078,Airport,Square,3760252841307,Jose Dhondt Brut BdB 750ml,08-Jul-2022,SO-350035,INV-350031,Customer Square 1,JoqUS9TgKS9wfyYYwWrtj5oHvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3246,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,07-Jul-2022,SO-349512,INV-349508,Customer Square 2,JqPEng9uMLbwFGtIUZKnUF7lvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2642,Pleasant Valley,Square,21296620031,Paul Masson Peach Brandy 200ml,08-Jul-2022,SO-349851,INV-349847,Customer Square 2,Jqt1kWR6KElzQ8HadQYvgK2YuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3566,Pleasant Valley,Square,721059000604,Wray and Nephew Overproof 1L,08-Jul-2022,SO-350177,INV-350173,Customer Square 2,JylL09WhhZXcjTzhJ9jQmKuOuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2908,Pleasant Valley,Square,82000752967,Bulleit Rye 750ml,09-Jul-2022,SO-350559,INV-350555,Customer Square 2,L7dDZUNSgmKufgG9aziBI2neuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+785,Airport,Square,88110150525,Hennessy VS 200ml,09-Jul-2022,SO-350794,INV-350790,Customer Square 1,L9KTmEJBd7EyLb2QNSL6AjD5vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3281,Pleasant Valley,Square,96749908028,Lunazul Blanco 1L,09-Jul-2022,SO-350603,INV-350599,Customer Square 2,LBg9Woz8XoEq1otr6s8aYN0PuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2424,Oak Hill,Square,850013382019,Ranch Rider Tequila Paloma 12oz 4pk,08-Jul-2022,SO-350154,INV-350150,Customer Square 3,LDBJGT2cg4RQNfllNX6sg117taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1966,Oak Hill,Square,85000032558,High Noon Tropical Pack 8/12oz,09-Jul-2022,SO-350427,INV-350423,Customer Square 3,LHRgKDlrgGzx8Z9JptwwUZchvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+236,Airport,Square,38900009144,Dole Pineapple Juice 6oz,08-Jul-2022,SO-349990,INV-349986,Customer Square 1,LLJpXav5J798z6yWZEFz3FmDvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+620,Airport,Square,86208390778,Monopolowa Vodka 750ml,07-Jul-2022,SO-349707,INV-349703,Customer Square 1,LPzxD7LTTGMjBKA5LWuJUa8DvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3189,Pleasant Valley,Square,88352109985,Juarez Triple Sec 30 Proof 1L,08-Jul-2022,SO-349906,INV-349902,Customer Square 2,LRkzyYZXHr9cnvkAjUuBy1IRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+526,Airport,Square,83783222005,Sierra Nevada Pale Ale Cans 12 Pack,09-Jul-2022,SO-350768,INV-350764,Customer Square 1,LRo7xqVYbDmPRt1oJrTPZgT0vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2133,Oak Hill,Square,96749312504,Kentucky Deluxe 200ml,07-Jul-2022,SO-349768,INV-349764,Customer Square 3,LTRpKAhPdA78ss1XYSSwAimJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+303,Airport,Square,52300001430,Schlitz High Gravity 24oz,07-Jul-2022,SO-349563,INV-349559,Customer Square 1,LTXipafanWOFSpooSOPYOpe9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3712,Pleasant Valley,Square,811538014137,Gran Centenario Plata 750ml,07-Jul-2022,SO-349660,INV-349656,Customer Square 2,LVGTA5S6OLT7EJbVYaHrLwJyvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1533,Airport,Square,852657007143,Castle and Key Vodka 750ml,07-Jul-2022,SO-349604,INV-349600,Customer Square 1,LVoouZDauZubuS4Der8GyCS9vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2505,Oak Hill,Square,858666003046,Esporao Monte Velho White 750ml,07-Jul-2022,SO-349536,INV-349532,Customer Square 3,LX1GgYNrm5R6zLudUFD0TzxwvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3503,Pleasant Valley,Square,650293000012,Paul Cluver Sauvignon Blanc 750ml,09-Jul-2022,SO-350746,INV-350742,Customer Square 2,LZC6nQhs75dA46OdtLaKn0v4taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3466,Pleasant Valley,Square,619947000051,Titos 375ml,09-Jul-2022,SO-350707,INV-350703,Customer Square 2,LZu6CZiFU2nlu02rrBHs3j0cuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3076,Pleasant Valley,Square,88004000066,Taaka 200ml,07-Jul-2022,SO-349774,INV-349770,Customer Square 2,Ld6ZVAmyau07UqhUVQWuRUQbvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3064,Pleasant Valley,Square,87236565008,Cointreau 1L,09-Jul-2022,SO-350595,INV-350591,Customer Square 2,LdORku9l3EPELUMysERTumwjuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3405,Pleasant Valley,Square,4976881520592,Iwai Tradition 750ml,08-Jul-2022,SO-350169,INV-350165,Customer Square 2,Ldm9IcdMN79XBHddIvx2DsmguaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1668,Airport,Square,887341340060,Aperol 375ml,08-Jul-2022,SO-350077,INV-350073,Customer Square 1,Lf5WKXchFZP3ChxJjWKxMRrYvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2832,Pleasant Valley,Square,80432500170,Jameson 750ml,08-Jul-2022,SO-350013,INV-350009,Customer Square 2,LfndE4cFdvJAyHkzVqHWXPc3uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3630,Pleasant Valley,Square,7503018755007,Derrumbes Oaxaca Espadin Tobala 750ml,09-Jul-2022,SO-350511,INV-350507,Customer Square 2,LhIvj7GurwcHqDNTfmrET76AwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1962,Oak Hill,Square,85000031513,High Noon Variety Pack 8/12oz,08-Jul-2022,SO-350296,INV-350292,Customer Square 3,LhmwEpHaLmTxjUJzxWH00ViOuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+550,Airport,Square,85000022306,New Amsterdam Pineapple 375ml,08-Jul-2022,SO-350072,INV-350068,Customer Square 1,Lj76cBJFCRQzvoABKtTDnz0dvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3428,Pleasant Valley,Square,613739981528,Raicilla Bonete Sierra 750ml,08-Jul-2022,SO-350120,INV-350116,Customer Square 2,LjlLwATFw1UND3Xyja19iuZ9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3557,Pleasant Valley,Square,713382533683,Field Recordings Chenin 750ml,11-Jul-2022,SO-350909,INV-350905,Customer Square 2,Ll6lKf032BpXy0aBYo1ZMHxtvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+798,Airport,Square,88110955335,Buchanans 12y 375ml,09-Jul-2022,SO-350735,INV-350731,Customer Square 1,LlwUQft3Q7uvDihFqvO8K14kvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2464,Oak Hill,Square,854141006731,Untitled Art Black Forest Cake Stout 4pk,08-Jul-2022,SO-350224,INV-350220,Customer Square 3,Lrnam9U4LY9IXys1HZHzkGLovaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3262,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,07-Jul-2022,SO-349772,INV-349768,Customer Square 2,LxCgTJO1ewvEiqag0WA15lWmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2564,Oak Hill,Square,899711000207,Roger Groult Calvados 18yr 750ml,08-Jul-2022,SO-350227,INV-350223,Customer Square 3,LxwTRtiKy33f8iEwfA4dgqIxvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3670,Pleasant Valley,Square,8007117010108,Cocchi Di Torino 750ml,08-Jul-2022,SO-350117,INV-350113,Customer Square 2,LzLAbwTGXDU2cEicYdZDAIaJvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1826,Oak Hill,Square,72311630122,Dos Equis Bottles 6 Pack,08-Jul-2022,SO-350298,INV-350294,Customer Square 3,N2M0lWro6u4BX5QRTKDaF9t6taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+608,Airport,Square,86208390754,Monopolowa Vodka 200ml,08-Jul-2022,SO-350142,INV-350138,Customer Square 1,N4Rm5AlpymVUtenzaptR2Q9LvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3167,Pleasant Valley,Square,88100915615,Monopolowa Vodka 1L,09-Jul-2022,SO-350404,INV-350400,Customer Square 2,N8rE2aTG0dPLrSRMvrG0oK4FvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4029,Pleasant Valley,Square,898185001666,Treaty Oak Waterloo No. 9 1L,08-Jul-2022,SO-350192,INV-350188,Customer Square 2,NAzLapu5UdeJJ5KxcLAerlOduaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2484,Oak Hill,Square,856065002301,Deep Eddy Lime 50ml,11-Jul-2022,SO-351214,INV-351210,Customer Square 3,NETspMUO6ZK6pyhja0IphsBNvaB,SHIPPED,1.0,DEFAULT Carrier,,6,6,6,6,False
+2539,Oak Hill,Square,868781000011,Blue Owl Spirit Animal Cans 6 Pack,08-Jul-2022,SO-349865,INV-349861,Customer Square 3,NG6bHK5YeKVo4sTzCNHfwD8rvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+22,Airport,Square,18200008337,Bud Light Bottles 6 Pack,08-Jul-2022,SO-350221,INV-350217,Customer Square 1,NILZesZYo4K0SRVmLz4iMiVgvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3217,Pleasant Valley,Square,94922545763,Dripping Springs Vodka 750ml,07-Jul-2022,SO-349619,INV-349615,Customer Square 2,NM1dq2F2PfQTLl0Sz8OcXwaruaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1945,Oak Hill,Square,83664872541,Monkey Shoulder 750ml,11-Jul-2022,SO-351210,INV-351206,Customer Square 3,NMbSJfAvnlNccu3Ec6H8TdDEuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3017,Pleasant Valley,Square,8567507,New Amsterdam Pink Whitney 50ml,07-Jul-2022,SO-349561,INV-349557,Customer Square 2,NMhbKEVUMHdJa9slcUT2vD7avaB,SHIPPED,1.0,DEFAULT Carrier,,15,15,15,15,False
+495,Airport,Square,82000771555,Crown Apple 375ml,08-Jul-2022,SO-350038,INV-350034,Customer Square 1,NQR6ANVAt6YJi1qWM1FVyOuvvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1276,Airport,Square,721733000944,Patron Silver 375ml,09-Jul-2022,SO-350678,INV-350674,Customer Square 1,NQRgL9LaFX3vf96kgME1q0YmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3494,Pleasant Valley,Square,636665074850,Southold Forgotten Dreams 750ml,08-Jul-2022,SO-350064,INV-350060,Customer Square 2,NQxKCOLLTEQNfKxDRF6uVDfMuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+410,Airport,Square,80432106983,Olmeca Altos Plata 1L,09-Jul-2022,SO-350621,INV-350617,Customer Square 1,NQzRjPCGGuYDsc6DhQDld0LzvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3249,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,07-Jul-2022,SO-349781,INV-349777,Customer Square 2,NSYnd5Zhddwjjxe4tydDJni4vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3340,Pleasant Valley,Square,1234500000100,Handmade Earrings,11-Jul-2022,SO-350925,INV-350921,Customer Square 2,NamsVfUMAkHYCRtUrmi5EqOCvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3981,Pleasant Valley,Square,860272001446,Long Drink Traditional 6/12 Cans,09-Jul-2022,SO-350437,INV-350433,Customer Square 2,NmyZcUWicPPdIka7p5ubO78GvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2096,Oak Hill,Square,88352126524,Exotico Blanco 1L,11-Jul-2022,SO-351228,INV-351224,Customer Square 3,NsHuKoS3NbIIenpzmFvEu2rtuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+762,Airport,Square,88076162624,Johnnie Walker Green 750ml,09-Jul-2022,SO-350684,INV-350680,Customer Square 1,NstpeEayBQc2MJIEq3ftcM7puaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2124,Oak Hill,Square,96749021178,Evan Williams Bonded 175L,08-Jul-2022,SO-349953,INV-349949,Customer Square 3,Nuc44Dg4LOktm9Lm8sCjXaqWuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3020,Pleasant Valley,Square,8588005,New Amsterdam Vodka 50ml,08-Jul-2022,SO-349890,INV-349886,Customer Square 2,P1nSxQyrEwysGIqKPwAO339FvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+52,Airport,Square,18200250019,Bud light 25oz,09-Jul-2022,SO-350498,INV-350494,Customer Square 1,P3C3Lprqm1Mep2WSw70lEUBXvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1708,Airport,Square,898627001308,Tequila Ocho Plata 750ml,09-Jul-2022,SO-350496,INV-350492,Customer Square 1,P3g6ZBEnjEms4ZxdAwsuDb4AuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3713,Pleasant Valley,Square,811538014137,Gran Centenario Plata 750ml,08-Jul-2022,SO-349852,INV-349848,Customer Square 2,PDEhDm1TgJZ9JqjN75TDoWukuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+272,Airport,Square,49000050158,Sprite 2L,09-Jul-2022,SO-350410,INV-350406,Customer Square 1,PFJ5SSK6gxriVXHDu65QdCQKvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+126,Airport,Square,21296620017,Paul Masson Peach Brandy 375ml,09-Jul-2022,SO-350391,INV-350387,Customer Square 1,PFVLYegSY3h1QnV057O7KoKxuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3264,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,09-Jul-2022,SO-350401,INV-350397,Customer Square 2,PFdHEm4Qblz1KeFpSoPuyVTmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+220,Airport,Square,3421716,Mickeys Can 24oz,07-Jul-2022,SO-349515,INV-349511,Customer Square 1,PFdTUVnnI309tsb7zmfrPDDqvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+961,Airport,Square,1234500000019,Bag Ice 20LB,08-Jul-2022,SO-350076,INV-350072,Customer Square 1,PLSKZYjyZx76YomuLrh51krguaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1525,Airport,Square,852176003671,Faire La Fete Brut 750ml,07-Jul-2022,SO-349628,INV-349624,Customer Square 1,PLWsjjCCpZqvgA8WDmcZTb0uuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1391,Airport,Square,811538010832,Jose Cuervo Gold 750ml,09-Jul-2022,SO-350793,INV-350789,Customer Square 1,PPUiZa1ZkKFyT02LxOzs1G0JuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+943,Airport,Square,97985157287,Lustau Vermut Blanco 750ml,07-Jul-2022,SO-349789,INV-349785,Customer Square 1,PZRyv8FJUnE5qxSuZw7u3hRMvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+749,Airport,Square,88004144708,Fireball 50ml,09-Jul-2022,SO-350544,INV-350540,Customer Square 1,PfksYKok3dxwXKxOWYdBsyobvaB,SHIPPED,1.0,DEFAULT Carrier,,5,5,5,5,False
+1164,Airport,Square,630832505307,Real Ale Rotating Gose Cans 6 Pack,08-Jul-2022,SO-350071,INV-350067,Customer Square 1,Ph5mgIDrzmdo49qOw9fW9eyYuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+784,Airport,Square,88110150525,Hennessy VS 200ml,09-Jul-2022,SO-350785,INV-350781,Customer Square 1,Pl3o2EUnMVq8V4qYueEV3BABwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+519,Airport,Square,83664872466,Tullamore Dew 750ml,08-Jul-2022,SO-350275,INV-350271,Customer Square 1,PldTS0sHN6IbFUmDr0iQuhCkvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+577,Airport,Square,8557801,New Amsterdam Peach 50ml,07-Jul-2022,SO-349600,INV-349596,Customer Square 1,Pp1q6tm8IwkiRenX5xJuFfuHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+557,Airport,Square,85000030912,New Amsterdam Watermelon 375ml,09-Jul-2022,SO-350774,INV-350770,Customer Square 1,PpV2SgpIVpXum1nHwd5vmO5EvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2875,Pleasant Valley,Square,80686001607,Jim Beam 375ml,09-Jul-2022,SO-350703,INV-350699,Customer Square 2,PrSm3eZpBExsi0Zt6rdrtbN0vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1209,Airport,Square,674545000414,Don Julio Reposado 750ml,09-Jul-2022,SO-350795,INV-350791,Customer Square 1,PreEruJShQi4zDOEFlAcQRQWvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3091,Pleasant Valley,Square,88004011543,Taaka 750ml,08-Jul-2022,SO-349902,INV-349898,Customer Square 2,PtdXdse1CTEHyHbyf6b2W7WruaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3181,Pleasant Valley,Square,88110150556,Hennessy VS 750ml,09-Jul-2022,SO-350717,INV-350713,Customer Square 2,PtzQIQpoTi7oOEOVd4k3jURvuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1965,Oak Hill,Square,85000032541,New Amsterdam Pink Whitney 375ml,12-Jul-2022,SO-351218,INV-351214,Customer Square 3,PvyR7b4isPhHHfVn8AlhhDaZuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+923,Airport,Square,96749908516,Lunazul Blanco 50ml,08-Jul-2022,SO-350085,INV-350081,Customer Square 1,PxPtqzgygZ4mzkd3LT6aYg0pvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+1431,Airport,Square,818490010580,Montucky Cold Snacks Cans 6 Pack,09-Jul-2022,SO-350460,INV-350456,Customer Square 1,PxzvalDMncoVU4svx5qnNxcVvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+643,Airport,Square,87000007604,Crown Royal 375ml,09-Jul-2022,SO-350771,INV-350767,Customer Square 1,Pzc3EjscfEyyeTzv9VmSvcXzuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2232,Oak Hill,Square,619947000020,Titos Vodka 750ml,08-Jul-2022,SO-350095,INV-350091,Customer Square 3,R0qs5KttVjFrvfNHJ1AZPDL6vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1590,Airport,Square,856803003010,Better Half Sauvignon Blanc 750ml,07-Jul-2022,SO-349638,INV-349634,Customer Square 1,R4kauaajif42xAb8Mi01LVcivaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+108,Airport,Square,21296006064,Paul Masson Brandy 375ml,08-Jul-2022,SO-350029,INV-350025,Customer Square 1,RCThBpDlHg51EqkO6XQxvMYcvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3040,Pleasant Valley,Square,86208390778,Monopolowa Vodka 750ml,08-Jul-2022,SO-349974,INV-349970,Customer Square 2,RKDxggmrrzo0lEknS1DWPcgCvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1619,Airport,Square,860004266419,Quadrum Rose Box 3L,08-Jul-2022,SO-350194,INV-350190,Customer Square 1,RKNGKhEUJyVERLmCvSeqABEivaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2281,Oak Hill,Square,700697229721,Liber & Co Grenadine 17oz,09-Jul-2022,SO-350811,INV-350807,Customer Square 3,RKlugHzlmCIr9MQYpRk5KKsevaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3843,Pleasant Valley,Square,851088007180,Still Austin Straight Bourbon 750ml,09-Jul-2022,SO-350660,INV-350656,Customer Square 2,RSzD6egeqzkztska1LlisyKivaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2244,Oak Hill,Square,619947000044,Titos Vodka 200ml,12-Jul-2022,SO-351224,INV-351220,Customer Square 3,RU8jG3NDzqE6hDxwnNBh5i7muaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3504,Pleasant Valley,Square,652080000083,Plymouth Gin 750ml,08-Jul-2022,SO-350174,INV-350170,Customer Square 2,RUAhgDUllo3o2NWK9yKSk4qmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+558,Airport,Square,85000032541,New Amsterdam Pink Whitney 375ml,08-Jul-2022,SO-350075,INV-350071,Customer Square 1,Ra58CGDnlzVivALNBdrSgnm7uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1608,Airport,Square,858764003122,Smoke Wagon Straight Bourbon 750ml,08-Jul-2022,SO-349910,INV-349906,Customer Square 1,Rax4ELjwaxaEpVSIjNh8SHUAvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2898,Pleasant Valley,Square,81240050376,Casa Noble Crystal 750ml,07-Jul-2022,SO-349728,INV-349724,Customer Square 2,ReBLq9cWu0so6XwbcZ04anlHvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1943,Oak Hill,Square,83664872459,Tullamore Dew 50ml,12-Jul-2022,SO-351205,INV-351201,Customer Square 3,RgSzGHq1TOAb39tRTn99DdZWuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2913,Pleasant Valley,Square,82184087008,Jack Daniels Single Barrel Select 750ml,09-Jul-2022,SO-350482,INV-350478,Customer Square 2,Ri9a7pMOEs3kPvmhSF8kVc7nvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1321,Airport,Square,7503018107066,Rey Campero Tepextate 750ml,08-Jul-2022,SO-350269,INV-350265,Customer Square 1,RkyYLUO9akHuHwqcbXYVukh9vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1720,Oak Hill,Square,513073010,Hamilton Pot Still Black 1L,08-Jul-2022,SO-350226,INV-350222,Customer Square 3,Ro6hmYiT7OcNGa2uMwgHqM1AuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+544,Airport,Square,85000019498,New Amsterdam Vodka 750ml,09-Jul-2022,SO-350570,INV-350566,Customer Square 1,RoCjjJ7Bta3X0qB5XSydV4wuuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3797,Pleasant Valley,Square,850013382002,Ranch Rider Ranch Water 12oz 4pk,08-Jul-2022,SO-350103,INV-350099,Customer Square 2,RomBtnhzkiubaNu7DhGJLpWhvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3145,Pleasant Valley,Square,88004144708,Fireball 50ml,08-Jul-2022,SO-350052,INV-350048,Customer Square 2,RqNC8blUrREQsdfDke1bsuqqvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3703,Pleasant Valley,Square,811041030013,Lalo Blanco 750ml,11-Jul-2022,SO-350881,INV-350877,Customer Square 2,RqRiDn14tQPG0NK5KrM8jTAWuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+57,Airport,Square,18200250033,Busch 25oz,07-Jul-2022,SO-349747,INV-349743,Customer Square 1,Rs4N7l748aqOFwvkGbY7eTymvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3593,Pleasant Valley,Square,736040012887,Hpnotiq 1L,08-Jul-2022,SO-350235,INV-350231,Customer Square 2,Rw2JoOQG16TKphvt28Lql4rzvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3016,Pleasant Valley,Square,8567507,New Amsterdam Pink Whitney 50ml,07-Jul-2022,SO-349555,INV-349551,Customer Square 2,Rwoozk92cfFwziCy4QjzCU7fvaB,SHIPPED,1.0,DEFAULT Carrier,,5,5,5,5,False
+480,Airport,Square,80686187110,Kilbeggan Blended 80 Proof 750ml,08-Jul-2022,SO-350283,INV-350279,Customer Square 1,T50IdyEMbqAHWaab3FT2c4F4vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2736,Pleasant Valley,Square,51497071011,Pinthouse Electric Jellyfish 4pk 16oz Cans,09-Jul-2022,SO-350611,INV-350607,Customer Square 2,T5e9vp5bgUMSYgpGU1uKUagSvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+578,Airport,Square,8557801,New Amsterdam Peach 50ml,09-Jul-2022,SO-350420,INV-350416,Customer Square 1,T5omJp3Dl4wliPpZN075aQlDvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+2980,Pleasant Valley,Square,85000019498,New Amsterdam Vodka 750ml,08-Jul-2022,SO-350019,INV-350015,Customer Square 2,T7flJE5kmgKTaGEsHSenDrcCuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2114,Oak Hill,Square,94922658159,Dripping Springs Vodka 1.75L,08-Jul-2022,SO-349951,INV-349947,Customer Square 3,T7tstYWevhSwuxaVQTJ9j73dvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+895,Airport,Square,96749312603,Kentucky Deluxe 375ml,09-Jul-2022,SO-350422,INV-350418,Customer Square 1,T9KAybd0Coe2L2Mj2GxcTmwAvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3749,Pleasant Valley,Square,8412766200891,Cuvee 23 Cava 750mL,07-Jul-2022,SO-349741,INV-349737,Customer Square 2,T9auFrJoV6ZtpbvcHRKgdoQIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+855,Airport,Square,96749001361,Lunazul Blanco 375ml,09-Jul-2022,SO-350571,INV-350567,Customer Square 1,TBuH5zQMzBMQk5cCr0K3JlwwvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+874,Airport,Square,96749021840,Evan Williams Black 50ml,08-Jul-2022,SO-350287,INV-350283,Customer Square 1,TBwY38zyejmnPVbT8TD2drE5taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+967,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350527,INV-350523,Customer Square 1,TFAj1Y894VkHLxJHVIzNSPPcvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+746,Airport,Square,88004144708,Fireball 50ml,09-Jul-2022,SO-350451,INV-350447,Customer Square 1,THdT8dzzRTGEVivkauUROdeWvaB,SHIPPED,1.0,DEFAULT Carrier,,6,6,6,6,False
+1403,Airport,Square,811538014236,Gran Centenario Reposado 750ml,09-Jul-2022,SO-350454,INV-350450,Customer Square 1,TJ2nkRSn2GiQNadilARHtDc8uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1964,Oak Hill,Square,85000032541,New Amsterdam Pink Whitney 375ml,11-Jul-2022,SO-350917,INV-350913,Customer Square 3,TLJiJnAFmPhmCqZtihizCtJDuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3399,Pleasant Valley,Square,4048,Gluten Free Limes,08-Jul-2022,SO-350119,INV-350115,Customer Square 2,TPJbQQkuAWAbBORD5jbcovMLvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+439,Airport,Square,80480002923,Dusse VSOP 750ml,09-Jul-2022,SO-350690,INV-350686,Customer Square 1,TdIb0XTVqQERtwETUEHqOrwbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3954,Pleasant Valley,Square,858604005064,Eastciders Original Cans 6 Pack,09-Jul-2022,SO-350767,INV-350763,Customer Square 2,Tj33zvivy3PkKLwfo6g7d2y3uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+723,Airport,Square,88004045418,99 Cherry Limeade 50ml,09-Jul-2022,SO-350412,INV-350408,Customer Square 1,Tr50yjiEcDDlbHrS4ThUYiMAuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2977,Pleasant Valley,Square,85000019481,New Amsterdam Vodka 375ml,07-Jul-2022,SO-349542,INV-349538,Customer Square 2,TvbUA2aaXVzl8EXproD0UDrUuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2451,Oak Hill,Square,852895003006,Austin Beerworks Fire Eagle Cans 6 Pack,07-Jul-2022,SO-349676,INV-349672,Customer Square 3,V0bpv4btKxyHfA5WgHVHlgL8uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+94,Airport,Square,19962849930,Friends & Allies Fresh Coast Cans 6 Pack,09-Jul-2022,SO-350723,INV-350719,Customer Square 1,V2cPG0MgVYqMuGpIMihSQV7wvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1417,Airport,Square,812615001712,Supreme Menthol Cigars,09-Jul-2022,SO-350817,INV-350813,Customer Square 1,V6ECEvgpMVzCOJj00rogUsoovaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+360,Airport,Square,73360181115,Lone Star 24oz,08-Jul-2022,SO-349882,INV-349878,Customer Square 1,V8pqXbyVbFKTbFMzLGvb927evaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3254,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,11-Jul-2022,SO-350851,INV-350847,Customer Square 2,VCkilRrE7pqa3aggpwgF8uBkvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1425,Airport,Square,816136023000,Madre Mezcal 200ml,09-Jul-2022,SO-350491,INV-350487,Customer Square 1,VEf3DOvQMoXz9K3aGT11e51TvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3024,Pleasant Valley,Square,86208390716,Monopolowa Vodka 1.75L,08-Jul-2022,SO-350171,INV-350167,Customer Square 2,VEjZlxcanN88iN1mdr5hCtYquaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+741,Airport,Square,88004144708,Fireball 50ml,08-Jul-2022,SO-349879,INV-349875,Customer Square 1,VIRbZoWDqeUYu8NLpD2ymmGuuaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+3460,Pleasant Valley,Square,619947000037,Titos Vodka 1.75L,09-Jul-2022,SO-350481,INV-350477,Customer Square 2,VKgsYZ0M1wRqvw0cmsWGEjGhvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2916,Pleasant Valley,Square,82184090503,Jack Daniels 375ml,08-Jul-2022,SO-350182,INV-350178,Customer Square 2,VMxeB9NVf8qqT8VnxuD5ijEsuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3844,Pleasant Valley,Square,851088007302,Still Austin Straight Bourbon CMW 750ml,09-Jul-2022,SO-350761,INV-350757,Customer Square 2,VOIl7JiHZrwXdLtkZ6Fo6RRbvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1880,Oak Hill,Square,80480986353,Angels Envy Shaker Barrel 750ml,08-Jul-2022,SO-350153,INV-350149,Customer Square 3,VU3TxqY2MWkXwq3GCDpf6xjQvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3825,Pleasant Valley,Square,850015640025,Teremana Blanco 750ml,09-Jul-2022,SO-350655,INV-350651,Customer Square 2,VqmL6nrGq9KNh4Yr0wW3gLbhvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1882,Oak Hill,Square,80480986353,Angels Envy Shaker Barrel 750ml,08-Jul-2022,SO-350161,INV-350157,Customer Square 3,Vqmt5ebc5qgwxoBXR7f4x0rMuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3297,Pleasant Valley,Square,96749908516,Lunazul Blanco 50ml,08-Jul-2022,SO-350255,INV-350251,Customer Square 2,VqowwrMO1ozY0MOlgZ9hD74pvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2494,Oak Hill,Square,856724006015,Casamigos Anejo 750ml,07-Jul-2022,SO-349522,INV-349518,Customer Square 3,Vuq8qD3OPijno459u4frrmpauaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1463,Airport,Square,850003799179,Tip Top Margarita 100ml,08-Jul-2022,SO-350040,INV-350036,Customer Square 1,VwdBSUDVJG9C6rXqzuIrOBhZuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+872,Airport,Square,96749021840,Evan Williams Black 50ml,08-Jul-2022,SO-349912,INV-349908,Customer Square 1,VyyPEwps83bPJHyGKwokj5hUuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1993,Oak Hill,Square,86208390761,Monopolowa Vodka 375ml,09-Jul-2022,SO-350364,INV-350360,Customer Square 3,X3GIqvYQuyWSF3AjruXeOKbnuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2818,Pleasant Valley,Square,80432108642,Olmeca Altos Anejo 1L,08-Jul-2022,SO-350063,INV-350059,Customer Square 2,X3qeQfDyWKi8NrGJkvtrsEFHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2811,Pleasant Valley,Square,80432108260,Olmeca Altos Plata 375ml,07-Jul-2022,SO-349560,INV-349556,Customer Square 2,X5dzYobO91SpCGROlB6Lm0yXvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2231,Oak Hill,Square,619947000020,Titos Vodka 750ml,08-Jul-2022,SO-349956,INV-349952,Customer Square 3,X5nO9X2XAcAbJsFxP2tUNyK6taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2992,Pleasant Valley,Square,85246139431,Makers Mark 750ml,08-Jul-2022,SO-350252,INV-350248,Customer Square 2,X7G325WnmU9r9bFasBlxSsAmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+601,Airport,Square,86208390716,Monopolowa Vodka 1.75L,08-Jul-2022,SO-350263,INV-350259,Customer Square 1,X9dcZqD9MUmr4DO0yTp4JOkWuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3151,Pleasant Valley,Square,88004144708,Fireball 50ml,11-Jul-2022,SO-350923,INV-350919,Customer Square 2,X9lch3l4Ww4F03FYzT7E3ZypvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+40,Airport,Square,18200250002,Budweiser 25oz,09-Jul-2022,SO-350694,INV-350690,Customer Square 1,XFrR7fBtRcOoLWvcM7MkKPP6taB,SHIPPED,1.0,DEFAULT Carrier,,6,6,6,6,False
+3862,Pleasant Valley,Square,852895003006,Austin Beerworks Fire Eagle Cans 6 Pack,07-Jul-2022,SO-349742,INV-349738,Customer Square 2,XLIipxNvaHm4qf7mnxkVr1XyuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1963,Oak Hill,Square,85000032541,New Amsterdam Pink Whitney 375ml,08-Jul-2022,SO-350295,INV-350291,Customer Square 3,XPod7TVieJoIbZVcw7dbT2rTvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1889,Oak Hill,Square,80660620992,99 Bananas 50ml,07-Jul-2022,SO-349799,INV-349795,Customer Square 3,XRJfUrXEFs6w1culFg9vCq46uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1104,Airport,Square,611269991000,Red Bull 8oz,07-Jul-2022,SO-349639,INV-349635,Customer Square 1,XTAEb4x9bCEAFh66HEdh2qAhvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2877,Pleasant Valley,Square,80686001904,Jim Beam 50ml,08-Jul-2022,SO-350012,INV-350008,Customer Square 2,XbO9Tnbgf6EjnY96u9oiSty3vaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+1574,Airport,Square,855082008044,City Orchard Lavender 4pk,09-Jul-2022,SO-350580,INV-350576,Customer Square 1,XdnJt2slUqk7u8NN1enHIpIDwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1390,Airport,Square,811538010832,Jose Cuervo Gold 750ml,08-Jul-2022,SO-350079,INV-350075,Customer Square 1,Xf0TDqhGX2ef6ENkK3OgywAcuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3468,Pleasant Valley,Square,619947000051,Titos 375ml,11-Jul-2022,SO-350884,INV-350880,Customer Square 2,XnC8hgHzM8D61unULoxRmssvuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3236,Pleasant Valley,Square,96749021642,Evan Williams Black 375ml,08-Jul-2022,SO-350122,INV-350118,Customer Square 2,XnKwVcomPl2awcUZMYeYEDqbvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2857,Pleasant Valley,Square,80660045153,Very Old Barton 100 Proof 750ml,08-Jul-2022,SO-350106,INV-350102,Customer Square 2,XnmEk0PvStaobfYa2NTf3JyHvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1864,Oak Hill,Square,80432115794,Glenlivet Caribbean Reserve 375ml,11-Jul-2022,SO-351208,INV-351204,Customer Square 3,Xnu67fPuFzi5iN5vwhIGxu8xuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+956,Airport,Square,1234500000019,Bag Ice 20LB,07-Jul-2022,SO-349629,INV-349625,Customer Square 1,XvGGC0iNBGqbJuv6yhnByLeUuaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+973,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350725,INV-350721,Customer Square 1,Xvw5fvIHW5yrMV2NzpsvIDZ6taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+946,Airport,Square,115701157011,Roman Ceremony Cabernet Sauvignon 750mL,08-Jul-2022,SO-350033,INV-350029,Customer Square 1,XzwWC96zwqpryj2zsD7LTbTfvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3458,Pleasant Valley,Square,619947000037,Titos Vodka 1.75L,09-Jul-2022,SO-350469,INV-350465,Customer Square 2,Z008msIHNOUudB3teZBY2iFmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1986,Oak Hill,Square,8567507,New Amsterdam Pink Whitney 50ml,07-Jul-2022,SO-349552,INV-349548,Customer Square 3,Z46IxTqriWZd61aSplpRL5UVvaB,SHIPPED,1.0,DEFAULT Carrier,,20,20,20,20,False
+3370,Pleasant Valley,Square,123622,Viski Leopold Jigger Copper,08-Jul-2022,SO-350066,INV-350062,Customer Square 2,Z4OooVuAolLLCXgELmugGxW1uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3527,Pleasant Valley,Square,698450753463,Socorro Blanco 750ml,08-Jul-2022,SO-350114,INV-350110,Customer Square 2,Z8m3KhQG87t43uuXo6mZyHSGvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3911,Pleasant Valley,Square,856065002301,Deep Eddy Lime 50ml,09-Jul-2022,SO-350518,INV-350514,Customer Square 2,ZE6jSqdq6wmSRrOgJ6hGpzF9taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+974,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350734,INV-350730,Customer Square 1,ZEEuN6bMmNvYUg8fBx4dD5cxvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3782,Pleasant Valley,Square,850010806143,1876 Vodka 1L,09-Jul-2022,SO-350748,INV-350744,Customer Square 2,ZIg9oteooCEBGkm7iaYQbOfovaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1432,Airport,Square,818490010580,Montucky Cold Snacks Cans 6 Pack,09-Jul-2022,SO-350792,INV-350788,Customer Square 1,ZKBpq9Vh7fhPIuLcNP2sLfVMvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3631,Pleasant Valley,Square,7503020522239,Mezcal Union 375ml,08-Jul-2022,SO-350059,INV-350055,Customer Square 2,ZM0EDZxGoZjhBDwfVPzMbViavaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3907,Pleasant Valley,Square,856065002301,Deep Eddy Lime 50ml,07-Jul-2022,SO-349590,INV-349586,Customer Square 2,ZORej2z61S4UVu0P7sMhQijJvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3478,Pleasant Valley,Square,630832787864,Real Ale Sampler Cans 12 Pack,08-Jul-2022,SO-350179,INV-350175,Customer Square 2,ZU6p9dlWEg1ac4FpqktFXh6kuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+496,Airport,Square,82184090503,Jack Daniels 375ml,09-Jul-2022,SO-350384,INV-350380,Customer Square 1,ZUWHxRWj9LD2uuxziliNgQUFuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2640,Pleasant Valley,Square,21296620031,Paul Masson Peach Brandy 200ml,07-Jul-2022,SO-349658,INV-349654,Customer Square 2,ZW9OZYYdhJeOE0Msh9VrlbYNuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3906,Pleasant Valley,Square,856065002110,Deep Eddy Ruby Red 50ml,09-Jul-2022,SO-350815,INV-350811,Customer Square 2,ZY8lheckm5sFWDQ50JpSicZ8vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3822,Pleasant Valley,Square,850015640025,Teremana Blanco 750ml,08-Jul-2022,SO-350234,INV-350230,Customer Square 2,ZYq4937NmrvUMSeaBY97ORDDvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1393,Airport,Square,811538010924,Jose Cuervo Gold 200ml,09-Jul-2022,SO-350791,INV-350787,Customer Square 1,ZeLlER07QSYwoJvtmQIw43AduaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+871,Airport,Square,96749021840,Evan Williams Black 50ml,07-Jul-2022,SO-349699,INV-349695,Customer Square 1,ZqTgFlXOJJ1afhZli1hPVdljvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+2492,Oak Hill,Square,856065002479,Deep Eddy Ruby Red 375ml,07-Jul-2022,SO-349610,INV-349606,Customer Square 3,ZsIkeDFrxi3htSGVmM3uV6PtvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2249,Oak Hill,Square,630832266123,Real Ale Devils Backbone Cans 12 Pack,09-Jul-2022,SO-350506,INV-350502,Customer Square 3,ZuffYoN3VTnOsOytFcXo6kxbvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3963,Pleasant Valley,Square,859026001221,La Gritona Reposado 750ml,07-Jul-2022,SO-349682,INV-349678,Customer Square 2,ZuxyFiW2aEqvBRe5rxq2Xs9AwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+590,Airport,Square,8567400,New Amsterdam Watermelon 50ml,08-Jul-2022,SO-350024,INV-350020,Customer Square 1,ZyR1v4f98zzso1QZlHm3zw6zvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+2236,Oak Hill,Square,619947000037,Titos Vodka 1.75L,07-Jul-2022,SO-349719,INV-349715,Customer Square 3,b33l8fG79b1bOAPOQJl9bvSjvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2887,Pleasant Valley,Square,80686835028,Sauza Hornitos Reposado 750ml,09-Jul-2022,SO-350519,INV-350515,Customer Square 2,b5cXI52rcWPK1EMeYHgK7cJ6vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3231,Pleasant Valley,Square,96749021178,Evan Williams Bonded 175L,08-Jul-2022,SO-349932,INV-349928,Customer Square 2,bBAhjIcdOF6HnG7T6Jw7t2h2vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2922,Pleasant Valley,Square,83300034517,Chambord 200ml,09-Jul-2022,SO-350740,INV-350736,Customer Square 2,bDFL53vcn1cs7L3DZ9QQ1lwovaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2243,Oak Hill,Square,619947000044,Titos Vodka 200ml,08-Jul-2022,SO-350096,INV-350092,Customer Square 3,bDZ9zkSxWN7spkQlXViQdOfwuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+35,Airport,Square,18200250002,Budweiser 25oz,07-Jul-2022,SO-349709,INV-349705,Customer Square 1,bJ41I0iWSl2x5fjTyIbgiI5VvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4058,Pleasant Valley,Square,898627001308,Tequila Ocho Plata 750ml,09-Jul-2022,SO-350601,INV-350597,Customer Square 2,bRUp8KDlFMIt9beKWxqxlLpevaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+491,Airport,Square,81753832902,Ardbeg Wee Beastie 750ml,08-Jul-2022,SO-349987,INV-349983,Customer Square 1,bTFBgKgFbyaTUH88YWMys5yyvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1537,Airport,Square,852674006488,512 IPA 6pk Cans,09-Jul-2022,SO-350626,INV-350622,Customer Square 1,bZUZ7fEzM6a6iFuqZf5mwXQHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+271,Airport,Square,49000050103,Coke 2L,09-Jul-2022,SO-350618,INV-350614,Customer Square 1,bZgDtPgVMf6GhawqpkeRwDRQuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2029,Oak Hill,Square,88004022723,Fireball Firebox 3.5L,08-Jul-2022,SO-349959,INV-349955,Customer Square 3,bbRtyDppwKvUZsQo6MBKaSYkvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2886,Pleasant Valley,Square,80686762409,El Tesoro Reposado 750ml,08-Jul-2022,SO-350253,INV-350249,Customer Square 2,bdQS5JTaR6E78lfP9M17yQfzvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2309,Oak Hill,Square,721733000944,Patron Silver 375ml,08-Jul-2022,SO-350155,INV-350151,Customer Square 3,bnFmlEN3ZAU5s45gCa8oVHReuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2376,Oak Hill,Square,810039720004,Isle of Harris Gin 750ml,07-Jul-2022,SO-349570,INV-349566,Customer Square 3,bnHvvxgO4GfpKE6tSYnTl6nSvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1749,Oak Hill,Square,21037010190,Jeppsons Malort Liqueur 750ml,09-Jul-2022,SO-350642,INV-350638,Customer Square 3,bnNI67589P5t7TgxqBDjXLFHuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+221,Airport,Square,3421716,Mickeys Can 24oz,08-Jul-2022,SO-349861,INV-349857,Customer Square 1,bnlsM0ShormLYlD28OpFVjrnvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+3247,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,07-Jul-2022,SO-349584,INV-349580,Customer Square 2,bpMjwJQIeVAXk7j1jDEkw6s7uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3451,Pleasant Valley,Square,619947000037,Titos Vodka 1.75L,07-Jul-2022,SO-349652,INV-349648,Customer Square 2,bxg3SbsJ4GBL3nFe0qAtIBmCvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+750,Airport,Square,88004144708,Fireball 50ml,09-Jul-2022,SO-350616,INV-350612,Customer Square 1,bxo97zqvYPal6qmo8iFkRZkxuaB,SHIPPED,1.0,DEFAULT Carrier,,10,10,10,10,False
+2026,Oak Hill,Square,88004010126,Taaka 1.75L,07-Jul-2022,SO-349724,INV-349720,Customer Square 3,bzf4d6PVOBNgeCJ4Sdz5nrHhuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2883,Pleasant Valley,Square,80686409403,Old Granddad 114 750ml,09-Jul-2022,SO-350755,INV-350751,Customer Square 2,d0r8yvVE3CnrXkfIBXrxU50fvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3899,Pleasant Valley,Square,856065002035,Deep Eddy Vodka 750ml,08-Jul-2022,SO-350054,INV-350050,Customer Square 2,d0tNa7v4JVP0KBjw8kUuqOoJuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2465,Oak Hill,Square,854570002090,Smooth Ambler Old Scout Bourbon Austin Shaker Barrel 750ml,07-Jul-2022,SO-349579,INV-349575,Customer Square 3,d2AmAUuwNsN8NNs66AodDdmevaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2037,Oak Hill,Square,88004034221,99 Party Bucket 50ml,11-Jul-2022,SO-351217,INV-351213,Customer Square 3,d2c0g2xTyYvtKiI1Wfk7EwJPvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2856,Pleasant Valley,Square,80480986353,Angels Envy Shaker Barrel 750ml,09-Jul-2022,SO-350670,INV-350666,Customer Square 2,d2km5DzZmidYfdH7xIMj6dsSvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3015,Pleasant Valley,Square,8567400,New Amsterdam Watermelon 50ml,08-Jul-2022,SO-350178,INV-350174,Customer Square 2,d6ADvCpmT0DE9F6gi7u3VOCQuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1442,Airport,Square,819942000067,Oskar Blues Old Chub Cans 6 Pack,09-Jul-2022,SO-350797,INV-350793,Customer Square 1,d6i8lpc4TbkHdr6bkbJ6TuIzvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1147,Airport,Square,619947000037,Titos Vodka 1.75L,07-Jul-2022,SO-349575,INV-349571,Customer Square 1,d6u0g2WYuDGmMh4Lg7IxHpo8taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2498,Oak Hill,Square,856847004592,Mezcal Vago Tobala TX Exclusive 750ml,09-Jul-2022,SO-350426,INV-350422,Customer Square 3,d85XDY6pOYahyvEfETJ6KcbcuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1196,Airport,Square,653233615604,Field Recordings Skins 750ml,08-Jul-2022,SO-350041,INV-350037,Customer Square 1,d85ffIcX3x7A4chSFftRkNEJuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2984,Pleasant Valley,Square,85000019511,New Amsterdam Vodka 1.75L,09-Jul-2022,SO-350714,INV-350710,Customer Square 2,dAxQK6zvaixPsgV9NS8KAjDRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+452,Airport,Square,80480230012,Dewars 1L,08-Jul-2022,SO-350030,INV-350026,Customer Square 1,dCOC0qPNOxIeCeHB9zX3iLPBwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3539,Pleasant Valley,Square,704228011212,Arette Blanco 1L,08-Jul-2022,SO-350242,INV-350238,Customer Square 2,dCUZO6hmO4LUIXmVTVay6MGbvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1294,Airport,Square,736040538073,Banhez Espadin 1L,08-Jul-2022,SO-349979,INV-349975,Customer Square 1,dCmu69RUI7wR1cKRNoBdXmbbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3905,Pleasant Valley,Square,856065002110,Deep Eddy Ruby Red 50ml,09-Jul-2022,SO-350760,INV-350756,Customer Square 2,dK8zKo2G3KMS2NQcsdR9nNm8vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+238,Airport,Square,39383006507,Michters Rye 750ml,08-Jul-2022,SO-349878,INV-349874,Customer Square 1,dKC20F6C3Ge88EewY0H6LdrLvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2321,Oak Hill,Square,736040537274,Barrell Bourbon Store Pick 750ml,09-Jul-2022,SO-350547,INV-350543,Customer Square 3,dY39ycQ7Ljw9jxclCGH6fhxBuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1902,Oak Hill,Square,80686012405,Basil Hayden Bourbon 750ml,09-Jul-2022,SO-350648,INV-350644,Customer Square 3,dYfVgo3Vuy2U4XmTbaMDCD4tvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2833,Pleasant Valley,Square,80432500170,Jameson 750ml,09-Jul-2022,SO-350665,INV-350661,Customer Square 2,da4DRQdRWUZpsnePBT10ZXQouaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3014,Pleasant Valley,Square,8567400,New Amsterdam Watermelon 50ml,08-Jul-2022,SO-350125,INV-350121,Customer Square 2,dc3a3tt4TzF6BE6PBMEkpAdpvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3260,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,07-Jul-2022,SO-349529,INV-349525,Customer Square 2,dgHzcxc8bi8W8QrVwjluH2yOuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+779,Airport,Square,88110150525,Hennessy VS 200ml,09-Jul-2022,SO-350407,INV-350403,Customer Square 1,dkXkv255tMQNBtR2NyrgcxcduaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1305,Airport,Square,744607068307,El Jimador Blanco 1L,09-Jul-2022,SO-350796,INV-350792,Customer Square 1,dkxnO2EBXptsNuN1D7966caYuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3489,Pleasant Valley,Square,635985800064,White Claw Variety #2 12pk cans,09-Jul-2022,SO-350447,INV-350443,Customer Square 2,dmyLCZTpaWSH5ZRE1OsyhgmluaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3409,Pleasant Valley,Square,5900343008129,Zubrowka Bison Grass Vodka 750ml,08-Jul-2022,SO-350302,INV-350298,Customer Square 2,dob7C84yePpLTKBOrRe4i8bTvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3165,Pleasant Valley,Square,88076179080,Ciroc Pineapple 750ml,09-Jul-2022,SO-350480,INV-350476,Customer Square 2,dqsjktqw2a1B34jXmZnyo2e4vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2885,Pleasant Valley,Square,80686761044,El Tesoro Extra Anejo 750ml,11-Jul-2022,SO-350880,INV-350876,Customer Square 2,ds1voZSAEfoP2lOuXDy718jmvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+678,Airport,Square,88004000073,Taaka 375ml,07-Jul-2022,SO-349698,INV-349694,Customer Square 1,duEQJH85bqvnlFWLgRzN3d1wuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1472,Airport,Square,850005058045,Anne Pichon Syrah Grenache 750ml,08-Jul-2022,SO-350022,INV-350018,Customer Square 1,dymaEAtZZK0euTVOwGI8puhQuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2904,Pleasant Valley,Square,81753833916,Whispering Angel 750ml,09-Jul-2022,SO-350449,INV-350445,Customer Square 2,f5TPciVTPaJcwVsd0I4VtcJYuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2644,Pleasant Valley,Square,21296620031,Paul Masson Peach Brandy 200ml,09-Jul-2022,SO-350712,INV-350708,Customer Square 2,fF1nbJiOTDJD7svJUduNV7fWvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3223,Pleasant Valley,Square,96749001361,Lunazul Blanco 375ml,09-Jul-2022,SO-350379,INV-350375,Customer Square 2,fF5RJUzTt5qIGlQF8izrNGDzvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4057,Pleasant Valley,Square,898627001308,Tequila Ocho Plata 750ml,08-Jul-2022,SO-350172,INV-350168,Customer Square 2,fFF9injdFDnprfH13Yv29MeFvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3982,Pleasant Valley,Square,860272001446,Long Drink Traditional 6/12 Cans,09-Jul-2022,SO-350470,INV-350466,Customer Square 2,fFNHNlYVFnx04FCLdqBLGnhjuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3104,Pleasant Valley,Square,88004034191,Wheatley 375ml,11-Jul-2022,SO-350904,INV-350900,Customer Square 2,fNVPG4Y5WaiUWB2CENbgX424taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1542,Airport,Square,852757002000,Balcones Rumble 750ml,09-Jul-2022,SO-350737,INV-350733,Customer Square 1,fNjGA1U6ISTwcftJ34brGHxRuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+545,Airport,Square,85000019498,New Amsterdam Vodka 750ml,09-Jul-2022,SO-350719,INV-350715,Customer Square 1,fPs4dGjp8EW5T6w2thpiiHKLuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+414,Airport,Square,80432108260,Olmeca Altos Plata 375ml,08-Jul-2022,SO-349988,INV-349984,Customer Square 1,fRvrIJ8mH8ZyWXOa94XkeBdIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+673,Airport,Square,88004000066,Taaka 200ml,09-Jul-2022,SO-350387,INV-350383,Customer Square 1,fTGIPMgASa5GDthkX1HTx1APuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3827,Pleasant Valley,Square,850015640032,Teremana Reposado 750ml,08-Jul-2022,SO-349899,INV-349895,Customer Square 2,fXq9JGNlIXbGfRaHUAyw1E23vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+592,Airport,Square,8567507,New Amsterdam Pink Whitney 50ml,08-Jul-2022,SO-349863,INV-349859,Customer Square 1,fXwEXKK8BgguXpqPKAnDpHy6taB,SHIPPED,1.0,DEFAULT Carrier,,10,10,10,10,False
+3166,Pleasant Valley,Square,88100915615,Monopolowa Vodka 1L,08-Jul-2022,SO-350015,INV-350011,Customer Square 2,fZ3RY6DbOTodJH3RkVSow0h4vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2845,Pleasant Valley,Square,80480172015,Cazadores Blanco 1L,11-Jul-2022,SO-350858,INV-350854,Customer Square 2,fdFNbGJyHlCOdVz8I36diyEpvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2840,Pleasant Valley,Square,80480015701,Bacardi Superior 200ml,09-Jul-2022,SO-350599,INV-350595,Customer Square 2,fjktsaJNA99kxoJ6Nf5BgPHXvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2427,Oak Hill,Square,850015640032,Teremana Reposado 750ml,08-Jul-2022,SO-350158,INV-350154,Customer Square 3,fr8ru4SHe5uFjvathmTCfWlkvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+726,Airport,Square,88004045418,99 Cherry Limeade 50ml,09-Jul-2022,SO-350806,INV-350802,Customer Square 1,frQZoQgpvSh8oV6SnaSMufseuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3041,Pleasant Valley,Square,86208390778,Monopolowa Vodka 750ml,09-Jul-2022,SO-350377,INV-350373,Customer Square 2,h0YrA6UdEejX2nADG9d6jtjyvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1827,Oak Hill,Square,72546023966,Oni Koroshi Sake Box 180ml,08-Jul-2022,SO-350152,INV-350148,Customer Square 3,h4MEeBw7UPSZNDw77q1QhMF1uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+163,Airport,Square,2657318,Newport Menthol 100,09-Jul-2022,SO-350458,INV-350454,Customer Square 1,hGLWve76fso9zbFF2rmNoyrduaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+582,Airport,Square,8562104,New Amsterdam Pineapple 50ml,07-Jul-2022,SO-349765,INV-349761,Customer Square 1,hGPYvogkOs1LMBayPSSDWGpJuaB,SHIPPED,1.0,DEFAULT Carrier,,12,12,12,12,False
+3261,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,07-Jul-2022,SO-349589,INV-349585,Customer Square 2,hGRBfCIdNzEdt04AWaL83z8nuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2449,Oak Hill,Square,852757002000,Balcones Rumble 750ml,09-Jul-2022,SO-350425,INV-350421,Customer Square 3,hIAANLsTBo4ww0FXMfHorFsDvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2996,Pleasant Valley,Square,85246185001,Makers Mark 375ml,08-Jul-2022,SO-349972,INV-349968,Customer Square 2,hORdwNzstvLnhfceby9G0XlYvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+7369,Warehouse,Square,630832124126,Real Ale Firemans 4 Cans 12 Pack,11-Jul-2022,SO-350951,INV-350947,Customer Square Warehouse,hSLFMqQke4fmTS2n0aVcdt7RvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2158,Oak Hill,Square,96749908547,Lunazul Blanco 175L,07-Jul-2022,SO-349722,INV-349718,Customer Square 3,hU2Ij62QWfKqV0A0NdYrNOIWuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3029,Pleasant Valley,Square,86208390754,Monopolowa Vodka 200ml,08-Jul-2022,SO-350229,INV-350225,Customer Square 2,hUkhud9UaTGGv44zhX9fZvWvuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2419,Oak Hill,Square,850010806136,1876 Vodka 175L,07-Jul-2022,SO-349616,INV-349612,Customer Square 3,hWzWPEssCeaV0MlebBzJCP8YvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3232,Pleasant Valley,Square,96749021246,Evan Williams Black 1L,09-Jul-2022,SO-350526,INV-350522,Customer Square 2,hetbYoB671j4JfGANEcPSwNRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3090,Pleasant Valley,Square,88004010126,Taaka 1.75L,08-Jul-2022,SO-349965,INV-349961,Customer Square 2,hgcaYutD7LHmHFR94ERVmncmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1855,Oak Hill,Square,80175026241,Meletti Amaro 750ml,07-Jul-2022,SO-349718,INV-349714,Customer Square 3,hkuQHS97Db84h1rfUPDbfKT7uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+123,Airport,Square,21296620000,Paul Masson Peach Brandy 50ml,07-Jul-2022,SO-349625,INV-349621,Customer Square 1,hm3YLn1tXKjXz1UYjQOnuyI1uaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3949,Pleasant Valley,Square,857262003207,Ivy Mountain Corn Whiskey Peach Finish 750ml,09-Jul-2022,SO-350814,INV-350810,Customer Square 2,hosiNIBjQ3j86tp4SrPxRQeSuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3267,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,11-Jul-2022,SO-350859,INV-350855,Customer Square 2,hqFU0OfIQLIKfXYTgqeHjRNDvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3914,Pleasant Valley,Square,856065002400,Deep Eddy Lemon 50ml,08-Jul-2022,SO-349887,INV-349883,Customer Square 2,hu36vW4LacbuBRDFOlj6Osw9vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3618,Pleasant Valley,Square,746751687137,Marietta Old Vine Red 750ml,07-Jul-2022,SO-349653,INV-349649,Customer Square 2,hu70lJ52uBAKLwibpJjhpC95vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+546,Airport,Square,85000020395,New Amsterdam Peach 375ml,07-Jul-2022,SO-349636,INV-349632,Customer Square 1,hwcMHa6hlOSzrAXFMY6vuVacuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2245,Oak Hill,Square,619947000068,Titos 50ml,09-Jul-2022,SO-350640,INV-350636,Customer Square 3,j3J1LnLXl1LfdFCoxtF2Zl4yvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+2531,Oak Hill,Square,866510000400,Desert Door Texas Sotol 750ml,09-Jul-2022,SO-350507,INV-350503,Customer Square 3,j3vcpdx5Tqzo6hNG36si5HFcuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+960,Airport,Square,1234500000019,Bag Ice 20LB,08-Jul-2022,SO-349977,INV-349973,Customer Square 1,j50EqWyYZgoao6j9XHQzKwtbuaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3705,Pleasant Valley,Square,811538010924,Jose Cuervo Gold 200ml,07-Jul-2022,SO-349684,INV-349680,Customer Square 2,j7BktBgSUxI6kiQGHHnhzi5JvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3310,Pleasant Valley,Square,96749908547,Lunazul Blanco 175L,08-Jul-2022,SO-349892,INV-349888,Customer Square 2,j9yodcdMuNcXWdSKtQPLC6QJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1138,Airport,Square,619947000013,Titos 1L,08-Jul-2022,SO-350143,INV-350139,Customer Square 1,jBU4ZmhoMSrgQMQUXZJSZ5CDuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2079,Oak Hill,Square,88076168909,Zwack Liqueur 750ml,08-Jul-2022,SO-350165,INV-350161,Customer Square 3,jDxACmQM6AJB4eDPCPCQgFnauaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1873,Oak Hill,Square,80480015602,Bacardi Superior 375ml,11-Jul-2022,SO-351220,INV-351216,Customer Square 3,jJGxW4D8fzjtvUkNNuhuu2GIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+59,Airport,Square,18200250033,Busch 25oz,09-Jul-2022,SO-350385,INV-350381,Customer Square 1,jLxcz38w17jWOECvT2Sac8s6taB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+180,Airport,Square,28200142207,Marlboro light,07-Jul-2022,SO-349703,INV-349699,Customer Square 1,jNgT58fyzH31iOYRK4wX0dRrvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3651,Pleasant Valley,Square,788754001008,Underberg,09-Jul-2022,SO-350563,INV-350559,Customer Square 2,jNwxEUdFGDivpeUV1iOwqbyouaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+1904,Oak Hill,Square,80686016618,Knob Creek Rye 375ml,09-Jul-2022,SO-350431,INV-350427,Customer Square 3,jP7UzUjfbL5VpTgRKbIZPNWouaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+47,Airport,Square,18200250019,Bud light 25oz,07-Jul-2022,SO-349519,INV-349515,Customer Square 1,jPJbJdKnHF0tGoyJbV2Kwo1pvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3612,Pleasant Valley,Square,744607069304,El Jimador Reposado 1L,09-Jul-2022,SO-350564,INV-350560,Customer Square 2,jPzUnj06r1OILXV0y4eNAa1evaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2988,Pleasant Valley,Square,85000024874,New Amsterdam Apple 750ml,08-Jul-2022,SO-349973,INV-349969,Customer Square 2,jRuBRAOh4lTNvC6UuNbkpBPavaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+669,Airport,Square,88004000066,Taaka 200ml,07-Jul-2022,SO-349492,INV-349488,Customer Square 1,jdgjLM1wizyLclgyJZljP0WJuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2862,Pleasant Valley,Square,80660776057,Caravella Limoncello 750ml,08-Jul-2022,SO-349927,INV-349923,Customer Square 2,jfVhvz2aykE58xSla3rxNdONuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+953,Airport,Square,1234500000019,Bag Ice 20LB,07-Jul-2022,SO-349603,INV-349599,Customer Square 1,jfp9INncPHVaycMXQmZXjrUxvaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+96,Airport,Square,21296006019,Paul Masson Brandy 750ml,08-Jul-2022,SO-350284,INV-350280,Customer Square 1,jftFN6J4SIraHXPk3uLLtygmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2735,Pleasant Valley,Square,51497071011,Pinthouse Electric Jellyfish 4pk 16oz Cans,08-Jul-2022,SO-350108,INV-350104,Customer Square 2,jhM8tWy8vkBmr5cN9FfzE4JivaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2305,Oak Hill,Square,721059047500,Campari 750ml,07-Jul-2022,SO-349716,INV-349712,Customer Square 3,jj9Yzipe2QZW3yk5Azs34dlFvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3753,Pleasant Valley,Square,8421478750150,Raventos Blanc de Blanc 750ml,09-Jul-2022,SO-350443,INV-350439,Customer Square 2,jjV8tRb95muBDdDN8ibM88w6vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3184,Pleasant Valley,Square,88110150624,Hennessy VS 375ml,08-Jul-2022,SO-350231,INV-350227,Customer Square 2,jpeTnlvHxqPxBb3PnOEuF7eyvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3555,Pleasant Valley,Square,713382533683,Field Recordings Chenin 750ml,08-Jul-2022,SO-350183,INV-350179,Customer Square 2,l4x5zX0ckNXnEoFymSabrHf1vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3988,Pleasant Valley,Square,860272001477,Long Drink Strong 6/12 Cans,09-Jul-2022,SO-350763,INV-350759,Customer Square 2,l6Wnja34bw8yylej10nuSqgquaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3828,Pleasant Valley,Square,850015640032,Teremana Reposado 750ml,08-Jul-2022,SO-350058,INV-350054,Customer Square 2,l6ilX8SSwKpQxU22V9oGKk47taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3903,Pleasant Valley,Square,856065002080,Deep Eddy Ruby Red 750ml,08-Jul-2022,SO-349897,INV-349893,Customer Square 2,l6ujxVZLoFdOrytvsE45KYPAwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3836,Pleasant Valley,Square,850101001440,Siembra Valles Blanco 750ml,09-Jul-2022,SO-350400,INV-350396,Customer Square 2,l8z9tfqUV3HMDYHSE8dXOYGivaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3632,Pleasant Valley,Square,7503020522239,Mezcal Union 375ml,09-Jul-2022,SO-350702,INV-350698,Customer Square 2,lCcackwfgWWAq4dazJvmGPkAwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1803,Oak Hill,Square,4913207,Sprite Can 12oz,08-Jul-2022,SO-350293,INV-350289,Customer Square 3,lEZUUhYS85pBVlMV0WYNrbB6uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3477,Pleasant Valley,Square,630832266123,Real Ale Devils Backbone Cans 12 Pack,07-Jul-2022,SO-349680,INV-349676,Customer Square 2,lG20buLzEUaPSCAMeSDlTmOAvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3080,Pleasant Valley,Square,88004000066,Taaka 200ml,09-Jul-2022,SO-350759,INV-350755,Customer Square 2,lM9urucpF8ZLavrWwpMhBzukvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2630,Pleasant Valley,Square,21037010190,Jeppsons Malort Liqueur 750ml,09-Jul-2022,SO-350442,INV-350438,Customer Square 2,lMtIKDrRhN9qc3iWCRHXnPvEuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2953,Pleasant Valley,Square,84105307516,Fernet Branca 50ml,09-Jul-2022,SO-350350,INV-350346,Customer Square 2,lQPoyVecWeHvFsIBB7Fidn0ZvaB,SHIPPED,1.0,DEFAULT Carrier,,5,5,5,5,False
+2911,Pleasant Valley,Square,82000771562,Crown Apple 750ml,09-Jul-2022,SO-350715,INV-350711,Customer Square 2,lSmXqqDJneMBDHTzzddRf3bFvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+568,Airport,Square,8534004,E & J VS Brandy 50ml,07-Jul-2022,SO-349567,INV-349563,Customer Square 1,lYhtpdqbpwddICDkbyGkCiABuaB,SHIPPED,1.0,DEFAULT Carrier,,12,12,12,12,False
+2132,Oak Hill,Square,96749312504,Kentucky Deluxe 200ml,07-Jul-2022,SO-349715,INV-349711,Customer Square 3,laeHdWvnFFuWzBbtQhFVxgMnvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3546,Pleasant Valley,Square,709081489727,Swick Wyd Chardonnay 750ml,07-Jul-2022,SO-349661,INV-349657,Customer Square 2,lauzJnxZQ0exNmstcrqrmAGtvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4043,Pleasant Valley,Square,898432002002,Dulce Vida Blanco 750ml,07-Jul-2022,SO-349543,INV-349539,Customer Square 2,liehVzfhHVGmcvzFYgj4NtEmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+825,Airport,Square,9057330,Kool Green 100,07-Jul-2022,SO-349792,INV-349788,Customer Square 1,lk5Esdtyu2zN4EsbEuSt3Ib0vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+870,Airport,Square,96749021840,Evan Williams Black 50ml,07-Jul-2022,SO-349564,INV-349560,Customer Square 1,lk9aKTJHd4u4Qw2pvW6NrcWGuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2804,Pleasant Valley,Square,80244009236,Buffalo Trace 750ml,09-Jul-2022,SO-350438,INV-350434,Customer Square 2,lkBS5xfvvvIyNjOlRc7m3JtlvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2130,Oak Hill,Square,96749228409,JW Dant Bonded 1L,08-Jul-2022,SO-350094,INV-350090,Customer Square 3,lkTTnCnHd66uAUnaAywh2vHjvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+543,Airport,Square,85000017739,La Marca Prosecco 750ml,09-Jul-2022,SO-350574,INV-350570,Customer Square 1,lqK9p5avUaJDT2LqhSeIyRfbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3605,Pleasant Valley,Square,744607068307,El Jimador Blanco 1L,09-Jul-2022,SO-350558,INV-350554,Customer Square 2,luCUZwfK31afNDqGW05JF7AIvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3471,Pleasant Valley,Square,619947000068,Titos 50ml,07-Jul-2022,SO-349531,INV-349527,Customer Square 2,luoXVmFM0qGYQqXMAtRfHu7lvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+446,Airport,Square,80480016210,Bacardi Silver 50ml,09-Jul-2022,SO-350729,INV-350725,Customer Square 1,lwzGOcb91pNKRB1CCIuL9X47vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3940,Pleasant Valley,Square,856724006114,Casamigos Blanco 750ml,09-Jul-2022,SO-350664,INV-350660,Customer Square 2,ly40GT2ctPI6kjWkvA9r3RdwuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+431,Airport,Square,80432500125,Jameson 200ml,08-Jul-2022,SO-349945,INV-349941,Customer Square 1,n70qXPWyKrxnMNTeuqvung1lvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+500,Airport,Square,83089524001,Jagermeister 750ml,08-Jul-2022,SO-350220,INV-350216,Customer Square 1,n7gkvOYs9WLw3elNjfMjJVoCuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3391,Pleasant Valley,Square,3274510003791,Dolin Dry 750ml,11-Jul-2022,SO-350857,INV-350853,Customer Square 2,nBdtn5b5B4rUQ16GGHr5Zh6PuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+26,Airport,Square,18200008344,Budweiser Bottles 6 Pack,08-Jul-2022,SO-349856,INV-349852,Customer Square 1,nBfadvUYmVXRTYLiYkIMfD8MuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3808,Pleasant Valley,Square,850013382026,Ranch Rider The Chilton 12oz 4pk,07-Jul-2022,SO-349771,INV-349767,Customer Square 2,nBtjEWYLK4nGcEpslu3eCpSYvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+570,Airport,Square,8534004,E & J VS Brandy 50ml,08-Jul-2022,SO-349857,INV-349853,Customer Square 1,nBtro6cyT0YXrwu8fFeIf7vWuaB,SHIPPED,1.0,DEFAULT Carrier,,12,12,12,12,False
+3234,Pleasant Valley,Square,96749021642,Evan Williams Black 375ml,07-Jul-2022,SO-349651,INV-349647,Customer Square 2,nDEG4eOwQfFi1qDGLW3X7OkQvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1313,Airport,Square,744607069601,El Jimador Reposado 375ml,09-Jul-2022,SO-350673,INV-350669,Customer Square 1,nF7j9ckbhCGAhEae5WCGVjL0uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3607,Pleasant Valley,Square,744607068307,El Jimador Blanco 1L,11-Jul-2022,SO-350905,INV-350901,Customer Square 2,nFLDtyij1sawquVOR7sfUtuvuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3044,Pleasant Valley,Square,86395365009,Takara Plum Wine 750ml,08-Jul-2022,SO-350170,INV-350166,Customer Square 2,nFT5iGvWgDHoUgFrj9fqqpiuvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+975,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350777,INV-350773,Customer Square 1,nH8hGBMoqd32WwWJbafDF4U5taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+351,Airport,Square,72311321242,Dos Equis Can 24oz,07-Jul-2022,SO-349634,INV-349630,Customer Square 1,nJ7un6QK3tMCZ9fBrsBfhicQvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+805,Airport,Square,88857003375,Midori Melon 1L,08-Jul-2022,SO-350267,INV-350263,Customer Square 1,nJNvDcdITUHx8eC2MWRQEUFuvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+7320,Warehouse,Square,115522661120,Rezpiral Berta Vasquez San Baltazar Chichipam Tobala/Cuish 750ml,11-Jul-2022,SO-350992,INV-350988,Customer Square Warehouse,nV94Nyq5oKZfCCJENaBgyEpBuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+857,Airport,Square,96749001361,Lunazul Blanco 375ml,09-Jul-2022,SO-350730,INV-350726,Customer Square 1,nVxmfMTKO2EJVMrLG8uEnPx5vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1857,Oak Hill,Square,80244009212,Buffalo Trace 1.75L,09-Jul-2022,SO-350586,INV-350582,Customer Square 3,nXgBte57h542j88phV9rAJE5uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3501,Pleasant Valley,Square,649440002412,Ommegang Neon Neon 4 pack,09-Jul-2022,SO-350436,INV-350432,Customer Square 2,nZNJYp4Zkdwjmy4idWoeU3U9vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+605,Airport,Square,86208390754,Monopolowa Vodka 200ml,07-Jul-2022,SO-349566,INV-349562,Customer Square 1,nbSjqA4F7zSYhZm2IbQaqXobuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3622,Pleasant Valley,Square,7503016230018,Mezcal Union 750ml,07-Jul-2022,SO-349775,INV-349771,Customer Square 2,nfoDFSxZ9gJMpQb1ayCGcw71vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1273,Airport,Square,721733000944,Patron Silver 375ml,08-Jul-2022,SO-350203,INV-350199,Customer Square 1,nfsnszUHUXSKSsFv8RZLOJl9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1747,Oak Hill,Square,19962850134,Friends & Allies Seasonal Cans 6 Pack,08-Jul-2022,SO-350160,INV-350156,Customer Square 3,nh9tDtxBCrotODfSabgaUC8vvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1872,Oak Hill,Square,80480015305,Bacardi Superior 1L,07-Jul-2022,SO-349646,INV-349642,Customer Square 3,nhnaFgxLq8vcrCAmnHuhVxtPvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+571,Airport,Square,8534004,E & J VS Brandy 50ml,09-Jul-2022,SO-350360,INV-350356,Customer Square 1,nlVao9yMTh61pm6VPm5Z0NVLuaB,SHIPPED,1.0,DEFAULT Carrier,,12,12,12,12,False
+2915,Pleasant Valley,Square,82184090503,Jack Daniels 375ml,08-Jul-2022,SO-350104,INV-350100,Customer Square 2,nnCmBCT0tqzcO9Z1z6I4GevevaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1661,Airport,Square,8801100130558,Good Day Pomagranate Soju 375ml,09-Jul-2022,SO-350489,INV-350485,Customer Square 1,nvE7wsthlewOmw89FxlLY4LvuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1581,Airport,Square,856065002110,Deep Eddy Ruby Red 50ml,08-Jul-2022,SO-350210,INV-350206,Customer Square 1,nvSiC5RqVOD5uwUFJXwqvMdAuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2095,Oak Hill,Square,88320005172,Pussers Gunpowder 750ml,09-Jul-2022,SO-350548,INV-350544,Customer Square 3,nz2Le95xs6lAdAYmq8J6aLP1vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3699,Pleasant Valley,Square,810411010334,Naveran Brut Vintage 750ml,07-Jul-2022,SO-349783,INV-349779,Customer Square 2,p0iXRXfzCnjHHmi7czymOGL9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+966,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350457,INV-350453,Customer Square 1,p0itIJVxLI9Tf67gKZlMqzo2vaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+2064,Oak Hill,Square,88004144708,Fireball 50ml,07-Jul-2022,SO-349725,INV-349721,Customer Square 3,p2Be5Xq1W0KFZfaVHnGqGfo3vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2906,Pleasant Valley,Square,82000752967,Bulleit Rye 750ml,07-Jul-2022,SO-349623,INV-349619,Customer Square 2,p6D0s72pmsRWIt3sKOoyYY9juaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2868,Pleasant Valley,Square,80660957555,Modelo Especial Cans 6 Pack,09-Jul-2022,SO-350757,INV-350753,Customer Square 2,pAm0Oyx42Pg7nTTQdZhAU9iJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2429,Oak Hill,Square,850018798136,Pinthouse Training Bines 4pk 16oz Cans,08-Jul-2022,SO-350093,INV-350089,Customer Square 3,pE8KEif9tzU4PzyiwmZQ2Ja9uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3931,Pleasant Valley,Square,856724006114,Casamigos Blanco 750ml,08-Jul-2022,SO-350018,INV-350014,Customer Square 2,pGFwn9Wj8BKkDnyYR7mAUknbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3248,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,07-Jul-2022,SO-349686,INV-349682,Customer Square 2,pIOaKBOz4Usfrnu7VemVXcPMuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+127,Airport,Square,21296620031,Paul Masson Peach Brandy 200ml,07-Jul-2022,SO-349708,INV-349704,Customer Square 1,pIWGw87jHD2PP6wK8xbXINbTvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1290,Airport,Square,736040003939,Stellum Shaker Barrel 750ml,07-Jul-2022,SO-349544,INV-349540,Customer Square 1,pMMAC5H6DI9jqbHfPNxQV2u1vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3917,Pleasant Valley,Square,856065002400,Deep Eddy Lemon 50ml,09-Jul-2022,SO-350440,INV-350436,Customer Square 2,pMcM8RtgGrxHfHStQhNkrHQCwaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+780,Airport,Square,88110150525,Hennessy VS 200ml,09-Jul-2022,SO-350494,INV-350490,Customer Square 1,pUCBWfslaBgTppTbyG7kqgvTvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2971,Pleasant Valley,Square,85000004265,E & J VS Brandy 375ml,09-Jul-2022,SO-350560,INV-350556,Customer Square 2,pWHDYmLsXowdvFphcCi1lC5EuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3455,Pleasant Valley,Square,619947000037,Titos Vodka 1.75L,08-Jul-2022,SO-349901,INV-349897,Customer Square 2,paFHpVhfJG6PNRnGzuEfKoPAvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3714,Pleasant Valley,Square,811538014137,Gran Centenario Plata 750ml,08-Jul-2022,SO-349896,INV-349892,Customer Square 2,paniC5cYlDhHqMCmj5InuJT6taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3256,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,11-Jul-2022,SO-350906,INV-350902,Customer Square 2,pcwUF3imS4USdam7AQuZ8ulsvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2928,Pleasant Valley,Square,83664869220,Reyka 50ml,08-Jul-2022,SO-350009,INV-350005,Customer Square 2,ped8Sbr5bO9UqJ7g2UfNXzo3vaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+3309,Pleasant Valley,Square,96749908547,Lunazul Blanco 175L,07-Jul-2022,SO-349685,INV-349681,Customer Square 2,poe0RctlpbmVLgLJQgyhNXtAuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1310,Airport,Square,744607069601,El Jimador Reposado 375ml,07-Jul-2022,SO-349608,INV-349604,Customer Square 1,pqxHSUYxjPMvqOh1phcMHtoyvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2914,Pleasant Valley,Square,82184090428,Jack Daniels 1.75L,07-Jul-2022,SO-349654,INV-349650,Customer Square 2,pskat9Lvr161klETpslap51BuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+893,Airport,Square,96749312603,Kentucky Deluxe 375ml,09-Jul-2022,SO-350359,INV-350355,Customer Square 1,pwaCsbQxpS1mKPaibRbjTzPbuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1409,Airport,Square,812136030215,Fever Tree Club Soda Can 8 Pack,09-Jul-2022,SO-350784,INV-350780,Customer Square 1,pwsZf3LloFMC38UPmX0gOhD6vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1285,Airport,Square,722160222916,Odell Good Behavior IPA 6pk cans,08-Jul-2022,SO-349917,INV-349913,Customer Square 1,r3zbftHTGlYsiAODV2YpGP92vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3250,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,08-Jul-2022,SO-349849,INV-349845,Customer Square 2,r79pMN5Vrbqr7glfjQzNaNXrvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2929,Pleasant Valley,Square,83664869220,Reyka 50ml,08-Jul-2022,SO-350111,INV-350107,Customer Square 2,rDLqKR1fP3PFmShVn3lbsYNNuaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+3673,Pleasant Valley,Square,8027787000117,Jasci Pecorino 750ml,08-Jul-2022,SO-350115,INV-350111,Customer Square 2,rHXfaVF7uo349LXZseQXrp57taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+695,Airport,Square,88004035754,Benchmark 50ml,07-Jul-2022,SO-349517,INV-349513,Customer Square 1,rVw0wV1Aao1hHvY6MJzEB1AXuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3606,Pleasant Valley,Square,744607068307,El Jimador Blanco 1L,09-Jul-2022,SO-350659,INV-350655,Customer Square 2,rXfNZdxQ82pVG6K1hCAifwevvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2496,Oak Hill,Square,856724006114,Casamigos Blanco 750ml,11-Jul-2022,SO-351222,INV-351218,Customer Square 3,rbp3sNvzBrnBHj13cBqUxE8euaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+222,Airport,Square,3421716,Mickeys Can 24oz,08-Jul-2022,SO-350274,INV-350270,Customer Square 1,rdCNDOZ3dTjulW5JsUd6iB58uaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+868,Airport,Square,96749021345,Evan Williams Black 750ml,08-Jul-2022,SO-349916,INV-349912,Customer Square 1,rdel8iyNpNpoL6pfx5Q3YBMouaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+8,Airport,Square,513081459,Hamilton Beachbum Zombie Blend 1L,09-Jul-2022,SO-350417,INV-350413,Customer Square 1,rh2EodNsjXnzuCQVPbMz0sgNuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1726,Oak Hill,Square,860006845384,Marfa Spirits Desert Gin 1L,08-Jul-2022,SO-349919,INV-349915,Customer Square 3,rj3QiVaIQIeV47nOfZCvZsD9taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+332,Airport,Square,70137111276,Black & Mild Jazz,08-Jul-2022,SO-350272,INV-350268,Customer Square 1,rjFxtWpxROrE7dJyQoBfL46duaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+972,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350629,INV-350625,Customer Square 1,rl8u2Q0g9Bc9r00zrdbp5VOEuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3575,Pleasant Valley,Square,721059002387,Aperol 1L,09-Jul-2022,SO-350485,INV-350481,Customer Square 2,rlIWTOYiPxzd3QVS1o4Ea5BhuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1555,Airport,Square,852895003150,Austin Beerworks Bloodwork IPA Cans 6 Pack,08-Jul-2022,SO-350270,INV-350266,Customer Square 1,rtaPKR4d0mO1R2PuZgpsvFnGvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+240,Airport,Square,40000000518,Starburst,08-Jul-2022,SO-350265,INV-350261,Customer Square 1,rvZe2zYS49i8l5XPwn1IgIKOuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3465,Pleasant Valley,Square,619947000051,Titos 375ml,09-Jul-2022,SO-350597,INV-350593,Customer Square 2,rvd6PFmGGGgQq1R2b5izuy8qvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+507,Airport,Square,83664869220,Reyka 50ml,09-Jul-2022,SO-350415,INV-350411,Customer Square 1,rxeAKvzwWMkQuJc0Uw5D0rWuvaB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+3900,Pleasant Valley,Square,856065002035,Deep Eddy Vodka 750ml,08-Jul-2022,SO-350056,INV-350052,Customer Square 2,t0B3L6qm0wRCnBGCSXp8JfqmuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1059,Airport,Square,195893795390,Momo's Michelada Mix 2oz,08-Jul-2022,SO-350087,INV-350083,Customer Square 1,t2Uoz8MIZ83rL8WY2kP29WZ4uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1582,Airport,Square,856065002110,Deep Eddy Ruby Red 50ml,08-Jul-2022,SO-350281,INV-350277,Customer Square 1,t4ffoEDKpxQxgTusxOKI0nQIuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+846,Airport,Square,96749001361,Lunazul Blanco 375ml,07-Jul-2022,SO-349664,INV-349660,Customer Square 1,t4fxzxjxI5IbUzdfwKDkjYUTuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2378,Oak Hill,Square,811041030013,Lalo Blanco 750ml,11-Jul-2022,SO-351231,INV-351227,Customer Square 3,t4vZfTPyuLcTPiXlymxiKnanvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3556,Pleasant Valley,Square,713382533683,Field Recordings Chenin 750ml,09-Jul-2022,SO-350663,INV-350659,Customer Square 2,t8HgFp8qggKV4AmbxjcA2mDIuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2113,Oak Hill,Square,94922545763,Dripping Springs Vodka 750ml,07-Jul-2022,SO-349612,INV-349608,Customer Square 3,t8JnSGsYBb53pUooFFooP2ctuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2287,Oak Hill,Square,704228011212,Arette Blanco 1L,08-Jul-2022,SO-349960,INV-349956,Customer Square 3,tC2cox2rD9slnVyd7lcnfnE9vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2867,Pleasant Valley,Square,80660957159,Modelo 12oz 12Pack,08-Jul-2022,SO-349933,INV-349929,Customer Square 2,tEhTdXAUodKEMcRbSAjfW6e7uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+528,Airport,Square,84105307516,Fernet Branca 50ml,08-Jul-2022,SO-350257,INV-350253,Customer Square 1,tGmNBryYCaSoZo25rYej6nsYuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3850,Pleasant Valley,Square,852322814083,Giffard Fraise de Bois 750ml,09-Jul-2022,SO-350705,INV-350701,Customer Square 2,tIZYM8K1UDyiV8Lw59iSFRrqvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2060,Oak Hill,Square,88004139941,Sazerac Rye 6y shaker Barrel 750ml,11-Jul-2022,SO-351202,INV-351198,Customer Square 3,tIjHhWblGPM1kRPdel6zAlgAvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+641,Airport,Square,87000007604,Crown Royal 375ml,08-Jul-2022,SO-350279,INV-350275,Customer Square 1,tK0VKX6KDaAduRlhvCycQjc6vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1960,Oak Hill,Square,85000029626,New Amsterdam Pink Whitney 750ml,09-Jul-2022,SO-350739,INV-350735,Customer Square 3,tKATWbEQ6yF2yiGR2iTySvXRvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2308,Oak Hill,Square,721059893756,Wild Turkey 101 PET 375ml,07-Jul-2022,SO-349648,INV-349644,Customer Square 3,tW0SWzFSfJPLj4LdbajE92uavaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3810,Pleasant Valley,Square,850013382026,Ranch Rider The Chilton 12oz 4pk,08-Jul-2022,SO-350236,INV-350232,Customer Square 2,tcTuFdUlEWeapxCySSUCr4muvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1587,Airport,Square,856650004888,El Segundo Steve Austin IPA 4 Pack Cans,09-Jul-2022,SO-350783,INV-350779,Customer Square 1,tcr2jnDIPtolA1xUQCAMdUWpuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3141,Pleasant Valley,Square,88004144708,Fireball 50ml,07-Jul-2022,SO-349734,INV-349730,Customer Square 2,tiCMzcPnAlUw2N76g1xggU3CuaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+3149,Pleasant Valley,Square,88004144708,Fireball 50ml,09-Jul-2022,SO-350549,INV-350545,Customer Square 2,tkZr7bbuwuS39qLzpXyELV9PvaB,SHIPPED,1.0,DEFAULT Carrier,,10,10,10,10,False
+2876,Pleasant Valley,Square,80686001706,Jim Beam White Label 200ml,08-Jul-2022,SO-350233,INV-350229,Customer Square 2,tmWh5gBXSwpqHif2Zq9VrdvqvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1017,Airport,Square,1234500000234,Stainless Tapered Pourer,09-Jul-2022,SO-350732,INV-350728,Customer Square 1,tmoo8sap5JCeXCbbQxJLTtS5taB,SHIPPED,1.0,DEFAULT Carrier,,12,12,12,12,False
+111,Airport,Square,21296600316,Paul Masson Brandy 50ml,07-Jul-2022,SO-349546,INV-349542,Customer Square 1,tqA9pcoL7tFpNMa8YyyZcV5fvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2076,Oak Hill,Square,88004146689,Fireball 750ml,07-Jul-2022,SO-349726,INV-349722,Customer Square 3,tqwxHSFGRpEmbNGtcKEuCzFQuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2872,Pleasant Valley,Square,80686001409,Jim Beam 750ml,07-Jul-2022,SO-349782,INV-349778,Customer Square 2,tyGWB0Zrk1pCVa7wc0HRbNc3uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+976,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350807,INV-350803,Customer Square 1,tycpThQ1tNGYBMhZzgS0bGIDuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1838,Oak Hill,Square,74854382124,Wodka Vodka 1L,07-Jul-2022,SO-349798,INV-349794,Customer Square 3,tyqkfiGa00hzlMw4nNuBzzZuvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1667,Airport,Square,887341340060,Aperol 375ml,08-Jul-2022,SO-350037,INV-350033,Customer Square 1,v1bsBhej7fUh0OiSRaCx0PwcvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+591,Airport,Square,8567507,New Amsterdam Pink Whitney 50ml,07-Jul-2022,SO-349562,INV-349558,Customer Square 1,v32RTiHJxBlWZ2CVKL9P9V27vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3758,Pleasant Valley,Square,8437008335032,Rezabal Txakoli Rose 750ml,09-Jul-2022,SO-350704,INV-350700,Customer Square 2,v3IaNdSvZfD7avrjueWalLUnuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2036,Oak Hill,Square,88004034191,Wheatley 375ml,08-Jul-2022,SO-349894,INV-349890,Customer Square 3,v3mBpt08HhM6iCW3ewkqBEm2uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1860,Oak Hill,Square,80432106983,Olmeca Altos Plata 1L,08-Jul-2022,SO-350100,INV-350096,Customer Square 3,v70JKPnzzQDJGWhmwVffIOelvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+4066,Pleasant Valley,Square,9120028071361,Grrrr Gruner Veltliner 1L,09-Jul-2022,SO-350661,INV-350657,Customer Square 2,v7esnUsRySrQ6phKQDNnvMRouaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3922,Pleasant Valley,Square,856065002417,Deep Eddy Lemon 750ml,09-Jul-2022,SO-350402,INV-350398,Customer Square 2,v7i0kT1ZyxzDvRfZsdXZMtJ1uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2381,Oak Hill,Square,811538013628,400 Conejos Espadin 750ml,09-Jul-2022,SO-350588,INV-350584,Customer Square 3,v9TCRK6PhHxnfhlOeXCYV5VtvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1399,Airport,Square,811538014038,Gran Centenario Anejo 750ml,08-Jul-2022,SO-350151,INV-350147,Customer Square 1,vBXduKye9S8dh2cn1cEwoN1duaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+51,Airport,Square,18200250019,Bud light 25oz,09-Jul-2022,SO-350455,INV-350451,Customer Square 1,vFZHJ7jHCtippnBuJVNhZuLfuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+3654,Pleasant Valley,Square,791090525671,Cocktail Kingdom Ice Tray 1.25in,09-Jul-2022,SO-350753,INV-350749,Customer Square 2,vFdX8tvmYqibshmPhZhCQYW6taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1500,Airport,Square,850013382200,Ranch Rider Margarita 12oz 4pk,09-Jul-2022,SO-350675,INV-350671,Customer Square 1,vL2QdQa3A2VqLUhLPo5kvk92uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2470,Oak Hill,Square,855880008093,OTR Margarita 100ml,11-Jul-2022,SO-350887,INV-350883,Customer Square 3,vLKs0D6E5owdP4cTBBcwoB38taB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2982,Pleasant Valley,Square,85000019498,New Amsterdam Vodka 750ml,11-Jul-2022,SO-350920,INV-350916,Customer Square 2,vPCl1MOU1q9yceePP7klkzIJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3625,Pleasant Valley,Square,7503018079059,G4 Reposado 750ml,07-Jul-2022,SO-349687,INV-349683,Customer Square 2,vPQu0dBbt2pwWpp04wv6FQ0YuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2821,Pleasant Valley,Square,80432401217,Seagrams Gin 200ml,11-Jul-2022,SO-350850,INV-350846,Customer Square 2,vTQH3YJTlWr3STY5HXA269iVvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1430,Airport,Square,818490010580,Montucky Cold Snacks Cans 6 Pack,08-Jul-2022,SO-350088,INV-350084,Customer Square 1,vTq8xbJprBoCHuFPUyIz52tDvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+38,Airport,Square,18200250002,Budweiser 25oz,08-Jul-2022,SO-349993,INV-349989,Customer Square 1,vVbOaPMkFVH8TMkQsECrpb0ZuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+549,Airport,Square,85000021651,New Amsterdam Peach 1.75L,09-Jul-2022,SO-350419,INV-350415,Customer Square 1,vZZ0AMI3V7fYG31xNhHS6rliuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2430,Oak Hill,Square,850024202320,Verdadero Reposado 750ml,11-Jul-2022,SO-350870,INV-350866,Customer Square 3,vb8VYSjAUL23jwVITg2YjLyNuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+963,Airport,Square,1234500000019,Bag Ice 20LB,08-Jul-2022,SO-350206,INV-350202,Customer Square 1,vhbfKOqAt0YdDljVcp7el9qVuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3916,Pleasant Valley,Square,856065002400,Deep Eddy Lemon 50ml,08-Jul-2022,SO-350176,INV-350172,Customer Square 2,vjgfHhCGZmYojyNiEXfKa8nhvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1922,Oak Hill,Square,83664868902,Milagro Silver 175L,08-Jul-2022,SO-350166,INV-350162,Customer Square 3,vl3wK7NcuvfqqVNNvPZxMmaCvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+223,Airport,Square,3421716,Mickeys Can 24oz,09-Jul-2022,SO-350452,INV-350448,Customer Square 1,vnGLwNx0St7HkWTkaNVBXsncuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1769,Oak Hill,Square,26964852745,Flor De Cana Reserve 7y 750ml,09-Jul-2022,SO-350809,INV-350805,Customer Square 3,vp9m0tyaSXlyevogC8UD6nk4vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+290,Airport,Square,4963406,Coke Can 12oz,08-Jul-2022,SO-350089,INV-350085,Customer Square 1,vvgKYK40KqdvOiejQVo5fKNTuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1224,Airport,Square,690271800104,Golden Bay Reds,08-Jul-2022,SO-349950,INV-349946,Customer Square 1,vvy70An7dRxOfmNEyMe4A0RJvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+886,Airport,Square,96749312504,Kentucky Deluxe 200ml,08-Jul-2022,SO-349944,INV-349940,Customer Square 1,x2FnySEgAbC2u3bfvqR5ttFquaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1894,Oak Hill,Square,80660957159,Modelo 12oz 12Pack,07-Jul-2022,SO-349535,INV-349531,Customer Square 3,x4owysQzXstPvzZXZNAp6lJhuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+228,Airport,Square,3435719,Miller Lite Can 6 Pack 16oz,07-Jul-2022,SO-349705,INV-349701,Customer Square 1,xAs2vLbvmujxA24rFhe4izjxuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2063,Oak Hill,Square,88004144708,Fireball 50ml,07-Jul-2022,SO-349569,INV-349565,Customer Square 3,xCDBzpRmIgJCn2eaGSotPK77vaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+858,Airport,Square,96749001361,Lunazul Blanco 375ml,09-Jul-2022,SO-350782,INV-350778,Customer Square 1,xClqNMh1URAni3NEBrsoEn0yvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+694,Airport,Square,88004034191,Wheatley 375ml,08-Jul-2022,SO-350025,INV-350021,Customer Square 1,xImZjB8mlHWPCeR4YjDUAbthuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1318,Airport,Square,7503013890789,Leyenda San Luis Potosi 750ml,09-Jul-2022,SO-350683,INV-350679,Customer Square 1,xKfDWRfAmrkkQojEVhXrvfJDuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2493,Oak Hill,Square,856065002493,Deep Eddy Lemon 375ml,09-Jul-2022,SO-350393,INV-350389,Customer Square 3,xWV1z1d82lzqd1zScSMR3FcvuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+782,Airport,Square,88110150525,Hennessy VS 200ml,09-Jul-2022,SO-350541,INV-350537,Customer Square 1,xcambzQR1BNh1BRZkwaGei39vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1987,Oak Hill,Square,86208390716,Monopolowa Vodka 1.75L,07-Jul-2022,SO-349615,INV-349611,Customer Square 3,xeh1TQS0WwzCinUdXPfI074GvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3049,Pleasant Valley,Square,87000004047,Bulleit Bourbon 1.75L,09-Jul-2022,SO-350474,INV-350470,Customer Square 2,xexLyil8UZnAQnFSh2n9cCM3vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1376,Airport,Square,804879609544,Gulp Hablo Verdejo 1L,07-Jul-2022,SO-349785,INV-349781,Customer Square 1,xifXd27Ac2qVu4cCHKkjkWfMuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1133,Airport,Square,618115105086,Granada Vallet 750ml,07-Jul-2022,SO-349753,INV-349749,Customer Square 1,xkQJiI8QEO3V7yvDJkErnp7nuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3023,Pleasant Valley,Square,86208390716,Monopolowa Vodka 1.75L,07-Jul-2022,SO-349743,INV-349739,Customer Square 2,xm1FVpLAHZ5G0yR0nc62bnJNuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2941,Pleasant Valley,Square,83664872459,Tullamore Dew 50ml,07-Jul-2022,SO-349691,INV-349687,Customer Square 2,xoQEir9SLcCXFrmzrmzDQOxAwaB,SHIPPED,1.0,DEFAULT Carrier,,24,24,24,24,False
+1589,Airport,Square,856803003010,Better Half Sauvignon Blanc 750ml,07-Jul-2022,SO-349606,INV-349602,Customer Square 1,xoo421uC0MCE1uih6JC4zxlVuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2643,Pleasant Valley,Square,21296620031,Paul Masson Peach Brandy 200ml,09-Jul-2022,SO-350701,INV-350697,Customer Square 2,z7PNHgR49gk3DLwP0PRHqreZuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1505,Airport,Square,850015640056,Teremana Reposado 1L,08-Jul-2022,SO-350202,INV-350198,Customer Square 1,z9U7BE8mqSVcvCHM3Gz7XQ6xuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+969,Airport,Square,1234500000019,Bag Ice 20LB,09-Jul-2022,SO-350568,INV-350564,Customer Square 1,zBoaUqR50dpZTpep16Kyt4b4vaB,SHIPPED,1.0,DEFAULT Carrier,,4,4,4,4,False
+158,Airport,Square,25900227265,Swisher Sweets 2 Pack,07-Jul-2022,SO-349672,INV-349668,Customer Square 1,zDzJzdmt0oVTPt2VBmJ7wgkLvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3533,Pleasant Valley,Square,699446000318,Graham Beck Brut Rose 750ml,09-Jul-2022,SO-350478,INV-350474,Customer Square 2,zJQMazwn6Sb6G8yOLPaCG3cUuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3541,Pleasant Valley,Square,704228011212,Arette Blanco 1L,09-Jul-2022,SO-350718,INV-350714,Customer Square 2,zJYsawggTkXU0qS0w5VmfVQPvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+1588,Airport,Square,856724006114,Casamigos Blanco 750ml,09-Jul-2022,SO-350576,INV-350572,Customer Square 1,zTzbi5nd3W2TGoBAMwQrV9uRuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+155,Airport,Square,25900205362,Swisher Diamond 2 Pack,09-Jul-2022,SO-350389,INV-350385,Customer Square 1,zVEVf9MIT8gvzvJMOQ8vEfT7taB,SHIPPED,1.0,DEFAULT Carrier,,3,3,3,3,False
+490,Airport,Square,81128005214,Fords Gin 1L,08-Jul-2022,SO-350285,INV-350281,Customer Square 1,zXLsPgCaEZ4Euyn0WwcMHc5HvaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3252,Pleasant Valley,Square,96749312504,Kentucky Deluxe 200ml,09-Jul-2022,SO-350345,INV-350341,Customer Square 2,zdAZz5YTMrtVEU6NO2ZfZcF6vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3265,Pleasant Valley,Square,96749312603,Kentucky Deluxe 375ml,09-Jul-2022,SO-350602,INV-350598,Customer Square 2,zl05BwRrKXVfydtPTTOcsYE8vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+55,Airport,Square,18200250033,Busch 25oz,07-Jul-2022,SO-349547,INV-349543,Customer Square 1,znXGN5igHv5fj4AdvJAwhMRsuaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+2286,Oak Hill,Square,704228011212,Arette Blanco 1L,07-Jul-2022,SO-349802,INV-349798,Customer Square 3,zpeH2wRaySd4SmZo8KYgYp3GuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+313,Airport,Square,62920223,Populis Reversee 2021 750ml,07-Jul-2022,SO-349514,INV-349510,Customer Square 1,zr3Nv0CYc8Ea8g6vLihp6xf0vaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+774,Airport,Square,88110011307,Johnnie Walker Black 750ml,07-Jul-2022,SO-349706,INV-349702,Customer Square 1,zr7poEFpfUY1DzH3HiFyGFpTuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+3715,Pleasant Valley,Square,811538014137,Gran Centenario Plata 750ml,08-Jul-2022,SO-349925,INV-349921,Customer Square 2,zrtQfQ14HlFin8FWLPCJm9kdvaB,SHIPPED,1.0,DEFAULT Carrier,,2,2,2,2,False
+1130,Airport,Square,614409550204,Liber & Co Rio Red Grapefruit Cordial 17oz,08-Jul-2022,SO-349860,INV-349856,Customer Square 1,zvfUbjTPpqpRHY2uAO5hsjTUuaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
+2823,Pleasant Valley,Square,80432500118,Jameson 1L,08-Jul-2022,SO-349898,INV-349894,Customer Square 2,zvfW2iiQa4sJhykSuRJJlmu5uaB,SHIPPED,1.0,DEFAULT Carrier,,1,1,1,1,False
