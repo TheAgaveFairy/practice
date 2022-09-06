@@ -1,0 +1,482 @@
+,Name,SKU,Category,Price,Enabled 1,Enabled 2,Enabled 3,Enabled Warehouse,Tax 1,Tax 2
+144,Advil 2 Pack,24291261360,Retail,0.99,N,N,Y,N,Y,N
+168,Alesmith Nut Brown 6 Pk 12oz Cans,812465000972,,11.99,Y,N,N,N,Y,N
+169,Alesmith Nut Brown 6 Pk 12oz Cans,812465000972,Other,11.00,N,N,Y,N,Y,N
+401,Austin Shaker T-Shirt,1234500000018,Retail,15.00,N,Y,N,N,Y,Y
+534,Bamboo Picks Pack of 24,876718006395,Retail,1.39,Y,N,N,N,Y,N
+535,Bamboo Picks Pack of 24,876718006395,Retail,1.39,N,Y,Y,Y,Y,Y
+584,Barrell Bourbon 33 750mL,736040005605,Whiskey Bourbon/American,91.99,N,Y,N,N,N,N
+585,Barrell Bourbon 33 750mL,736040005605,Whiskey Bourbon/American,91.99,Y,N,N,N,N,N
+586,Barrell Bourbon 33 750mL,736040005605,Whiskey Bourbon/American,91.99,N,N,Y,Y,Y,N
+620,BC Powder 2 Pack,42037111137,Retail,0.99,N,N,Y,N,Y,N
+621,BC Powder 2 Pack,42037111137,Retail,0.99,N,Y,N,N,Y,Y
+719,Big Hunk,070602739004,Retail,0.75,Y,N,N,N,Y,N
+721,Big Red,02217400,,0.35,Y,N,N,N,Y,N
+893,Blush Donut Drink Floaties,842094151752,Retail,8.99,Y,N,N,N,Y,N
+1005,Brewdog Hazey Jane 6pk,824817100319,Craft Beer,11.99,Y,N,N,N,N,N
+1006,Brewdog Hazy Jane Ipa,842817100319,Craft Beer,11.99,N,Y,Y,Y,N,N
+1007,Brewdog Hellcat,842817100760,Craft Beer,11.99,N,Y,Y,Y,N,N
+1145,Burrito Fiestero Ancestral Castilla Durango 750ml,850009098122,Mezcal,119.99,N,Y,N,N,N,N
+1181,Cakewalk Sweater Napkin,876718032479,Retail,3.99,N,Y,N,N,Y,Y
+1194,Cambridge road Naturalist Blanc,09421905022132,White,28.99,N,Y,N,N,N,N
+1195,Cambridge road Naturalist Blanc,09421905022132,White,28.99,N,N,Y,Y,Y,N
+1196,Cambridge road Naturalist Blanc,09421905022132,White,28.99,Y,N,N,N,N,N
+1301,Casamigos Reposado 375ml,856724006220,Tequila,23.99,Y,N,N,N,Y,N
+1302,Casamigos Reposado 375ml,856724006220,Tequila,23.99,N,Y,Y,Y,Y,Y
+1307,Cascahuin Anejo 750ml,718783000079,Tequila,64.99,Y,N,N,N,Y,N
+1308,Cascahuin Anejo 750ml,718783000079,Tequila,64.99,N,Y,Y,Y,Y,Y
+1309,Cascahuin Aniversario 750ml,718783000130,Tequila,129.99,Y,N,N,N,Y,N
+1311,Cascahuin Blanco 750ml,718783000048,Tequila,37.99,Y,N,N,N,Y,N
+1312,Cascahuin Blanco 750ml,718783000048,Tequila,37.99,N,Y,Y,Y,Y,Y
+1315,Cascahuin Reposado 750ml,718783000086,Tequila,54.99,Y,Y,N,Y,Y,Y
+1416,CHEEZ-IT,024100122615,Snacks,0.50,Y,N,Y,Y,Y,Y
+1532,Clase Azul Plata 750ml,081240049547,Tequila,134.99,Y,N,N,N,Y,N
+1533,Clase Azul Plata 750ml,081240049547,Tequila,134.99,N,Y,Y,Y,Y,Y
+1535,Clase Azul Reposado 750ml,081240049516,Tequila,169.99,N,Y,N,N,Y,Y
+1536,Clase Azul Reposado 750ml,081240049516,Tequila,169.99,Y,N,Y,Y,Y,N
+1537,Clase Azul Reposado 750ml,850014275099,Tequila,169.99,N,N,Y,N,N,N
+1547,Clear Eyes,678112254187,Retail,2.99,Y,N,N,N,Y,N
+1648,Codigo Rosa 750ml,859061006113,Tequila,69.99,N,Y,N,N,Y,Y
+1649,Codigo Rosa 750ml,859061006113,Tequila,69.99,Y,N,Y,Y,Y,N
+1752,Corralejo Anejo 750ml,720815930339,Tequila,54.99,Y,N,N,N,Y,N
+1753,Corralejo Anejo 750ml,720815930339,Tequila,54.99,N,Y,Y,Y,Y,Y
+1756,Corralejo Reposado 750ml,720815930131,Tequila,36.99,Y,Y,N,Y,Y,Y
+1757,Corralejo Reposado 750ml,720815930131,Tequila,36.99,N,N,Y,N,Y,N
+1853,Dahlia Cristalino Reposado 750ml,863415000078,Tequila,38.99,N,Y,Y,Y,Y,Y
+1854,Dahlia Cristalino Reposado 750ml,863415000078,Tequila,38.99,Y,N,N,N,Y,N
+2095,Doc Swinson 15yr 750ml,850167007745,Whiskey Bourbon/American,169.99,Y,N,Y,Y,Y,N
+2131,Dominoes Black,704551408161,Retail,7.99,N,Y,N,N,Y,Y
+2133,Dominoes Mini Assorted Colors,4019571,Retail,2.49,Y,Y,Y,N,Y,Y
+2134,Dominoes Mini Assorted Colors,4019571,Retail,2.49,Y,N,N,N,Y,Y
+2155,Don Fulano Extra Anejo 750ml,7416388337516,Tequila,139.99,N,Y,N,N,Y,Y
+2161,Don Julio Anejo 750ml,674545000063,Tequila,65.99,Y,N,N,N,Y,N
+2162,Don Julio Anejo 750ml,674545000063,Tequila,65.99,N,Y,Y,Y,Y,Y
+2163,Don Julio Blanco 175L,674545000629,Tequila,89.99,Y,N,N,N,Y,N
+2165,Don Julio Blanco 375ml,674545000599,Tequila,27.99,Y,Y,N,Y,Y,Y
+2166,Don Julio Blanco 375ml,674545000599,Tequila,27.99,N,N,Y,N,Y,N
+2168,Don Julio Blanco 750ml,674545000001,Tequila,59.99,Y,N,N,N,Y,N
+2169,Don Julio Blanco 750ml,674545000001,Tequila,59.99,N,Y,Y,Y,Y,Y
+2171,Don Julio Reposado 375ml,674545000605,Tequila,29.99,N,N,Y,N,Y,N
+2173,Don Julio Reposado 750ml,674545000414,Tequila,65.99,N,Y,N,N,Y,Y
+2174,Don Julio Reposado 750ml,674545000414,Tequila,65.99,Y,N,Y,Y,Y,N
+2255,Ducle Vida 375ml,89432002538,Tequila,15.99,N,N,Y,N,Y,N
+2256,Ducle Vida 375ml,89432002538,Tequila,15.99,Y,N,N,N,Y,N
+2257,Ducle Vida 375ml,89432002538,Tequila,15.99,N,Y,N,Y,Y,N
+2269,Duplais Blanche Absinthe 750ml,7640105020447,Absinthe,84.99,Y,Y,N,Y,Y,Y
+2270,Duplais Verte Absinthe 750ml,7640105020737,Absinthe,99.99,Y,N,Y,Y,Y,Y
+2400,El Jimador Blanco 1L,744607068307,Tequila,26.99,Y,N,N,N,Y,N
+2401,El Jimador Blanco 1L,744607068307,Tequila,26.99,N,Y,Y,Y,Y,Y
+2403,El Jimador Blanco 375ml,744607068604,Tequila,9.99,N,Y,N,N,Y,Y
+2404,El Jimador Blanco 375ml,744607068604,Tequila,9.99,Y,N,Y,Y,Y,N
+2406,El Jimador Reposado 1L,744607069304,Tequila,26.99,N,Y,N,N,Y,Y
+2407,El Jimador Reposado 1L,744607069304,Tequila,26.99,Y,N,Y,Y,Y,N
+2409,El Jimador Reposado 375ml,744607069601,Tequila,9.99,N,N,Y,N,Y,N
+2445,El Tequileno Reposado 750ml,7501398100332,Tequila,54.99,Y,Y,N,Y,Y,Y
+2446,El Tequileno Reposado 750ml,7501398100332,Tequila,54.99,N,N,Y,N,Y,N
+2448,El Tesoro Anejo 750ml,080686761402,Tequila,79.99,Y,Y,N,Y,Y,Y
+2449,El Tesoro Anejo 750ml,080686761402,Tequila,79.99,N,N,Y,N,Y,N
+2450,El Tesoro Blanco 375ml,080686760054,Tequila,25.99,Y,N,Y,Y,Y,N
+2451,El Tesoro Blanco 375ml,80686760054,Tequila,25.99,Y,N,N,N,Y,N
+2452,El Tesoro Blanco 375ml,080686760054,Tequila,25.99,N,Y,N,N,Y,Y
+2453,El Tesoro Blanco 750ml,080686760405,Tequila,49.99,Y,Y,N,Y,Y,Y
+2454,El Tesoro Blanco 750ml,080686760405,Tequila,49.99,N,N,Y,N,Y,N
+2455,El Tesoro Extra Anejo 750ml,080686761044,Tequila,119.99,Y,N,Y,Y,Y,N
+2456,El Tesoro Extra Anejo 750ml,080686761044,Tequila,119.99,N,Y,N,N,Y,Y
+2457,El Tesoro Paradiso Extra Anejo 750ml,080686759461,Tequila,180.99,Y,N,N,N,Y,N
+2458,El Tesoro Paradiso Extra Anejo 750ml,080686759461,Tequila,180.99,N,Y,Y,Y,Y,Y
+2459,El Tesoro Reposado 750ml,080686762409,Tequila,59.99,Y,N,Y,Y,Y,N
+2460,El Tesoro Reposado 750ml,080686762409,Tequila,59.99,N,Y,N,N,Y,Y
+2461,El Tesoro Reposado De Nada 750ml,0806867620271,Tequila,59.99,N,N,N,Y,Y,N
+2462,El Tesoro Reposado Nickel City 750ml,080686762027,Tequila,59.99,Y,Y,N,N,Y,Y
+2463,El Tesoro Reposado Nickel City 750ml,80686762027,Tequila,53.99,Y,N,N,N,Y,N
+2464,El Tesoro Reposado Nickel City 750ml,80686762027,Tequila,59.99,N,N,Y,N,Y,N
+2465,El Tesoro Reposado Nickel City 750ml,,Tequila,variable,N,N,N,N,Y,N
+2466,El Tesoro Reposado Nickel City 750ml,080686762027,Tequila,59.99,N,N,Y,N,Y,N
+2473,Elenita Pineapple Jalapeno 4 Pack,850012357117,RTD,10.99,N,Y,N,Y,Y,Y
+2474,Elenita Strawberry Mule 4 Pack,850012357155,RTD,10.99,Y,N,Y,Y,Y,Y
+2521,Espolon Blanco 1L,721059701006,Tequila,33.99,Y,N,N,N,Y,N
+2522,Espolon Blanco 1L,721059701006,Tequila,33.99,N,Y,Y,Y,Y,Y
+2523,Espolon Blanco 375ml,664804000378,Tequila,14.99,Y,Y,N,Y,Y,Y
+2524,Espolon Blanco 375ml,664804000378,Tequila,14.99,N,N,Y,N,Y,N
+2527,Espolon Reposado 375ml,664804000385,Tequila,14.99,Y,Y,N,Y,Y,Y
+2528,Espolon Reposado 375ml,664804000385,Tequila,14.99,N,N,Y,N,Y,N
+2554,Exotico Blanco 1L,088352126524,Tequila,18.99,Y,Y,N,Y,Y,Y
+2615,Fernet Branca 375ml,898563002636,Amaro,17.99,N,Y,N,N,Y,Y
+2616,Fernet Branca 375ml,084105307523,Amaro,17.99,Y,N,Y,Y,Y,N
+2617,Fernet Branca 375ml,898563002636,Amaro,17.99,Y,N,Y,N,Y,N
+2618,Fernet Branca 50ml,084105307516,Amaro,2.99,N,Y,Y,N,Y,Y
+2619,Fernet Branca 50ml,084105307516,Amaro,2.99,Y,N,N,N,Y,N
+2620,Fernet Branca 50ml,08410530751,Amaro,2.99,N,N,Y,N,Y,N
+2621,Fernet Branca 50ml,08410530751,Amaro,2.99,Y,N,N,Y,Y,N
+2623,Fernet Branca 750ml,084105307509,Amaro,34.99,N,N,Y,N,Y,N
+2625,Fernet Gancia 750ml,857853002237,Amaro,24.99,N,N,Y,N,Y,N
+2627,Fernet Vallet 750ml,618115105017,Amaro,28.99,N,N,Y,N,Y,N
+2746,Fortaleza Anejo 750ml,7502221968105,Tequila,99.99,Y,N,N,N,Y,N
+2747,Fortaleza Anejo 750ml,7502221968105,Tequila,99.99,N,Y,Y,Y,Y,Y
+2748,Fortaleza Blanco 750ml,7502221966101,Tequila,56.99,Y,Y,N,Y,Y,Y
+2749,Fortaleza Blanco 750ml,7502221966101,Tequila,56.99,N,N,Y,N,Y,N
+2751,Fortaleza Blanco Still Strength 750ml,7502221969034,Tequila,65.99,Y,Y,N,Y,Y,Y
+2752,Fortaleza Blanco Still Strength 750ml,7502221969034,Tequila,65.99,N,N,Y,N,Y,N
+2753,Fortaleza Reposado 750ml,7502221967108,Tequila,65.99,Y,N,N,N,Y,N
+2754,Fortaleza Reposado 750ml,7502221967108,Tequila,65.99,N,Y,Y,Y,Y,Y
+2819,Fred Jerbis Bitter 750ml,7779989684,Amaro,32.99,N,N,Y,N,Y,N
+2836,Fruit Lab Grand Poppy 750ml,855675001599,Amaro,27.99,N,N,Y,N,Y,N
+2845,Fuenteseca Blanco 750ml,741638000009,Tequila,89.99,N,Y,N,N,Y,Y
+2847,Fuenteseca Blanco Huerta Singular 750ml,741638912005,Tequila,128.99,Y,N,Y,Y,Y,N
+2848,Fuenteseca Blanco Huerta Singular 750ml,741638912005,Tequila,128.99,N,Y,N,N,Y,Y
+2850,Fuenteseca Reserva 7y 750ml,741638000023,Tequila,204.99,N,N,Y,N,Y,N
+2852,Fuenteseca Reserva Anejo 21y 750ml,741638952001,Tequila,899.99,Y,N,N,N,Y,N
+2854,G4 Anejo Tequila 750ml,7503018079066,Tequila,94.99,N,Y,N,N,Y,Y
+2855,G4 Anejo Tequila 750ml,7503018079066,Tequila,94.99,Y,N,Y,Y,Y,N
+2856,G4 Blanco 108 proof Tequila 750ml,7503018079240,Tequila,52.99,Y,N,N,N,Y,N
+2857,G4 Blanco 108 proof Tequila 750ml,7503018079240,Tequila,52.99,N,Y,Y,Y,Y,Y
+2858,G4 Blanco Tequila 750ml,7503018079004,Tequila,52.99,N,Y,N,N,Y,Y
+2859,G4 Blanco Tequila 750ml,7503018079004,Tequila,52.99,Y,N,Y,Y,Y,N
+2861,G4 Reposado 750ml,7503018079059,Tequila,63.99,Y,N,N,N,Y,N
+2862,G4 Reposado 750ml,7503018079059,Tequila,63.99,N,Y,Y,Y,Y,Y
+2866,Galliano L'Aperitivo 375ml,80915119653,Amaro,19.99,Y,N,N,N,Y,N
+2947,Glendalough Double Barrel Irish Whisky 750ml,5391537390005,Whiskey Irish,35.99,N,N,Y,N,Y,N
+3049,Gran Centenario Anejo 200ml,811538019767,Tequila,12.99,N,N,Y,N,Y,N
+3050,Gran Centenario Anejo 750ml,811538014038,Tequila,31.99,Y,N,Y,Y,Y,N
+3051,Gran Centenario Anejo 750ml,811538014038,Tequila,31.99,N,Y,N,N,Y,Y
+3053,Gran Centenario Plata 750ml,811538014137,Tequila,25.99,Y,Y,N,Y,Y,Y
+3054,Gran Centenario Plata 750ml,811538014137,Tequila,25.99,N,N,Y,N,Y,N
+3055,Gran Centenario Reposado 750ml,811538014236,Tequila,28.99,Y,N,Y,Y,Y,N
+3056,Gran Centenario Reposado 750ml,811538014236,Tequila,28.99,N,Y,N,N,Y,Y
+3075,Granada Vallet 750ml,618115105086,Amaro,33.99,N,N,Y,N,Y,N
+3143,Guido Porro Barbera d'Alba 750ml,761503723338,Red Old World,20.99,Y,N,Y,Y,Y,Y
+3199,Hampden Estate Euphonia 750ml,810852035095,Rum,199.99,N,Y,N,Y,Y,Y
+3210,Handmade Earrings,1234500000100,Retail,10.00,Y,N,N,N,Y,N
+3302,Henriques and Henriques Dry 5yr Madeira 750ml,5601196010771,Fortified,22.99,Y,Y,N,Y,Y,Y
+3311,Herradura Anejo 750ml,744607111331,Tequila,59.99,Y,Y,N,Y,Y,Y
+3312,Herradura Anejo 750ml,744607111331,Tequila,59.99,N,N,Y,N,Y,N
+3315,Herradura Blanco 1L,744607050401,Tequila,45.99,Y,N,Y,Y,Y,N
+3316,Herradura Blanco 1L,744607050401,Tequila,45.99,N,Y,N,N,Y,Y
+3318,Herradura Legend Anejo 750ml,744607007108,Tequila,159.99,N,N,Y,N,Y,N
+3319,Herradura Legend Anejo 750ml,744607007108,Tequila,159.99,Y,Y,N,Y,Y,Y
+3320,Herradura Reposado 1L,744607050395,Tequila,53.99,Y,N,N,N,Y,N
+3321,Herradura Reposado 1L,744607050395,Tequila,53.99,N,Y,Y,Y,Y,Y
+3394,HoochHouse Pin,250250250,Retail,3.50,Y,N,N,N,Y,N
+3401,Hornitos Reposado 1L,80686835011,Tequila,37.99,Y,N,N,N,Y,N
+3418,Hudson Bright Lights Big Bourbon 750ml,083664874507,Whiskey Bourbon/American,39.99,N,N,Y,Y,Y,Y
+3439,Ichiros Malt Chichibu 2020 Peated 750ml,,Whiskey Japanese,variable,Y,N,Y,N,Y,Y
+3453,Illuminidol Candle,1234500000112,Retail,12.00,Y,N,Y,Y,Y,N
+3454,Illuminidol Candle,1234500000112,Retail,12.00,Y,Y,N,N,Y,Y
+3492,J Rieger Caffe Amaro 750ml,748252169372,Amaro,34.99,N,Y,N,N,Y,Y
+3493,J Rieger Caffe Amaro 750ml,748252169372,Amaro,34.99,Y,N,Y,Y,Y,N
+3541,Jagermeister 1L,83089660150,Amaro,34.99,N,N,Y,N,Y,N
+3542,Jagermeister 375ml,083089660358,Amaro,12.99,Y,Y,N,Y,Y,Y
+3543,Jagermeister 375ml,083089660358,Amaro,12.99,N,N,Y,N,Y,N
+3597,Jello Shot Cups And Lids,098382150253,Retail,5.99,N,N,Y,N,Y,N
+3693,Johnny Drum Private Stock 750ml,680203020571,Whiskey Bourbon/American,32.99,Y,Y,N,Y,Y,Y
+3703,Jose Cuervo Gold 200ml,811538010924,Tequila,6.99,Y,Y,N,Y,Y,Y
+3704,Jose Cuervo Gold 200ml,811538010924,Tequila,6.99,N,N,Y,N,Y,N
+3706,Jose Cuervo Gold 750ml,811538010832,Tequila,19.99,Y,N,N,N,Y,N
+3707,Jose Cuervo Gold 750ml,811538010832,Tequila,19.99,N,Y,Y,Y,Y,Y
+3710,Jose Cuervo Reserva De Famila Extra Anejo 750ml,811538011457,Tequila,199.99,N,Y,N,N,Y,Y
+3711,Jose Cuervo Reserva De Famila Extra Anejo 750ml,811538011457,Tequila,199.99,Y,N,Y,Y,Y,N
+3712,Jose Cuervo Silver Tradicional 1L,811538011433,Tequila,28.99,N,Y,N,N,Y,Y
+3713,Jose Cuervo Silver Tradicional 1L,811538011433,Tequila,28.99,Y,N,Y,Y,Y,N
+3815,King Floyd's 5 Pack,857203007257,Bitters,28.99,N,Y,N,N,Y,Y
+3870,Koch Ancestral Espadin 750ml,850009079121,Mezcal,99.99,Y,N,N,Y,Y,Y
+3951,La Gritona Reposado 375ml,859026001405,Tequila,24.99,N,Y,Y,Y,Y,Y
+3952,La Gritona Reposado 375ml,859026001405,Tequila,24.99,Y,N,N,N,Y,N
+3953,La Gritona Reposado 750ml,859026001221,Tequila,45.99,Y,Y,N,Y,Y,Y
+3954,La Gritona Reposado 750ml,859026001221,Tequila,45.99,N,N,Y,N,Y,N
+4034,Lalo Blanco 750ml,811041030013,Tequila,45.99,N,Y,Y,Y,Y,Y
+4035,Lalo Blanco 750ml,811041030013,Tequila,45.99,Y,N,N,N,Y,N
+4113,Leopold Brothers Apertivo 750ml,836137000091,Amaro,37.99,Y,N,N,N,Y,N
+4115,Leopold Brothers BIB 750ml,836137000275,Whiskey Bourbon/American,57.99,Y,N,Y,Y,Y,Y
+4223,Lone Star 24pk,073360183010,Dom Beer,22.99,N,Y,N,N,Y,N
+4235,Long Drink Zero 6/12oz Cans,860272001439,RTD,13.99,Y,N,Y,Y,Y,N
+4236,Long Drink Zero 6/12oz Cans,860272001439,RTD,13.99,N,Y,N,N,Y,Y
+4278,Lunazul Anejo 750ml,096749908585,Tequila,19.99,Y,Y,N,Y,Y,Y
+4279,Lunazul Anejo 750ml,096749908585,Tequila,19.99,N,N,Y,N,Y,N
+4280,Lunazul Blanco 175L,096749908547,Tequila,34.99,Y,N,Y,Y,Y,N
+4281,Lunazul Blanco 175L,096749908547,Tequila,34.99,N,Y,N,N,Y,Y
+4282,Lunazul Blanco 1L,096749908028,Tequila,21.99,Y,Y,N,Y,Y,Y
+4283,Lunazul Blanco 1L,096749908028,Tequila,21.99,N,N,Y,N,Y,N
+4284,Lunazul Blanco 375ml,096749001361,Tequila,9.99,N,Y,N,N,Y,Y
+4285,Lunazul Blanco 375ml,096749001361,Tequila,9.99,Y,N,Y,Y,Y,N
+4286,Lunazul Blanco 50ml,096749908516,Tequila,1.99,Y,N,N,N,Y,N
+4287,Lunazul Blanco 50ml,096749908516,Tequila,1.99,N,Y,Y,Y,Y,Y
+4288,Lunazul Extra Anejo 750ml,096749002771,Tequila,42.99,Y,N,N,N,Y,N
+4289,Lunazul Extra Anejo 750ml,096749002771,Tequila,42.99,N,Y,Y,Y,Y,Y
+4292,Lunazul Reposado 375ml,096749001378,Tequila,9.99,Y,N,N,N,Y,N
+4293,Lunazul Reposado 375ml,096749001378,Tequila,9.99,N,Y,Y,Y,Y,Y
+4294,Lunazul Reposado 50ml,096749908509,Tequila,1.99,Y,N,Y,Y,Y,N
+4295,Lunazul Reposado 50ml,096749908509,Tequila,1.99,N,Y,N,N,Y,Y
+4360,Maestro Dobel Diamante 750ml,811538012034,Tequila,49.99,Y,N,Y,Y,Y,N
+4361,Maestro Dobel Diamante 750ml,811538012034,Tequila,49.99,N,Y,N,N,Y,Y
+4366,Magnets,12343234,Retail,9.00,N,N,Y,N,Y,N
+4589,Mi Casa Tequila Reposado 750mL,837654445556,Tequila,41.99,N,N,Y,N,Y,N
+4590,Mi Casa Tequila Reposado 750mL,837654445556,Tequila,41.99,Y,Y,N,Y,N,N
+4625,Mighty Swell Watermelon Mint 6pks,854599007045,RTD,10.99,N,Y,Y,Y,Y,Y
+4626,Mighty Swell Watermelon Mint 6pks,854599007045,RTD,10.99,Y,N,N,N,Y,N
+4627,Mijenta Tequila Blanco 750ml,850015899003,Tequila,49.99,Y,N,Y,Y,Y,N
+4628,Mijenta Tequila Blanco 750ml,850015899003,Tequila,49.99,N,Y,N,N,Y,Y
+4629,Mijenta Tequila Reposado 750ml,850015899010,Tequila,68.99,Y,N,N,N,Y,N
+4630,Mijenta Tequila Reposado 750ml,850015899010,Tequila,68.99,N,Y,Y,Y,Y,Y
+4631,Milagro Anejo 750ml,083664868971,Tequila,40.99,Y,N,N,N,Y,N
+4634,Milagro Anejo Select Barrel Reserve 750ml,83664869008,Tequila,59.99,N,N,Y,N,Y,N
+4635,Milagro Reposado 1L,083664874033,Tequila,31.99,Y,N,Y,Y,Y,N
+4636,Milagro Reposado 1L,083664874033,Tequila,31.99,N,Y,N,N,Y,Y
+4638,Milagro Reposado 375ml,83664874071,Tequila,15.99,N,N,Y,N,Y,N
+4640,Milagro Silver 175L,,Tequila,variable,N,N,N,N,Y,Y
+4641,Milagro Silver 175L,083664868902,Tequila,56.99,N,Y,N,N,Y,Y
+4642,Milagro Silver 175L,083664868902,Tequila,56.99,N,N,Y,N,Y,N
+4643,Milagro Silver 175L,,Tequila,variable,N,N,N,N,Y,N
+4644,Milagro Silver 175L,083664868902,Tequila,56.99,Y,N,N,Y,Y,N
+4645,Milagro Silver 175L,,Tequila,variable,N,N,N,N,Y,N
+4646,Milagro Silver 1L,083664870462,Tequila,31.99,Y,N,Y,Y,Y,N
+4647,Milagro Silver 1L,083664870462,Tequila,31.99,N,Y,N,N,Y,Y
+4648,Milagro Silver 375ml,083664874064,Tequila,15.99,N,Y,N,N,Y,Y
+4649,Milagro Silver 375ml,083664874064,Tequila,15.99,Y,N,Y,Y,Y,N
+4650,Milagro Silver 750ml,083664868919,Tequila,31.99,N,Y,N,N,Y,Y
+4652,Milagro Silver 750ml,83664868919,Tequila,31.99,Y,N,N,N,Y,N
+4653,Milagro Silver 750ml,83664868919,Tequila,31.99,Y,N,N,N,Y,N
+4668,Miller High Life Can 32oz,3400810,Dom Beer,2.29,N,Y,N,N,Y,Y
+4670,Miller High Life Cans 6 Pack,3400713,Dom Beer,6.99,N,Y,N,N,Y,Y
+4671,Miller High Life Cans 6 Pack,03400713,Dom Beer,6.99,Y,Y,Y,N,Y,Y
+4673,Miller High Life Pony 6 Pack,34100016418,Dom Beer,3.99,N,N,Y,N,Y,N
+4674,Miller Lite 12 oz Can 24 Pack,34100573065,Dom Beer,28.99,Y,N,N,N,Y,N
+4675,Miller Lite 12 oz Can 24 Pack,34100573065,Dom Beer,28.99,N,Y,N,N,Y,Y
+4685,Miracle Mile Bergamot Bitters 4oz,736211467799,Bitters,24.99,N,N,Y,N,Y,N
+4686,Miracle Mile Castilian Bitters 4oz,736211467096,Bitters,24.99,Y,N,N,N,Y,N
+4687,Miracle Mile Castilian Bitters 4oz,736211467096,Bitters,24.99,N,Y,Y,Y,Y,Y
+4688,Miracle Mile Chili Chocolate Bitters 4oz,736211466792,Bitters,24.99,Y,N,N,N,Y,N
+4691,Miracle Mile Forbidden 4oz,736211467294,Bitters,24.99,N,Y,N,N,Y,Y
+4692,Miracle Mile Orange Bitters 4oz,736211467898,Bitters,24.99,Y,N,N,N,Y,N
+4694,Miracle Mile Sour Cherry Bitters 4oz,736211466990,Bitters,24.99,Y,N,N,N,Y,N
+4696,Miracle Mile Toasted Pecan Bitters 4oz,736211467690,Bitters,24.99,N,Y,N,N,Y,Y
+4699,Miracle Mile Yuzu Bitters 4oz,736211467195,Bitters,24.99,N,Y,N,N,Y,Y
+4718,Modelo 12oz 18pk,080660957111,Dom Beer,23.99,N,Y,N,N,Y,Y
+4719,Modelo 12oz 18pk,080660957111,Dom Beer,23.99,Y,N,Y,Y,Y,N
+4754,Monte Alban Tequila Silver 1L,089000577293,Tequila,15.99,Y,N,Y,Y,Y,N
+4755,Monte Alban Tequila Silver 1L,089000577293,Tequila,15.99,N,Y,N,N,Y,Y
+4770,Montucky Cold Snacks Cans 12 Pack,818490010597,Dom Beer,12.99,N,Y,N,N,Y,Y
+4771,Montucky Cold Snacks Cans 6 Pack,818490010580,Dom Beer,6.99,Y,N,Y,Y,Y,N
+4772,Montucky Cold Snacks Cans 6 Pack,818490010580,Dom Beer,6.99,N,Y,N,N,Y,Y
+4786,Ms. Betters Bitters Foamer 4oz,7 70327 45110 5,Bitters,28.00,Y,N,N,Y,Y,N
+4787,Ms. Betters Bitters Foamer 4oz,770327451105,Bitters,28.00,N,Y,N,N,Y,Y
+4788,Ms. Betters Bitters Foamer 4oz,770327451105,Bitters,28.00,N,N,Y,N,Y,N
+4956,Odell Elephunk Bottle 12oz,722160222114,Craft Beer,9.99,N,Y,N,N,Y,Y
+4992,Old Forester 1920 Prohibition 750ml,081128001155,Whiskey Bourbon/American,64.99,N,Y,Y,Y,Y,Y
+4994,Old Forester 86 175L,81128005009,Whiskey Bourbon/American,39.99,N,N,Y,N,Y,N
+4995,Old Forester 86 1L,081128005047,Whiskey Bourbon/American,24.99,Y,N,Y,Y,Y,N
+4996,Old Forester 86 1L,081128005047,Whiskey Bourbon/American,24.99,N,Y,N,N,Y,Y
+4997,Old Forester 86 375ml,081128005139,Whiskey Bourbon/American,9.99,Y,Y,N,Y,Y,Y
+4998,Old Forester 86 375ml,081128005139,Whiskey Bourbon/American,9.99,N,N,Y,N,Y,N
+4999,Old Forester 86 50ml,081128000035,Whiskey Bourbon/American,1.99,Y,Y,N,Y,Y,Y
+5000,Old Forester 86 50ml,081128000035,Whiskey Bourbon/American,1.99,N,N,Y,N,Y,N
+5002,Old Forester Birthday Bourbon 2018 750ml,81128002190,Whiskey Bourbon/American,139.99,N,N,Y,N,Y,N
+5013,Old Forester Whiskey Row Series: 1920 Prohibition Style,081128001155,,64.99,Y,N,N,N,Y,N
+5029,Old Overholt Rye Bonded 750ml,080686441014,Whiskey Rye,27.99,Y,Y,N,Y,Y,Y
+5037,Olde English 800 24oz,3461219,Dom Beer,1.99,N,Y,N,N,Y,Y
+5038,Olde English 800 24oz,3461219,Dom Beer,1.99,N,N,Y,N,Y,N
+5043,Olmeca Altos Plata 1L,080432106983,Tequila,36.99,Y,N,N,N,Y,N
+5044,Olmeca Altos Plata 1L,080432106983,Tequila,36.99,N,Y,Y,Y,Y,Y
+5045,Olmeca Altos Plata 375ml,080432108260,Tequila,11.99,N,Y,N,N,Y,Y
+5046,Olmeca Altos Plata 375ml,080432108260,Tequila,11.99,Y,N,Y,Y,Y,N
+5047,Olmeca Altos Plata 50ml,080432108543,Tequila,2.99,N,Y,N,N,Y,Y
+5050,Olmeca Altos Reposado 1L,080432106990,Tequila,36.99,Y,N,N,N,Y,N
+5051,Olmeca Altos Reposado 1L,080432106990,Tequila,36.99,N,Y,Y,Y,Y,Y
+5052,Olmeca Altos Reposado 375ml,080432108307,Tequila,11.99,N,Y,N,N,Y,Y
+5053,Olmeca Altos Reposado 375ml,080432108307,Tequila,11.99,Y,N,Y,Y,Y,N
+5091,Owl and Whale Acid Phosphate 4oz,866879000110,Bitters,11.99,Y,N,N,N,Y,N
+5094,Owl and Whale Blueberry Phosphate 4oz,866879000127,Bitters,15.99,Y,N,N,N,Y,N
+5112,Pabst Blue Ribbon Cans 12 Pack,022100001701,Dom Beer,10.99,N,N,Y,N,Y,N
+5113,Pabst Blue Ribbon Cans 6 Pack,02207412,Dom Beer,6.99,Y,N,Y,Y,Y,N
+5114,Pabst Blue Ribbon Cans 6 Pack,02207412,Dom Beer,6.99,N,Y,N,N,Y,Y
+5179,Patron Reposado 750ml,721733000159,Tequila,55.99,N,Y,N,N,Y,Y
+5180,Patron Reposado 750ml,721733000159,Tequila,55.99,Y,N,Y,Y,Y,N
+5187,Patron Silver 375ml,721733000944,Tequila,25.99,Y,N,N,N,Y,N
+5188,Patron Silver 375ml,721733000944,Tequila,25.99,N,Y,Y,Y,Y,Y
+5189,Patron Silver 750ml,721733000029,Tequila,49.99,N,Y,N,N,Y,Y
+5190,Patron Silver 750ml,721733000029,Tequila,49.99,Y,N,Y,Y,Y,N
+5225,Penta Anejo 750ml,7503006845567,Tequila,149.99,Y,N,Y,Y,Y,N
+5226,Penta Anejo 750ml,7503006845567,Tequila,149.99,N,Y,N,N,Y,Y
+5229,Pepe Z Blanco Tequila 750ml,857090003004,Tequila,29.99,Y,N,Y,Y,Y,N
+5230,Pepe Z Blanco Tequila 750ml,857090003004,Tequila,29.99,N,Y,N,N,Y,Y
+5281,Pinche Vote Pin,25005555000,Retail,10.00,N,N,Y,N,Y,N
+5283,Ping Pong Balls White,072489032018,Retail,2.59,Y,Y,N,Y,Y,Y
+5284,Ping Pong Balls White,072489032018,Retail,2.59,N,N,Y,N,Y,N
+5339,Playing Cards,73854009147,Retail,2.75,N,N,Y,N,Y,N
+5376,Powers John Lane 750ml,080432200308,Whiskey Irish,74.99,Y,Y,N,Y,Y,Y
+5377,Powers John Lane 750ml,080432200308,Whiskey Irish,74.99,N,N,Y,N,Y,N
+5379,Powers Three Swallow 750ml,080432113271,Whiskey Irish,50.99,N,N,Y,N,Y,N
+5387,Pride Shirt,999999999,Retail,25.00,Y,Y,N,Y,Y,Y
+5388,Pride Shirt,999999999,Retail,25.00,N,N,Y,N,Y,N
+5411,Proper Twelve Irish 750mL,811538019569,Whiskey Irish,24.99,N,Y,N,N,Y,N
+5412,Proper Twelve Irish 750mL,811538019569,Whiskey Irish,24.99,Y,N,Y,Y,Y,N
+5567,Red Spot 15y 750ml,080432114025,Whiskey Irish,125.99,Y,N,N,N,Y,N
+5568,Red Spot 15y 750ml,080432114025,Whiskey Irish,125.99,N,Y,N,N,Y,Y
+5571,Red Stripe Bottles 6 Pack,083820567939,Dom Beer,8.99,N,N,Y,N,Y,N
+5572,Red Stripe Bottles 6 Pack,083820567939,Dom Beer,8.99,Y,Y,N,N,Y,Y
+5573,Red Stripe Bottles 6 Pack,083820569739,Dom Beer,8.99,N,Y,Y,Y,Y,Y
+5574,Redbreast 12y 750ml,080432586174,Whiskey Irish,74.99,Y,N,N,N,Y,N
+5575,Redbreast 12y 750ml,080432586174,Whiskey Irish,74.99,N,Y,Y,Y,Y,Y
+5576,Redbreast 12y Cask Strength 750ml,080432107362,Whiskey Irish,102.99,N,Y,Y,Y,Y,Y
+5577,Redbreast 12y Cask Strength 750ml,080432107362,Whiskey Irish,102.99,Y,N,N,N,Y,N
+5579,Redbreast 15y 750ml,080432106419,Whiskey Irish,119.99,N,Y,N,N,Y,Y
+5580,Redbreast 21y 750ml,080432108321,Whiskey Irish,355.99,N,Y,N,N,Y,Y
+5581,Redbreast 21y 750ml,080432108321,Whiskey Irish,355.99,Y,N,Y,Y,Y,N
+5582,Redbreast 27y 750ml,080432115626,Whiskey Irish,499.99,N,Y,N,Y,Y,Y
+5583,Redbreast 27y 750ml,080432115626,Whiskey Irish,499.99,Y,Y,Y,N,Y,Y
+5585,Redbreast Sherry Finish Lustau Edition 750ml,080432110751,Whiskey Irish,73.99,Y,N,N,N,Y,N
+5586,Redbreast Sherry Finish Lustau Edition 750ml,080432110751,Whiskey Irish,73.99,N,Y,Y,Y,Y,Y
+5588,Redbreast Small Batch Cask Strength 750ml,80432116449,Whiskey Irish,119.99,Y,N,N,N,Y,N
+5857,Samuel Adams Boston Lager 6 pack Bottles,87692100126,Dom Beer,10.99,Y,N,N,N,Y,N
+5880,Sauza Hornitos Reposado 200ml,080686835066,Tequila,10.99,Y,N,N,N,Y,N
+5881,Sauza Hornitos Reposado 200ml,080686835066,Tequila,10.99,N,Y,Y,Y,Y,Y
+5882,Sauza Hornitos Reposado 375ml,080686835035,Tequila,15.99,N,Y,N,N,Y,Y
+5883,Sauza Hornitos Reposado 375ml,080686835035,Tequila,15.99,Y,N,Y,Y,Y,N
+5884,Sauza Hornitos Reposado 750ml,080686835028,Tequila,26.99,Y,Y,N,Y,Y,Y
+5885,Sauza Hornitos Reposado 750ml,080686835028,Tequila,26.99,N,N,Y,N,Y,N
+5953,Sexton Single Malt 1L,811538018371,Whiskey Irish,37.99,Y,N,N,N,Y,N
+5979,Shunka Shuto Spring Edition 750ml,4982831240038,Whiskey Japanese,59.99,N,N,Y,N,Y,N
+5981,Shunka Shuto Summer Edition 750ml,4982831240021,Whiskey Japanese,59.99,Y,N,N,N,Y,N
+5984,Shunka Shuto Winter Edition 750ml,4982831240045,Whiskey Japanese,59.99,N,Y,N,N,Y,Y
+5987,Siembra Azul Blanco 750ml,850101001020,Tequila,49.99,N,Y,N,N,Y,Y
+5988,Siembra Azul Reposado 15yr Anniversary 750ml,850101001341,Tequila,69.99,Y,N,Y,Y,Y,N
+5989,Siembra Azul Reposado 15yr Anniversary 750ml,850101001341,Tequila,69.99,N,Y,N,N,Y,Y
+5990,Siembra Azul Reposado 750ml,850101001037,Tequila,54.99,N,N,Y,Y,Y,N
+5991,Siembra Azul Reposado 750ml,,Tequila,variable,N,N,N,N,Y,N
+5992,Siembra Azul Reposado 750ml,,Tequila,variable,N,N,N,N,Y,N
+5993,Siembra Azul Reposado 750ml,850101001037,Tequila,54.99,Y,N,N,N,Y,N
+5994,Siembra Azul Reposado 750ml,850101001037,Tequila,54.99,N,Y,N,N,Y,Y
+5995,Siembra Azul Reposado 750ml,,Tequila,variable,N,N,N,N,Y,Y
+5999,Siembra Valles Ancestral 750ml,850101001136,Tequila,122.99,N,Y,N,N,Y,Y
+6002,Siembra Valles Blanco High Proof 750ml,850101001310,Tequila,75.99,N,Y,N,N,Y,Y
+6003,Siembra Valles Blanco High Proof 750ml,850101001310,Tequila,75.99,Y,N,Y,Y,Y,N
+6005,Siembra Valles Extra Anejo 750ml,850101001242,Tequila,115.99,N,N,Y,N,Y,N
+6006,Siembra Valles Reposado 750ml,850101001457,Tequila,57.99,Y,N,N,N,Y,N
+6011,Sierra Nevada Hazy Little Thing Cans 6 Pack,83783110104,Craft Beer,9.99,N,N,Y,N,Y,N
+6013,Sierra Nevada Pale Ale Bottles 6 Pack,83783375213,Craft Beer,10.99,N,N,Y,N,Y,N
+6015,Sierra Nevada Pale Ale Cans 12 Pack,83783222005,Craft Beer,18.99,N,N,Y,N,Y,N
+6017,Sierra Nevada Seasonal Bottles 6 Pack,83783228229,Craft Beer,10.99,N,N,Y,N,Y,N
+6019,Sierra Nevada Trip in the Woods 750ml,83783430073,Craft Beer,22.99,N,N,Y,N,Y,N
+6094,Smuggle Set Collapsible Flasks,876718034619,Retail,6.50,Y,Y,N,Y,Y,Y
+6095,Smuggle Set Collapsible Flasks,876718034619,Retail,6.50,N,N,Y,N,Y,N
+6109,Solo Cup 12 Count,041165245066,Retail,1.99,Y,N,N,N,Y,N
+6110,Solo Cup 12 Count,041165245066,Retail,1.99,N,Y,Y,Y,Y,Y
+6111,Solo Shot Cups 20pk,842094150915,Retail,3.00,Y,N,N,N,Y,N
+6112,Solo Shot Cups 20pk,842094150915,Retail,3.00,N,Y,Y,Y,Y,Y
+6115,Solstandet Akvavit 1L,856972005051,Aquavit,39.99,Y,N,Y,Y,Y,Y
+6194,SRSLY Sea Salt,866097000022,,8.00,N,Y,N,N,Y,Y
+6197,St Agrestis Amaro 50ml,40232339622,Amaro,6.99,N,N,Y,N,Y,N
+6198,St Agrestis Amaro 50ml,40232339622,Amaro,6.99,Y,N,N,N,Y,N
+6199,St Agrestis Amaro 50ml,40232339622,Amaro,6.99,N,Y,N,N,Y,Y
+6201,St Agrestis Amaro 750ml,040232339684,Amaro,41.99,N,Y,N,N,Y,Y
+6203,St Agrestis Bitter 750ml,040232339677,Amaro,37.99,Y,Y,N,Y,Y,Y
+6204,St Agrestis Bitter 750ml,040232339677,Amaro,37.99,N,N,Y,N,Y,N
+6216,St George Bruto Americano 750ml,027724197502,Amaro,34.99,Y,N,Y,Y,Y,N
+6217,St George Bruto Americano 750ml,027724197502,Amaro,34.99,N,Y,N,N,Y,Y
+6369,Tapatio Anejo 1L,701192020035,Tequila,59.99,Y,Y,N,Y,Y,Y
+6370,Tapatio Anejo 1L,701192020035,Tequila,59.99,N,N,Y,N,Y,N
+6372,Tapatio Blanco 1L,701192030034,Tequila,39.99,Y,N,N,N,Y,N
+6373,Tapatio Blanco 1L,701192030034,Tequila,39.99,N,Y,Y,Y,Y,Y
+6375,Tapatio Blanco Overproof 110 1L,701192030553,Tequila,65.99,Y,Y,N,Y,Y,Y
+6376,Tapatio Blanco Overproof 110 1L,701192030553,Tequila,65.99,N,N,Y,N,Y,N
+6378,Tapatio Extra Anejo 1L,701192040019,Tequila,184.99,Y,Y,N,Y,Y,Y
+6379,Tapatio Extra Anejo 1L,701192040019,Tequila,184.99,N,N,Y,N,Y,N
+6381,Tapatio Reposado 1L,701192010036,Tequila,44.99,Y,Y,N,Y,Y,Y
+6382,Tapatio Reposado 1L,701192010036,Tequila,44.99,N,N,Y,N,Y,N
+6404,Templeton Barrel Strength Rye 750ml,720815921030,Whiskey Rye,69.99,Y,Y,N,Y,Y,Y
+6405,Templeton Caribbean Rum Cask Rye 750ml,720815921931,Whiskey Rye,49.99,Y,N,Y,Y,Y,Y
+6414,Tempus Fugit Creme De Violettes 750ml,094922049971,Liqueur,36.99,Y,N,N,N,Y,N
+6415,Tempus Fugit Creme De Violettes 750ml,094922049971,Liqueur,36.99,N,Y,Y,Y,Y,Y
+6417,Tempus Fugit Gran Classico 750ml,094922327635,Amaro,41.99,N,N,Y,N,Y,N
+6420,Tempus Gran Classico 750ml,094922327635,Amaro,41.99,Y,Y,N,Y,Y,Y
+6430,Tequila 512 Blanco 375ml,855615003065,Tequila,19.99,N,Y,Y,Y,Y,Y
+6431,Tequila 512 Blanco 375ml,855615003065,Tequila,19.99,Y,N,N,N,Y,N
+6433,Tequila 512 Blanco 750ml,855615003003,Tequila,30.99,Y,Y,N,Y,Y,Y
+6434,Tequila 512 Blanco 750ml,855615003003,Tequila,30.99,N,N,Y,N,Y,N
+6435,Tequila 512 Reposado 750ml,855615003010,Tequila,36.99,N,Y,Y,Y,Y,Y
+6436,Tequila 512 Reposado 750ml,855615003010,Tequila,36.99,Y,N,N,N,Y,N
+6438,Tequila Ocho Anejo 750ml,898627001322,Tequila,66.99,Y,N,Y,Y,Y,N
+6439,Tequila Ocho Anejo 750ml,898627001322,Tequila,66.99,N,Y,N,N,Y,Y
+6443,Tequila Ocho Anejo Tropical 750ml,860004628736,Tequila,89.99,Y,N,Y,Y,Y,N
+6444,Tequila Ocho Anejo Tropical 750ml,860004628736,Tequila,89.99,N,Y,N,N,Y,Y
+6445,Tequila Ocho Extra Anejo 750ml,898627001155,Tequila,229.99,N,Y,N,N,Y,Y
+6446,Tequila Ocho Extra Anejo 750ml,898627001155,Tequila,229.99,Y,N,Y,Y,Y,N
+6449,Tequila Ocho Plata 750ml,898627001308,Tequila,49.99,Y,N,N,N,Y,N
+6450,Tequila Ocho Plata 750ml,898627001308,Tequila,49.99,N,Y,Y,Y,Y,Y
+6452,Tequila Ocho Reposado 750ml,898627001315,Tequila,59.99,Y,N,N,N,Y,N
+6453,Tequila Ocho Reposado 750ml,898627001315,Tequila,59.99,N,Y,Y,Y,Y,Y
+6456,Teremana Blanco 750ml,850015640025,Tequila,34.99,N,N,Y,N,Y,N
+6457,Teremana Blanco 750ml,850015640025,Tequila,34.99,Y,Y,N,Y,Y,Y
+6459,Teremana Reposado 750ml,850015640032,Tequila,32.99,Y,N,N,N,Y,N
+6460,Teremana Reposado 750ml,850015640032,Tequila,32.99,N,Y,Y,Y,Y,Y
+6491,Texas Tiki Week Mug,1234500000242,Glassware,50.00,Y,N,N,N,Y,N
+6492,Texas Tiki Week Mug,1234500000242,Glassware,50.00,N,Y,Y,Y,Y,Y
+6493,Texas Tiki Week Mug 2020,115123,Glassware,80.00,N,N,Y,N,Y,N
+6494,Texas Tiki Week Mug 2020,115123,Glassware,80.00,Y,N,Y,Y,Y,N
+6594,Transcontinental Australia 750ml,810852034074,Rum,59.99,N,N,N,Y,N,N
+6618,Tres Agaves Reposado 750ml,854125003015,Tequila,29.99,Y,N,Y,Y,Y,N
+6619,Tres Agaves Reposado 750ml,854125003015,Tequila,29.99,N,Y,N,N,Y,Y
+6632,Tromba Anejo 750ml,9343863000079,Tequila,49.99,Y,N,N,Y,Y,N
+6633,Tromba Anejo 750ml,9343863000130,Tequila,49.99,Y,Y,Y,N,Y,Y
+6635,Tromba Blanco 750ml,9343863000116,Tequila,36.99,Y,N,N,N,Y,N
+6637,Tromba Reposado 750ml,9343863000123,Tequila,40.99,N,Y,N,N,Y,Y
+6638,Tromba Reposado 750ml,9343863000123,Tequila,40.99,Y,N,Y,Y,Y,N
+6648,TRU Organic Vodka 750ml,855675001308,Vodka,34.99,N,N,Y,N,Y,N
+6650,True Aluminum Ice Scoop,176595,Glassware,10.00,N,N,Y,N,Y,N
+6671,Tums,307660740209,Retail,1.50,N,Y,Y,Y,Y,Y
+6672,Tums,307660740209,Retail,1.50,Y,N,N,N,Y,N
+6705,Underberg,788754001008,Amaro,1.99,Y,N,N,N,Y,N
+6706,Underberg,788754001008,Amaro,1.99,N,Y,Y,Y,Y,Y
+6733,Valdespino en Rama Manzanilla 375ml,8412449104577,Fortified,12.99,N,Y,Y,Y,Y,Y
+6734,Valdespino en Rama Manzanilla 375ml,8412449104584,Fortified,12.99,Y,N,N,N,Y,N
+6736,Valdespino Tio Diego Amontillado 750ml,8412449103419,Fortified,23.99,Y,N,N,N,Y,N
+6741,Van Zellers Ruby Port 750ml,5606545760123,Fortified,15.99,N,N,Y,N,Y,N
+6743,Varnelli Amaro Dell Erborista 1L,040232008924,Amaro,69.99,Y,N,N,N,Y,N
+6744,Varnelli Amaro Dell Erborista 1L,040232008924,Amaro,69.99,N,Y,Y,Y,Y,Y
+6745,Varnelli Amaro Dell Erborista 1L,40232008924,Amaro,69.99,Y,N,N,N,Y,N
+6746,Varnelli Amaro Sibilla 1L,040232008917,Amaro,51.99,Y,N,Y,Y,Y,N
+6747,Varnelli Amaro Sibilla 1L,040232008917,Amaro,51.99,N,Y,N,N,Y,Y
+6751,Vecchio Amaro Del Capo 750ml,812482007015,Amaro,29.99,Y,Y,N,Y,Y,Y
+6752,Vecchio Amaro Del Capo 750ml,812482007015,Amaro,29.99,N,N,Y,N,Y,N
+6769,Vergano Bianco 750ml,815541001702,Fortified,46.99,Y,N,N,N,Y,N
+6771,Vergano Chinato Moscato Luli 500ml,815541001931,Fortified,47.99,Y,N,N,N,Y,N
+6863,Warre Tawny Otima 10y 500ml,089419003161,Fortified,24.99,N,N,Y,N,Y,N
+6864,Warre Tawny Otima 10y 500ml,89419003161,Fortified,24.99,Y,N,N,N,Y,Y
+6865,Warre Tawny Otima 20y 500ml,089419003178,Fortified,49.99,N,Y,N,N,Y,Y
+6866,Warre Tawny Otima 20y 500ml,89419003178,Fortified,49.99,Y,N,N,N,Y,N
+6867,Warre Tawny Otima 20y 500ml,089419003178,Fortified,49.99,Y,N,Y,Y,Y,N
+6989,Wild Turkey 101 1.75L,721059891752,Whiskey Bourbon/American,49.99,Y,N,N,N,Y,N
+6991,Wild Turkey 101 1L,721059891004,Whiskey Bourbon/American,34.99,N,Y,N,N,Y,Y
+6993,Wild Turkey 101 1L,721059891004,Whiskey Bourbon/American,34.99,N,N,Y,N,Y,N
+6994,Wild Turkey 101 375ml,721059893763,Whiskey Bourbon/American,14.99,N,Y,N,N,Y,Y
+6995,Wild Turkey 101 375ml,721059893763,Whiskey Bourbon/American,14.99,Y,N,Y,Y,Y,N
+6996,Wild Turkey 101 375ml,721059893763,Whiskey Bourbon/American,14.99,Y,N,N,N,Y,N
+6998,Wild Turkey 101 50ml,721059895002,Whiskey Bourbon/American,2.99,Y,N,N,N,Y,N
+6999,Wild Turkey 101 750ml,721059897501,Whiskey Bourbon/American,25.99,Y,N,Y,Y,Y,N
+7000,Wild Turkey 101 750ml,721059897501,Whiskey Bourbon/American,25.99,N,Y,N,N,Y,Y
+7004,Wild Turkey 17y Bonded 750ml,721059002271,Whiskey Bourbon/American,189.99,N,Y,N,N,Y,Y
+7006,Wild Turkey 81 1.75L,721059841757,Whiskey Bourbon/American,34.99,Y,N,Y,Y,Y,N
+7007,Wild Turkey 81 1.75L,721059841757,Whiskey Bourbon/American,34.99,N,Y,N,N,Y,Y
+7008,Wild Turkey 81 1L,721059841009,Whiskey Bourbon/American,29.99,Y,Y,N,Y,Y,Y
+7009,Wild Turkey 81 1L,721059841009,Whiskey Bourbon/American,29.99,N,N,Y,N,Y,N
+7010,Wild Turkey 81 750ml,721059847506,Whiskey Bourbon/American,19.99,N,Y,N,N,Y,Y
+7013,Wild Turkey Cornerstone Rye 750ml,721059003025,Whiskey Bourbon/American,185.99,N,Y,N,N,Y,Y
+7015,Wild Turkey Kentucky Spirit 750ml,721059947503,Whiskey Bourbon/American,59.99,N,Y,N,N,Y,Y
+7016,Wild Turkey Kentucky Spirit 750ml,721059947503,Whiskey Bourbon/American,59.99,Y,N,Y,Y,Y,N
+7018,Wild Turkey Kentucky Spirit Shaker Barrel 750ml,97638197,Whiskey Bourbon/American,59.99,N,Y,N,N,Y,Y
+7019,Wild Turkey Longbranch 750ml,721059002844,Whiskey Bourbon/American,39.99,N,Y,N,N,Y,Y
+7020,Wild Turkey Longbranch 750ml,721059002844,Whiskey Bourbon/American,39.99,Y,N,Y,Y,Y,N
+7022,Wild Turkey Rare Breed Barrel Proof 750ml,721059000222,Whiskey Bourbon/American,59.99,Y,Y,N,Y,Y,Y
+7023,Wild Turkey Rare Breed Barrel Proof 750ml,721059000222,Whiskey Bourbon/American,59.99,N,N,Y,N,Y,N
+7025,Wild Turkey Revival 750ml,721059002851,Whiskey Bourbon/American,159.99,Y,N,N,N,Y,N
+7044,Willett Family Estate Rye 4y 750ml,680203040180,Whiskey Rye,62.99,N,Y,Y,Y,Y,Y
+7045,Willett Family Estate Rye 4y 750ml,680203040180,Whiskey Rye,62.99,Y,N,N,N,Y,N
+7046,Willett Family Estate Rye 6y Rose In Paradise 750ml,62206220,Whiskey Rye,119.99,N,Y,N,N,Y,Y
+7079,Woodford Reserve Master's Collection Chocolate Malted Rye 750ml,081128002305,Whiskey Rye,134.99,Y,N,N,N,Y,N
+7134,Yzaguirre Bianco 1L,890004001024,Fortified,19.99,N,Y,N,N,Y,Y
+7135,Yzaguirre Bianco 1L,890004001024,Fortified,19.99,Y,N,Y,Y,Y,N
+7136,Yzaguirre Reserva Rojo 1L,890004001802,Fortified,26.99,N,Y,N,N,Y,Y
+7138,Yzaguirre Rojo 1L,890004001017,Fortified,19.99,N,Y,N,N,Y,Y
+7139,Yzaguirre Rojo 1L,890004001017,Fortified,19.99,Y,N,Y,Y,Y,N
+7140,Zanin Grappa Di Moscato 750ml,8009885004136,Grappa,33.99,N,Y,N,Y,Y,Y
+7159,Zwack Liqueur 750ml,088076168909,Amaro,23.99,Y,N,N,N,Y,N
+7160,Zwack Liqueur 750ml,088076168909,Amaro,23.99,N,Y,Y,Y,Y,Y
