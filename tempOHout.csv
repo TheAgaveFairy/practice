@@ -1,355 +1,434 @@
-SKU,Product,Customer,Location,Status,CategoryDear,CategorySale,OnHand,Quantity,Sale,Unit,StockValue
-833597009688,44 North Potato Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,Vodka,,12.0,,,,
-080432516171,Aberlour Abunadh 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,109.99000000000001,329.97
-12161216,Absinthe Brouilleur 3 Hole,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,3.0,,,14.0,42.0
-14701470,Absinthe Glass Torsade,Customer Square 3,Oak Hill,ACTIVE,Glassware,,8.0,,,12.0,96.0
-0727785006736,Agricola Morandin Lentico Pet Nat 750ml,Customer Square 3,Oak Hill,ACTIVE,Bubbles,,4.0,,,19.990000000000002,79.96000000000001
-4969265778597,Akashi Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Japanese,,4.0,,,114.99,459.96
-4969265758834,Akashi Ume 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Japanese,,3.0,,,42.99,128.97
-094922423139,Alessio Di Torino Vermouth 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,27.99,83.97
-634955000046,Amaro Lucano 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,29.99,89.97
-666392848189,Amicone Cantine Di Ora 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,10.0,,,13.99,139.9
-865922000343,Anxo Rose Cider 4pk,Customer Square 3,Oak Hill,ACTIVE,Cider,,6.0,,,14.99,89.94
-23165013296,Apologue Persimmon 375ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,,
-083300072106,Ardbeg 10yr 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,6.0,,,,
-704228056121,Arette Artesanal Anejo 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,4.0,,,82.99,331.96
-9781604336986,Art of the Flask,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,,
-094922525017,Averell Damson Gin Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,24.99,74.97
-856146006013,Avua Amburana Cachaca 750ml,Customer Square 3,Oak Hill,ACTIVE,Cachaca,,3.0,,,49.99,149.97
-760921594803,Banner Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,Vodka,,3.0,,,24.99,74.97
-8410061018173,Barbadillo Amontillado Dry Sherry 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,5.0,,,,
-8410061018166,Barbadillo Fino 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,7.0,,,14.99,104.93
-8410061018159,Barbadillo Manzanilla Sherry 750mL,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,,
-096925003202,Barnard Griffin Syrah Port 500ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,5.0,,,17.990000000000002,89.95000000000002
-736040003373,Barrell Bourbon 28 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,6.0,,,89.99000000000001,539.94
-736040003397,Barrell Bourbon 29 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,6.0,,,89.99,539.9399999999999
-736040003403,Barrell Bourbon 30 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,5.0,,,89.99,449.95
-736040004684,Barrell Bourbon 31 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,6.0,,,,
-736040002772,Barrell Bourbon Private Release 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,96.99,290.96999999999997
-9780399582530,Batch Cocktails,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,19.99,59.97
-089540507590,Beefeater 24 1L,Customer Square 3,Oak Hill,ACTIVE,Gin,,6.0,,,35.99,215.94
-609224885853,Belle Meade Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,64.99,194.96999999999997
-740522100160,Bells Seasonal Bottles 6 Pack,Customer Square 3,Oak Hill,ACTIVE,Craft Beer,,4.0,,,,
-851718000697,Benhams Sonoma Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,4.0,,,34.99,139.96
-761503452535,Berto Ross Da Travaj 1L,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,14.889999999999999,89.33999999999999
-8607000307508,Bikicki Sfera Noir 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,6.0,,,17.99,107.94
-860012000364,Bitter Queens Thai Spice Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,19.99,59.97
-810255020407,Bitter Truth Blossom Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,21.99,65.97
-810255020063,Bitter Truth Grapefruit Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,19.99,59.97
-810255020377,Bitter Truth Nut Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,21.99,65.97
-810255020360,Bitter Truth Olive Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,19.99,59.97
-810255020391,Bitter Truth Root Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,,
-810255020384,Bitter Truth Wood Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,21.99,65.97
-608866961901,Bittermens Citron Sauvage 375ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,7.0,,,14.99,104.93
-639767719247,Bittermens New Orleans Coffee 375ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,12.0,,,14.99,179.88
-856972005211,Bittermens Orange Cream 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,19.990000000000002,59.970000000000006
-852175005041,Bittermilk Charred Grapefruit Tonic 17oz,Customer Square 3,Oak Hill,ACTIVE,Mixer,,5.0,,,14.99,74.95
-9781580083591,Bitters A Spirited History,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,24.99,74.97
-040232378133,Black Feather Straight Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,3.0,,,32.99,98.97
-855439000738,Bloody Mary Salt Rimmer,Customer Square 3,Oak Hill,ACTIVE,Garnish,,8.0,,,7.0,56.0
-8710631219031,Bobbys Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,6.0,,,41.99,251.94
-5060372430107,Bobs Bitters Vanilla 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,31.99,95.97
-40001236,Bodega de Edgar CabRhone 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,7.0,,,32.99,230.93
-080915037643,Bols Butter Scotch Schnapps 1L,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,12.99,38.97
-080480985646,Bombay Bramble 1L,Customer Square 3,Oak Hill,ACTIVE,Gin,,4.0,,,36.99,147.96
-852935001801,Botanika Angelica Amaro 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,6.0,,,,
-852935001856,Botanika Angelica Bitters 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,6.0,,,28.99,173.94
-084105337520,Branca Menta 375ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,15.99,47.97
-700686046209,Broc Cellars Love Red 750mL,Customer Square 3,Oak Hill,ACTIVE,Red New World,,4.0,,,21.99,87.96
-816136027091,Brothers Bond Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,42.99,128.97
-812066020171,Brugal Extra Viejo 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,4.0,,,27.99,111.96
-087236700379,Bruichladdich Islay Barley 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,5.0,,,75.99,379.95
-850012626091,Brush Creek Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,58.99,176.97
-850012626107,Brush Creek Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,3.0,,,,
-3268140000145,Cap Corse Quinquina Rouge 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,21.99,65.97
-850012626084,Carbon County Vodka 1L,Customer Square 3,Oak Hill,ACTIVE,Vodka,,8.0,,,19.99,159.92
-898563002605,Carpano Antica 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,34.99,209.94
-8004400076971,Carpano Bianco 1L,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,24.990000000000002,74.97
-898563002575,Carpano Dry 375ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,4.0,,,13.107647058823531,52.430588235294124
-898563002537,Carpano Dry Vermouth 1L,Customer Square 3,Oak Hill,ACTIVE,Fortified,,5.0,,,24.990000000000002,124.95000000000002
-5602246111110,Casa Do Valle Vino Verde 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,6.0,,,9.96142857142857,59.76857142857142
-856724006114,Casamigos Blanco 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,6.0,,,49.99,299.94
-786992210121,Chairmans Forgotten Cask 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,47.99,143.97
-853117005006,Chareau Aloe Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,44.99,179.96
-688187271705,Cinco Sentidos Bicuixe-Espadin Shaker Pick 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,17.0,,,,
-695521151739,Citadelle Reserve 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,3.0,,,44.99,134.97
-182972001206,Clement Rhum Blanc Agricole 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,6.0,,,19.990000000000002,119.94000000000001
-856980005333,Cobrafire Eau De Vie De Rasin 750ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,3.0,,,49.99,149.97
-791090529693,Cocktail Kingdom Coco Mesh Strainer Copper,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,9.0,,,10.77,96.92999999999999
-123490,Cocktail Kingdom Japanese Jigger .5-.75 oz Copper,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,8.0,,,18.0,144.0
-123496,Cocktail Kingdom Julep Strainer Copper,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,6.0,,,20.0,120.0
-123497,Cocktail Kingdom Julep Strainer Gold,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,5.0,,,22.0,110.0
-791090532358,Cocktail Kingdom Mixtin Beaker 625ml,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,3.0,,,43.0,129.0
-791090529136,Cocktail Kingdom Pineapple Barspoon Stainless,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,6.0,,,25.0,150.0
-791090526074,Cocktail Kingdom Skull Barspoon Stainless,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,6.0,,,25.0,150.0
-1234500000064,Cocktail Kingdom Teardrop Double Stirrer Copper,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,4.0,,,26.0,104.0
-1234500000065,Cocktail Kingdom Teardrop Double Stirrer Gold,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,4.0,,,22.4,89.6
-1234500000066,Cocktail Kingdom Teardrop Double Stirrer Stainless,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,4.0,,,20.0,80.0
-736040523888,Combier Elicser 375ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,28.99,86.97
-123553,Copper Cocktail Picks,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,36.0,,,3.0,108.0
-080686967613,Cruzan Blackstrap 1L,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,19.865,59.595
-7500326213076,Dakabend Mexican Rum 1L,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,44.99,134.97
-088076184541,Dalwhinnie Distillers Edition 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,99.99,299.96999999999997
-8809018212038,Damso Soju 375ml,Customer Square 3,Oak Hill,ACTIVE,Soju,,20.0,,,4.989999999999999,99.79999999999998
-618397201391,Del Maguey Barril 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,,
-618397201018,Del Maguey Espadin Especial 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,129.99,389.97
-618397950015,Del Maguey San Luis del Rio 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,6.0,,,78.99,473.93999999999994
-618397110013,Del Maguey San Luis del Rio Azul 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,8.0,,,129.99,1039.92
-618397201230,Del Maguey San Pedro Taviche 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,,
-7503019735541,Derrumbes Michoacan Chino Alto 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,82.865,248.59499999999997
-613739980552,Derrumbes Oaxaca 200ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,6.0,,,17.99,107.94
-708747152913,Derrumbes Tamaulipas Ensamble 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,81.99,245.96999999999997
-613739980583,Derrumbes Zacatecas Blue Weber 200ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,21.990000000000002,87.96000000000001
-708747152920,Derrumbes Zacatecas Blue Weber 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,63.99,255.96
-3507110017111,Deux Moulins Rose 750ml,Customer Square 3,Oak Hill,ACTIVE,Rose,,6.0,,,9.99,59.94
-860002029917,District Distilling Wild Bark Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,6.0,,,39.99,239.94
-190046000048,Don Mateo Cupreata 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,75.99,227.96999999999997
-190046000031,Don Mateo Manso De Sahuayo 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,5.0,,,84.99,424.95
-190046000024,Don Mateo Silvestre 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,,
-850021602017,Dos Deus Vermouth White 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,,
-1234500000081,Double Zero Apple Eau De Vie 750ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,3.0,,,86.99,260.96999999999997
-5060185876215,Dr Adams Spanish Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,19.99,59.97
-5425007810516,Drie Fonteinen Oude Geuze 1.5L,Customer Square 3,Oak Hill,ACTIVE,Craft Beer,,3.0,,,62.99,188.97
-9780399580550,Drinking Distilled A Users Manual,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,16.99,50.97
-096749401307,Dubonnet Rouge 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,15.99,47.97
-3267130034405,Duquesne Rhum Agricole Dark 1L,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,33.99,101.97
-085000004210,E & J VS Brandy 200ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,8.0,,,3.99,31.92
-852681918064,El Buho Tepeztate 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,89.99000000000001,269.97
-711629001308,El Dorado Diamond White 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,12.99,38.97
-850012903499,El Guapo Falernum Syrup 8.5oz,Customer Square 3,Oak Hill,ACTIVE,Mixer,,4.0,,,12.99,51.96
-850012903116,El Guapo Mojito Syrup 8.5oz,Customer Square 3,Oak Hill,ACTIVE,Mixer,,3.0,,,12.99,38.97
-850012903444,El Guapo Summer Berries Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,19.99,59.97
-098709086425,Emilio Hidalgo PX Sherry 500ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,20.99,62.97
-709081489697,Enoz La Monade Fiano 750ml,Customer Square 3,Oak Hill,ACTIVE,Orange Wine,,4.0,,,28.990000000000002,115.96000000000001
-28682868,Epoch Estate Blend 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,3.0,,,59.989999999999995,179.96999999999997
-858666003121,Esporao Alandra Red BIB 3L,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,6.0,,,23.85666666666667,143.14000000000001
-858666003046,Esporao Monte Velho White 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,3.0,,,11.175185185185185,33.525555555555556
-088004021955,Evangelines Praline Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,17.99,53.97
-761503725523,Fattoria Moretto Lambrusco Monovitigno 750ml,Customer Square 3,Oak Hill,ACTIVE,Bubbles,,8.0,,,24.903793103448276,199.2303448275862
-791863140506,Fee Brothers Aromatic Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,7.99,23.97
-791863144535,Fee Brothers Elderflower Water 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,7.99,23.97
-791863144504,Fee Brothers Hibiscus Water 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,7.99,23.97
-791863144528,Fee Brothers Lavender Water 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,7.989999999999999,23.97
-791863140520,Fee Brothers Peach Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,7.989999999999999,23.97
-000309515038,Fidencio Mezcal 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,5.0,,,38.99,194.95000000000002
-9780399579004,Finding Mezcal,Customer Square 3,Oak Hill,ACTIVE,Books,,5.0,,,30.0,150.0
-026964237689,Flor De Cana Anejo 4y 1L,Customer Square 3,Oak Hill,ACTIVE,Rum,,4.0,,,19.99,79.96
-039383009577,Foro Amaro 1L,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,26.99,80.97
-724803018467,Foursquare Indelible 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,6.0,,,85.99000000000001,515.94
-851756002219,Garrison Brothers 375ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,39.99,119.97
-852322814038,Giffard Cassis 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,6.0,,,33.14,198.84
-852322814182,Giffard Orgeat Sirop 1L,Customer Square 3,Oak Hill,ACTIVE,Non Alcoholic Beverage,,4.0,,,19.990000000000002,79.96000000000001
-852322824174,Giffard Piment D'Espelette 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,6.0,,,33.99,203.94
-852322824181,Giffard Triple Sec 1L,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,6.0,,,,
-083664990405,Glenfiddich 15y Solera 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,74.99,224.96999999999997
-081753810863,Glenmorangie Lasanta 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,59.99,179.97
-12345000000922,Glenmorangie Quinta Ruban 50ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,4.0,,,4.3133333333333335,17.253333333333334
-086785890036,Gracias A Dios Tobala 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,74.99,224.96999999999997
-618115105086,Granada Vallet 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,33.99,101.97
-097985140678,Granbazan Albarino Ambar 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,3.0,,,19.99,59.97
-3770009550000,Grand Brulot Cafe Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,39.99,119.97
-854493005246,Gregarious Grump 16yr Guyana 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,4.0,,,152.99,611.96
-761503541550,Gros Nore Bandol Rose 750ml,Customer Square 3,Oak Hill,ACTIVE,Rose,,4.0,,,29.99,119.96
-761503723390,Guido Porro Barolo Lazzairasco 2014 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,3.0,,,49.99,149.97
-804879609544,Gulp Hablo Verdejo 1L,Customer Square 3,Oak Hill,ACTIVE,White,,6.0,,,16.990000000000002,101.94000000000001
-496496496496,Gusto Historico Juan Garcia Tobaxiche Amarillo 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,129.99,389.97
-469469469469,Gusto Historico Juan Vazquez Blend of 4 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,129.99,389.97
-485000485485,Gusto Historico Victor Ramos Espadin Bicuixe 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,5.0,,,99.99000000000001,499.95000000000005
-336591001318,H Bourgeois LCdMD Sancerre Blanc 750mL,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,35.99,143.96
-7503007775061,Hacienda De Banuelos Masparillo 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,89.99,359.96
-7503007775078,Hacienda De Banuelos Tepemete 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,99.99,399.96
-8805987008337,Hemosu Ginseng Soju 375ml,Customer Square 3,Oak Hill,ACTIVE,Soju,,6.0,,,,
-5601196010771,Henriques and Henriques Dry 5yr Madeira 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,5.0,,,22.990000000000002,114.95000000000002
-250250250,HoochHouse Pin,Customer Square 3,Oak Hill,ACTIVE,Retail,,24.0,,,3.5,84.0
-051497104962,Ilegal Mezcal Joven 375ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,23.69,71.07000000000001
-051497104979,Ilegal Mezcal Reposado 375ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,6.0,,,,
-8534780011670,Independence Peach Emoji Sour Cans 6 Pack,Customer Square 3,Oak Hill,ACTIVE,Craft Beer,,4.0,,,9.99,39.96
-851532005267,Infuse Bitters Cassia Bark 4oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,,
-857262003092,Ivy Mountain Corn Whiskey 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,51.99,155.97
-857262003108,Ivy Mountain Peach Brandy 750ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,4.0,,,49.99,199.96
-4976881502482,Iwai Mars 45 1.8L,Customer Square 3,Oak Hill,ACTIVE,Whiskey Japanese,,6.0,,,79.99,479.93999999999994
-748252169372,J Rieger Caffe Amaro 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,34.99,104.97
-748252169280,J Rieger Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,3.0,,,29.99,89.97
-721059001977,J Wray Gold 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,16.99,50.97
-082184003466,Jack Daniels Rye 1L,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,3.0,,,35.99,107.97
-082184002094,Jack Daniels Single Barrel Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,5.0,,,54.99,274.95
-859975003031,Jack Rudy Aromatic Bitters 2oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,4.0,,,14.99,59.96
-859975003079,Jack Rudy Sweet Tea Syrup 500ml,Customer Square 3,Oak Hill,ACTIVE,Mixer,,4.0,,,17.99,71.96
-083089000185,Jagermeister Cold Brew Mini 10pk 20ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,6.0,,,,
-736040537175,Jelinek Amaro 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,18.99,56.97
-736040505372,Jelinek Fernet 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,4.0,,,18.99,75.96
-850995005845,Jeppsons Straight Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,4.0,,,25.99,103.96
-664841000577,Joan d'Anguera Altaroses Grenache 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,6.0,,,19.99,119.94
-3760174333034,Joy VSOP 750ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,3.0,,,39.99,119.97
-089540535548,Kahlua Blonde Roast 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,24.99,74.97
-4589633900308,Ki No Bi Navy Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,3.0,,,81.99,245.96999999999997
-4589633900544,Ki No Tea Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,7.0,,,79.99,559.93
-080686187295,Kilbeggan Single Pot Still 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Irish,,4.0,,,43.70428571428572,174.81714285714287
-857203007820,King Floyds Black Lava 4oz,Customer Square 3,Oak Hill,ACTIVE,Garnish,,6.0,,,11.99,71.94
-857203007318,King Floyds Chocolate Cinn 4oz,Customer Square 3,Oak Hill,ACTIVE,Garnish,,6.0,,,11.99,71.94
-857203007066,King Floyds Sriracha 4oz,Customer Square 3,Oak Hill,ACTIVE,Garnish,,6.0,,,11.99,71.94
-09331457,King Lighter,Customer Square 3,Oak Hill,ACTIVE,Tobacco,,50.0,,,0.47572815533980584,23.78640776699029
-853396007180,Kings County Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey American Single Malt,,4.0,,,69.99,279.96
-853396007258,Kings County Empire Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey American Single Malt,,3.0,,,104.99000000000001,314.97
-853396007203,Kings County Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey American Single Malt,,3.0,,,69.99,209.96999999999997
-850009079138,Koch Ancestral Espadin Jaya 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,99.99,399.96
-850009079060,Koch Arroqueno 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,6.0,,,76.99,461.93999999999994
-850009079022,Koch Ensamble 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,53.99,161.97
-040232247583,La Luna Manso Sahuayo 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,87.74,263.21999999999997
-8437020611015,La Maldicion Tinto 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,6.0,,,12.99,77.94
-613739981412,La Venenosa Raicilla Sierra Volcanes de Jalisco 200ml,Customer Square 3,Oak Hill,ACTIVE,Raicilla,,3.0,,,37.99,113.97
-084848112347,Lairds Tenth Generation 750ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,7.0,,,46.99,328.93
-687700144666,Lalocura Pechuga 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,174.99,699.96
-080686813033,Laphroaig Quarter Cask 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,6.0,,,89.99000000000001,539.94
-3333253253,Laughing Pig Rose 750ml,Customer Square 3,Oak Hill,ACTIVE,Rose,,3.0,,,35.99,107.97
-084848721303,Lazzaroni Sambuca 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,27.99,83.97
-3770015736030,Le Quai A Raisins Embruns 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,28.99,115.96
-836137007113,Leopold Brothers Absinthe Verte 750ml,Customer Square 3,Oak Hill,ACTIVE,Absinthe,,3.0,,,72.99,218.96999999999997
-836137000091,Leopold Brothers Apertivo 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,37.99,113.97
-836137005010,Leopold Brothers Small Batch Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,3.0,,,38.99,116.97
-836137007083,Leopold Brothers Tart Cherry Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,37.693333333333335,113.08000000000001
-088320330007,Liquore Strega 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,39.99,119.97
-085000023723,Lo-Fi Dry Vermouth 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,21.990000000000002,65.97
-7503027709510,Lost Irish 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Irish,,6.0,,,36.99,221.94
-1234500000142,Lucio Leather Bar Roll Up,Customer Square 3,Oak Hill,ACTIVE,Bag,,3.0,,,,
-096749002771,Lunazul Extra Anejo 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,6.0,,,42.99,257.94
-097985280008,Lustau Cream Sherry 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,24.99,149.94
-087229127718,Luxardo Limoncello 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,27.99,83.97
-812066020355,Macallan 18y 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,339.99,1019.97
-812066022410,Macallan Classic Cut 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,109.99000000000001,329.97
-0853222006387,Malfy Gin Rosa 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,5.0,,,32.989999999999995,164.95
-8032535881382,Manzone Dolcetto D'Alba Le Ciliegie 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,3.0,,,17.09,51.269999999999996
-039815371562,Marendry Amarena Fabbri 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,25.99,77.97
-011034006593,Martini & Rossi Ambrato 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,7.0,,,26.99,188.92999999999998
-011034420054,Martini & Rossi Extra Dry Vermouth 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,3.0,,,11.99,35.97
-011034981159,Martini & Rossi Fiero 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,12.0,,,,
-8023952015016,MastroJanni Brunello di Montalcino 750mL,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,4.0,,,63.99,255.96
-17351735,Match Strike Dicharry,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,4.0,,,,
-9781951511289,Mezcal and Tequila Cocktails,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,20.0,60.0
-024137100167,Mezcal Marca Negra San Martin,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,86.99,260.96999999999997
-850015899010,Mijenta Tequila Reposado 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,3.0,,,68.99,206.96999999999997
-088004027513,Miles Gin 200ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,12.0,,,2.29,27.48
-03400810,Miller High Life Can 32oz,Customer Square 3,Oak Hill,ACTIVE,Dom Beer,,3.0,,,2.270012610340479,6.810037831021437
-854474004015,Mizu Lemongrass Shochu 750ml,Customer Square 3,Oak Hill,ACTIVE,Shochu,,4.0,,,37.99,151.96
-083089410359,Monkey 47 Gin 375ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,6.0,,,41.99,251.94
-898193001894,Montenegro Select Aperitivo 750ml,Customer Square 3,Oak Hill,ACTIVE,Amaro,,3.0,,,25.99,77.97
-87236950750,Mount Gay 1703 Port Cask 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,,
-085000021651,New Amsterdam Peach 1.75L,Customer Square 3,Oak Hill,ACTIVE,Vodka,,6.0,,,21.990000000000002,131.94
-812066022915,Noble Oak Double Oak Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,6.0,,,39.99,239.94
-897845002005,Nolets Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,3.0,,,49.99,149.97
-852384002121,Novo Fogo Chameleon Cachaca 750ml,Customer Square 3,Oak Hill,ACTIVE,Cachaca,,3.0,,,35.99,107.97
-080925100139,Nuestra Soledad San Luis Del Rio 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,58.99,235.96
-088004025540,Old Charter No. 8 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,5.0,,,17.99,89.94999999999999
-080686507406,Old Crow 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,4.0,,,11.99,47.96
-088352116907,Old Medley 12y 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,6.0,,,69.99,419.93999999999994
-89000557,Old Monk 7 year 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,18.990000000000002,56.970000000000006
-080432108253,Olmeca Altos Plata 1.75L,Customer Square 3,Oak Hill,ACTIVE,Tequila,,6.0,,,52.99,317.94
-7087443278336,Ono Sotol 750ml,Customer Square 3,Oak Hill,ACTIVE,Sotol,,3.0,,,39.989999999999995,119.96999999999998
-860006337209,Open Face Gewurztraminer 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,22.99,91.96
-860006337216,Open Face Red Co-Ferment 750mL,Customer Square 3,Oak Hill,ACTIVE,Red New World,,6.0,,,,
-8000648001539,Oscar 697 Rosso 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,,
-855880008093,OTR Margarita 100ml,Customer Square 3,Oak Hill,ACTIVE,RTD,,58.0,,,,
-899332000242,Parts & Labor Red Blend 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,4.0,,,16.99,67.96
-021296006033,Paul Masson Brandy 200ml,Customer Square 3,Oak Hill,ACTIVE,Brandy,,12.0,,,3.9872936400541272,47.84752368064953
-894909000007,Paulas Texas Grapefruit 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,6.0,,,19.99,119.94
-7503013890673,Peloton De La Muerte 1L,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,4.0,,,36.99,147.96
-048320103209,Perlino Dry Vermouth 1L,Customer Square 3,Oak Hill,ACTIVE,Fortified,,5.0,,,6.99,34.95
-048320103100,Perlino Rosso Vermouth 1L,Customer Square 3,Oak Hill,ACTIVE,Fortified,,5.0,,,6.99,34.95
-080432291672,Pernod Anisette 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,34.99,139.96
-695521121602,Pierre Ferrand Pineau Des Charentes 750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,6.0,,,36.99,221.94
-87647074427,Pigs Nose Blended Scotch 1L,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,31.99,95.97
-25005555000,Pinche Vote Pin,Customer Square 3,Oak Hill,ACTIVE,Retail,,6.0,,,,
-8437000509042,Pinol Portal 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,6.0,,,16.99,101.94
-695521152606,Plantation Barbados XO 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,53.156666666666666,159.47
-695521152583,Plantation Peru 2010 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,6.0,,,54.99,329.94
-4567890,Poderi Cellario 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,6.0,,,,
-8033267731365,Polvanera Verdeca Puglia 750ml,Customer Square 3,Oak Hill,ACTIVE,Orange Wine,,5.0,,,29.99,149.95
-609788231332,Proof & Wood Deadwood Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,6.0,,,21.99,131.94
-601673815863,Proof White Peach Syrup 4oz,Customer Square 3,Oak Hill,ACTIVE,Mixer,,4.0,,,12.99,51.96
-860004266419,Quadrum Rose Box 3L,Customer Square 3,Oak Hill,ACTIVE,Rose,,4.0,,,16.99,67.96
-860004266426,Quadrum White Blend Box 3L,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,19.875714285714285,79.50285714285714
-613739981535,Raicilla Bonete Costa 750ml,Customer Square 3,Oak Hill,ACTIVE,Raicilla,,4.0,,,,
-613739981528,Raicilla Bonete Sierra 750ml,Customer Square 3,Oak Hill,ACTIVE,Raicilla,,4.0,,,79.99,319.96
-665991040406,Ransom Whippersnapper 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,4.0,,,27.99,111.96
-7503008376496,Real Minero Espadin Largo 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,129.99,389.97
-6906785990724,Red Star Baiju 750ml,Customer Square 3,Oak Hill,ACTIVE,Baijiu,,3.0,,,14.99,44.97
-080432106419,Redbreast 15y 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Irish,,5.0,,,119.99000000000001,599.95
-031259002774,Redemption Wheated Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,6.0,,,44.99,269.94
-761503332264,Regis Bouvier Gevrey Chambertin 2013 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,3.0,,,,
-7503018107110,Rey Campero Madre Cuishe 200ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,8.0,,,29.99,239.92
-7503018107059,Rey Campero Mexicano 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,91.99000000000001,275.97
-7503018107066,Rey Campero Tepextate 750ml,Customer Square 3,Oak Hill,ACTIVE,Mezcal,,3.0,,,109.99000000000001,329.97
-689768871314,Rhum Barbancourt 3 Star 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,25.70111111111111,77.10333333333332
-182972000292,Rhum JM White 1L,Customer Square 3,Oak Hill,ACTIVE,Rum,,3.0,,,33.99,101.97
-123457,Rona Unetched Mixing Beaker,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,3.0,,,27.5,82.5
-862018000263,Rossville Barrel Proof 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,3.0,,,74.99,224.96999999999997
-862018000270,Rossville Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,3.0,,,45.99,137.97
-9024153040486,Rothman Cherry 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,,
-9024153040578,Rothman Orchard Elderberry 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,22.99,91.96
-3483814000003,Saint Cosme Chateauneuf du Pape 750mL,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,4.0,,,69.99,279.96
-787790867685,Santanera Tahona 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,4.0,,,,
-9024153090856,Scarlet Ibis 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,4.0,,,31.990000000000002,127.96000000000001
-851561005108,Scrappys Black Lemon Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,17.990000000000002,53.970000000000006
-851561005061,Scrappys Celery Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,17.990000000000002,53.970000000000006
-851561005115,Scrappys Seville Orange Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,Bitters,,3.0,,,20.99,62.97
-700987863635,Sertodo Jigger,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,3.0,,,25.0,75.0
-040232684906,Silent Pool Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,Gin,,3.0,,,55.99,167.97
-1309413094,Silver Oak Alexander Cabernet Library 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,6.0,,,112.99000000000001,677.94
-785214290750,Silver Oak Napa Cabernet Sauvignon 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,4.0,,,139.99,559.96
-7771612000162,Singani 63 750ml,Customer Square 3,Oak Hill,ACTIVE,Singani,,4.0,,,33.99,135.96
-9781607747321,Smugglers Cove,Customer Square 3,Oak Hill,ACTIVE,Books,,6.0,,,30.0,180.0
-0856972005051,Solstandet Akvavit 1L,Customer Square 3,Oak Hill,ACTIVE,Aquavit,,4.0,,,39.989999999999995,159.95999999999998
-7503031213089,Sotoleros Lalo Y Nando  750ml,Customer Square 3,Oak Hill,ACTIVE,Sotol,,3.0,,,94.99,284.96999999999997
-7503031213065,Sotoleros Romel 750ml,Customer Square 3,Oak Hill,ACTIVE,Sotol,,3.0,,,94.99000000000001,284.97
-636665075031,Southold Farm Basics of Life 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,3.0,,,23.990000000000002,71.97
-9781604338522,Speedy Cocktails,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,12.95,38.849999999999994
-860000128063,Standard Proof Ginger Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,29.99,89.97
-84284284255,Super Real Rose Unfiltered 750ml,Customer Square 3,Oak Hill,ACTIVE,Rose,,4.0,,,31.99,127.96
-855439000721,Sweet Heat Sugar Rimmer,Customer Square 3,Oak Hill,ACTIVE,Garnish,,6.0,,,7.0,42.0
-9421905022101,Swick Sauvignon Blanc 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,3.0,,,22.990000000000002,68.97
-086395405002,Takara Jun 750ml,Customer Square 3,Oak Hill,ACTIVE,Shochu,,4.0,,,18.99,75.96
-088110170059,Talisker 10y 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Scotch,,3.0,,,79.99,239.96999999999997
-084692300648,Taylor Fladgate Fine Tawny Port  750ml,Customer Square 3,Oak Hill,ACTIVE,Fortified,,12.0,,,,
-040232028762,Tears Of Llorona Extra Anejo 1L,Customer Square 3,Oak Hill,ACTIVE,Tequila,,4.0,,,264.99,1059.96
-813219020062,Teeling Single Grain 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Irish,,3.0,,,55.99,167.97
-720815280236,Teeling Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Irish,,7.0,,,,
-761503534330,Tempier Bandol Blanc 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,8.0,,,57.99,463.92
-094922370891,Tempus Fugit Vieux Pontarlier Absinthe 750ml,Customer Square 3,Oak Hill,ACTIVE,Absinthe,,3.0,,,71.99,215.96999999999997
-860004628750,Tequila Ocho Anejo Continental 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,3.0,,,89.99,269.96999999999997
-736040545514,Terralta Reposado 750ml,Customer Square 3,Oak Hill,ACTIVE,Tequila,,4.0,,,69.99,279.96
-27312731,Teutonic Jazz Odyssey 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,3.0,,,18.99,56.97
-95378543687,Teutonic Muscat 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,12.0,,,18.990000000000002,227.88000000000002
-9781646431199,Texas Whiskey,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,35.0,105.0
-9781984823571,The Craft of the Cocktail Revised Edition,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,35.0,105.0
-9781646430987,The Encyclopedia of Cocktails,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,35.0,105.0
-9780143124801,The Waldorf Astoria,Customer Square 3,Oak Hill,ACTIVE,Books,,3.0,,,25.0,75.0
-851075002013,The Whole Shebang NV Red 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,4.0,,,18.990000000000002,75.96000000000001
-857361007229,The Wiseman Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,6.0,,,54.99,329.94
-5200363506125,Thymiopoulos Young Vines 2017 750ml,Customer Square 3,Oak Hill,ACTIVE,Red Old World,,3.0,,,,
-8034108030937,Tonnino Grillo 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,12.99,51.96
-747301022712,Town Branch Rye 100p 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Rye,,3.0,,,49.99,149.97
-747301036801,Town Branch Single Malt 7y 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey American Single Malt,,3.0,,,,
-747301044271,Town Branch True Cask 109.3 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,3.0,,,,
-084279971124,Trader Vic's Kona Coffee liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,17.99,71.96
-084279970936,Trader Vic's Macademia Nut 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,6.0,,,26.99,161.94
-898185001116,Treaty Oak Red Handed 750ml,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,5.0,,,37.99,189.95000000000002
-088004025984,Tuaca 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,25.99,77.97
-7503018720036,Varan Coffee Mezcal Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,38.99,155.96
-3760272570065,Velier Forsythes WP 2005 750ml,Customer Square 3,Oak Hill,ACTIVE,Rum,,4.0,,,106.99,427.96
-728028185218,Vergnano Arancino Blood Orange Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,3.0,,,,
-5600260243244,Ve-Ve Vinho Verde 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,12.99,51.96
-28628628622,Vinca Minor Chardonnay 750ml,Customer Square 3,Oak Hill,ACTIVE,White,,4.0,,,32.99,131.96
-69869869877,Vinca Minor Red Blend 750ml,Customer Square 3,Oak Hill,ACTIVE,Red New World,,4.0,,,26.990000000000002,107.96000000000001
-123610,Viski Citrus Grater,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,6.0,,,13.0,78.0
-321456,Viski Japanese Jigger .75-1.25oz Gold,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,3.0,,,14.0,42.0
-123623,Viski Leopold Jigger Gold,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,9.0,,,27.0,243.0
-876718043710,Viski Lewis Bag and Mallet,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,11.0,,,24.0,264.0
-876718043598,Viski Mesh Cocktail Strainer,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,4.0,,,,
-123629,Viski Teardrop Barspoon 40cm Copper,Customer Square 3,Oak Hill,ACTIVE,Bar Tools,,12.0,,,29.0,348.0
-752541007559,West 32 Soju Reserve 375ml,Customer Square 3,Oak Hill,ACTIVE,Shochu,,4.0,,,17.99,71.96
-9781568365756,Whisky Japan,Customer Square 3,Oak Hill,ACTIVE,Books,,4.0,,,34.949999999999996,139.79999999999998
-5060730060007,Wilfreds N/A Aperitif 500ml,Customer Square 3,Oak Hill,ACTIVE,Non Alcoholic Beverage,,4.0,,,39.99,159.96
-680203119350,Willett Pot Still Reserve 1.75L,Customer Square 3,Oak Hill,ACTIVE,Whiskey Bourbon/American,,4.0,,,89.99000000000001,359.96000000000004
-8697530205641,Yeni Raki 750ml,Customer Square 3,Oak Hill,ACTIVE,Liqueur,,4.0,,,26.99,107.96
-7503005800161,YooWe Bacanora 750ml,Customer Square 3,Oak Hill,ACTIVE,Bacanora,,5.0,,,64.99,324.95
-890004001017,Yzaguirre Rojo 1L,Customer Square 3,Oak Hill,ACTIVE,Fortified,,4.0,,,19.990000000000002,79.96000000000001
+SKU,Product,Customer,Location,Status,CategoryDear,CategorySale,OnHand,Quantity,Sale,Unit
+,Absinthe Brouilleur 3 Hole,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Akashi Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Albert Boxler Gewurtztraminer 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Alessio Chinato Vermouth 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Alipus San Juan 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Alipus Santa Ana Del Rio 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Alta Alella Garnatxa Negra 750mL,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Altstadt Amber Cans 6 Pack,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Amaro Lucano 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Ancient Age Kentucky Straight Bourbon 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Apologue Persimmon 375ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Arak Razzouk Anise 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Ardmore Legacy 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Arrow Apple Smackers 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Art of the Flask,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Art+Science Humble Perry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Averell Damson Gin Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bacardi Anejo 4 Year 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Balcones Brimstone 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Banks 7 Golden Rum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Barbadillo Amontillado Dry Sherry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Barbadillo Manzanilla Sherry 750mL,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Barr Hill Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Barrell Bourbon 29 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Barrell Bourbon 31 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Barrell Bourbon 32 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Barrell Bourbon 33 750mL,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Barrell Vantage 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Barrell Whiskey Infinite Project 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Basil Hayden 10y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Belle Meade Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Berto Aperitiv Tradission 1L,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Bigallet Thym Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Birichino Scylla Red Blend 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Queens Caribbean Spice Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Bitter Queens Sample Pack,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Bitter Queens Thai Spice Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Aromatic Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Blossom Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Celery Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Bitter Truth Creole Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Lemon Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Nut Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Orange Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,,,14.0,,,
+,Bitter Truth Peach Bitters 200ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Root Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bitter Truth Wood Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bittercube Jamaican #2 Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Bittermens Amere Sauvage 375ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Bittermens Boston Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Bittermens Citron Sauvage 375ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Bittermens New England Cranberry Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Bittermens Orchard Street Celery Shrub 5oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Black Eye Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Black Feather Straight Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bloody Mary Salt Rimmer,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Bluecoat Elderflower 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bobbys Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bobby's Jenever 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bobs Bitters Vanilla 100ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bols Butterscotch Schnapps 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bols Genever 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Bonanto Aperitivo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,BottleCap Earrings,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Brooklyn Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Brothers Bond Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Brugal Anejo Rum 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Brugal Extra Viejo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Bruichladdich Port Charlotte 10 Heavily Peated 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Bruichladdich Port Charlotte Islay Barley 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Buchanans 12y 375ml,Customer Square 3,Oak Hill,ACTIVE,,,10.0,,,
+,Cambridge Road Naturalist Blanc 750mL,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Can Sumoi Xarel-lo 750mL,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Cantine Valpane Euli 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Cap Corse Quinquina Rouge 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Carpano Bianco 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Cascahuin Anejo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Cathead Honeysuckle Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Catoctin Creek Roundstone Rye 80 proof 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Catoctin Creek Rye Cask Proof 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Catoctin Creek Rye Rabble Rouser BIB 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Chairmans Reserve 2009 Vintage 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Chareau Aloe Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Charton Mercurey VV 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Chateau La Croix Bellevue Pomerol 750mL,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Chateau Morin St. Estephe 750mL,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Cinzano Rosso Vermouth 1L,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Citadelle Reserve 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Clement XO 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Cocktail Kingdom Ice Mallet,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Cocktail Kingdom Julep Strainer Black,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Cocktail Kingdom Julep Strainer Copper,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Cocktail Kingdom Julep Strainer Gold,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Cocktail Kingdom Teardrop Barspoon 30cm Copper,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Cocktail Kingdom Teardrop Double Stirrer Copper,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Cocktail Kingdom Teardrop Double Stirrer Gold,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Cocktail Kingdom Teardrop Double Stirrer Stainless,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Cointreau 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Combier Elicser 375ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Combier Fruits Rouges 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Combier Le Bleu 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Combier Pamplemousse 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Combier Royal 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Compass Box Hedonism 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Connemara Peated Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Contratto Americano Rosso 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Contratto Bianco Vermouth 750ml,Customer Square 3,Oak Hill,ACTIVE,,,10.0,,,
+,Copper Cocktail Picks,Customer Square 3,Oak Hill,ACTIVE,,,36.0,,,
+,Dakabend Mexican Rum 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Daron Calvados Fine 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,De Iuliis Shiraz 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,DEHY Blood Orange Jar,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,DEHY Lemon Jar,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Del Maguey Vida de Muertos 750ml,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Denizen Vatted Dark Rum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Derrumbes Michoacan Chino Alto 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Derrumbes Oaxaca 200ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Derrumbes Tamaulipas Ensamble 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Derrumbes Zacatecas Blue Weber 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Desert Door Texas Sotol 1L,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Diplomatico Distillery No2 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Dirty Sue Double Stuffed Olives 16oz,Customer Square 3,Oak Hill,ACTIVE,,,17.0,,,
+,Dirty Sue Jalapeno Stuffed Onions 16oz,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Don Ciccio & Figli Cinque Apertivo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Don Ciccio Finocchietto 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Don Mateo Cupreata 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Don Mateo Silvestre 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Dos Deus Vermouth Dry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Dos Deus Vermouth White 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Dos Equis Can 24oz,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Double Zero Apple Eau De Vie 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Drie Fonteinen Oude Geuze 1.5L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Dulce Vida Anejo Shaker Barrel 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Dulce Vida Reposado 375ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Duplais Blanche Absinthe 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Duplais Verte Absinthe 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,E & J VSOP Brandy 50ml,Customer Square 3,Oak Hill,ACTIVE,,,120.0,,,
+,Eggenberg Radler 4pk Cans,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,El Buho Espadin 1L,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,El Guapo Barrel Aged Vanilla 2oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,El Guapo Ginger Syrup 8.5oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,El Guapo Lime Cordial 8.5oz,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,El Guapo Tex Mex Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,El Guapo Tonic Syrup 8.5oz,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,El Jimador Blanco 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,El Tequileno Reposado 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Enoz La Monade Fiano 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Entre Maguey Tobala 700ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Espina Negra Tobala 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Espolon Reposado 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Esporao Alandra Red BIB 3L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Esporao Alandra White BIB 3L,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Esporao Monte Velho Rose 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Evangelines Praline Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Fee Brothers Gin Barrel Orange Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Fee Brothers Rose Water 5oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,FEW Bourbon Whiskey 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,FEW Breakfast Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Flor Del Desierto Sierra 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Fords Sloe Gin 700ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Four Queens 101 750ml,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Frangelico 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Frankly Organic Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Frankly Strawberry Vodka 175L,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Galliano 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Garrison Brothers 375ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,George Remus Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Giffard Caribbean Pineapple 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Giffard Elderflower 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Glenfarclas 17y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Glenfiddich 14y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Glenmorangie Quinta Ruban 50ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Godiva Chocolate Liqueur 375ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Gracias A Dios Pina 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Gracias A Dios Tobala 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Grahams Six Grapes Reserve Porto 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Gran Mitla Sal De Gusano 5g,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Gran Mitla Sal De Habanero 5g,Customer Square 3,Oak Hill,ACTIVE,,,30.0,,,
+,Gran Mitla Sal De Jamaica 5g,Customer Square 3,Oak Hill,ACTIVE,,,10.0,,,
+,Granada Vallet 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Granbazan Albarino Ambar 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Gregarious Grump 16yr Guyana 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Guido Porro Barolo Lazzairasco 2014/17 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Gulp Hablo Vino Tinto Red Blend 1L,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Gusto Historico Victor Ramos Tepextate Blend 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,H Bourgeois LCdMD Sancerre Blanc 750mL,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Hacienda De Banuelos Tepemete 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Haut Planty Gwin Evan 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Haymans Sloe Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Heavens Door Double Barrel Whiskey 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Hella Bitters Citrus 5oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Hemosu Ginseng Soju 375ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Herbsaint 90 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,High West Campfire 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Highclere London Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Hochstadters Coffee Slow and Low 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Hot Irishman Coffee Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Iannazzi Glass Pineapple Mug,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Iannazzi Glass Tiki Mug,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Iichiko Saiten 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Ilegal Mezcal Joven 375ml,Customer Square 3,Oak Hill,ACTIVE,,,15.0,,,
+,Infuse Bitters Cassia Bark 4oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Iwai Mars 45 1.8L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,J Rieger Caffe Amaro 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,J Wray Gold 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Jack Daniels Rye 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Jack Rudy Aromatic Bitters 2oz,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Jack Rudy Sweet Tea Syrup 500ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Jack Rudy Tonic Syrup 500ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Jacob's Pardon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Jagermeister 50ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Jagermeister Cold Brew Mini 10pk 20ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Jasci Pecorino 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Jean Royer Chateauneuf Du Pape Tradition 2019 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Jelinek Amaro 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Jeppsons Straight Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Jeremie Choquet Red Deer Cab Franc 750mL,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Joy VSOP 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Kavalan Concertmaster 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Ki No Bi Navy Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Ki No Tea Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Kilbeggan Single Pot Still 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,King Floyds Aromatic Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Cardamom Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Cherry Cacao Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Chocolate Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Chocolate Cinn 4oz,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Ginger Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Grapefruit Rosemary Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Orange Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Scorched Pear and Ginger Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,King Floyds Wild Plum Bitters 100ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Kings Carey Grenache Rose 750ml ,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Kings County Empire Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Kings County Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Kirnbauer 7301 Blaufrankisch 750ml,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Koch Ancestral Espadin Jaya 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Koch Ensamble 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Kooper Single Barrel Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Kubler Absinthe 1L,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Kuhn Rikon Peeler Black,Customer Square 3,Oak Hill,ACTIVE,,,9.0,,,
+,La Luna Manso Sahuayo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,La Madrid Malbec Reserva 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,La Maldicion Tinto 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Lacuesta Vermouth Reserva 750ml,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Lacuesta Vermouth Rojo Limited Edition 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Lagavulin Offerman Charred Oak Cask Edition 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Lan Rioja Gran Reserva 2008 750ml,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Laphroaig 10y Cask Strength 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Laphroaig Quarter Cask 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Laws Four Grain Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Lazzaroni Amaro 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Lazzaroni Maraschino 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Lazzaroni Sambuca 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Le Quai A Raisins Embruns 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Leopold Bros Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Leopold Brothers Absinthe Verte 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Leopold Brothers Apertivo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Leopold Brothers Tart Cherry Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Liebart Regnier Champagne 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Livewire Rocket Queen 4pk Cans,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Lo-Fi Dry Vermouth 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Los Vecinos Del Campo Espadin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Lot 40 Canadian 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Louis Pato Baga Bruto Rose 750ml,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Lucio Leather Bar Roll Up,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Ludovic Engelvin Rouge 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Lunazul Extra Anejo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Lustau La Plaza Vieja Sherry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Lustau Puerto Fino Sherry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Lustau Vermut Blanco 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Luxardo Bitter Bianco 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Luxardo Triplum 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Lyres NA Aperitif Dry 700ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Lyres NA Dark Cane Spirit 700ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Makers Mark 50ml,Customer Square 3,Oak Hill,ACTIVE,,,120.0,,,
+,Mancino Vermouth Rosso 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Manzone Dolcetto D'Alba Le Ciliegie 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Marendry Amarena Fabbri 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Martini & Rossi Ambrato 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Martini & Rossi Fiero 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,MastroJanni Brunello di Montalcino 750mL,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Mathilde Grand XO 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Mathilde Peche Vignes 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Maturana Pais 750ml ,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Meletti Anisette 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Metallica Shaker Shirt,Customer Square 3,Oak Hill,ACTIVE,,,19.0,,,
+,Mezcal Amaras Cenizo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Mezcal Amaras Sierra Negra 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Mezcal Marca Negra San Martin,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Mezcalero Special Bottle No5 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Mi Casa Tequila Reposado 750mL,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Miller High Life Can 32oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Montenegro Select Aperitivo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Montenigo 18/24 Metodo Classico 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Mount Gay 1703 Port Cask 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Neisson Organic Rhum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Nelson Brothers Classic Whiskey 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Nelson Brothers Reserve Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Nolets Dry Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Nonino L'Aperitivo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Nuestra Soledad Lachigui 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Nuestra Soledad San Luis Del Rio 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Old Charter No. 8 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Old Forester Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Ono Sotol 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Pajarote Cardamomo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Pajarote Jengibre 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Pajarote Tamirindo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Paladin Agricanto 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Panama Pacific 23y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Panama Pacific 9y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Paolo Cortado Viejo Sherry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Papalin Jamaica 7yr 750ml ,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Paranubes Rum Anejo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Pennsylvania Dutch Salted Caramel 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Pere Labat 59 1L,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Pernod Anisette 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Pierre Arnold Alsace 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Pierre Ferrand Renegade #3 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Pigs Nose Blended Scotch 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Pinche Vote Pin,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Pinhook Bourbon War Vertical 5y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Plomari Ouzo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Plymouth Navy Strength 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Poderi Cellario 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Polvanera Verdeca Puglia 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Portelli Cerasuolo Di Vittoria 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Powers Gold Label 1L,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Primo Blanco Tequila 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Privateer Queens Share 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Proof & Wood Deadwood Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Ra Chand Citrus Juicer Medium J210,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Raicilla Bonete Sierra 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Ransom Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Ransom Old Tom 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Real Minero Cuishe Tradicional 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Real Minero Espadin Largo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Real Spirits Totem 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Revolution Spirits Cello 200ml,Customer Square 3,Oak Hill,ACTIVE,,,24.0,,,
+,Rey Campero Mexicano 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Rhum JM Gold 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Rhum JM White 100 Proof 700ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Riedel Double Rocks Glass,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Riedel Highball Glass,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Riedel Neat Glass,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Ron Abuelo Napoleon 15y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Ron Inmortal 12 year Rum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Rossville Barrel Proof 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Rothman Orchard Elderberry 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Rum Bar Silver 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Rumpleminze 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Scrappys Celery Bitters 5oz,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Sertodo Jigger,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Shaker Patches,Customer Square 3,Oak Hill,ACTIVE,,,15.0,,,
+,Sheep Dip Islay Blended 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Signatory Mortlach 2008 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Silent Pool Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Silkie Irish Whiskey 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Silver Oak Napa Cabernet Sauvignon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Simple Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Sipsmith Lemon Drizzle Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Sipsmith VJOP 750ml,Customer Square 3,Oak Hill,ACTIVE,,,39.0,,,
+,Smooth Ambler Contradiction 92 Proof 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Smugglers Cove,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Sombra Mezcal Joven 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Sotol La Higuera Cedrosanum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Sotol La Higuera Leiophyllum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Sotoleros Romel 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Southold Don't Forget to Soar 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Southold Farm Little Bit of Swing 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Southold Go Down Swinging Sparkling Sirah 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,St George Cali Citrus Vodka 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,St George California Shochu 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,St George Gin Dry Rye 200ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Stainless Muddler,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Standard Proof Ginger Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Still Austin Straight Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Stranahans Sherry Cask 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Sweet Heat Sugar Rimmer,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Swick Sauvignon Blanc 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Takara Jun 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Teeda Okinawan Rum 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Teeling Single Grain 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Tempier Bandol Blanc 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Ten High Sour Mash 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Terralta Anejo 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Teutonic Jazz Odyssey 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Texas Whiskey,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,The Marigny Pinot Noir 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,The Wiseman Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Thomas S. Moore Cabernet Finish 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Thomas S. Moore Port Finish 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Trincheri Vermouth Rosso 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Tullamore Dew 375ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Turley Zinfandel California Old Vines 2020,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Tyrconnell Single Malt 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Vacu Vin Wine Stopper,Customer Square 3,Oak Hill,ACTIVE,,,31.0,,,
+,Vergnano Fragola Strawberry Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Vignoble Edmond Latour Vacqueras 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Vino De Montana 750ml,Customer Square 3,Oak Hill,ACTIVE,,,7.0,,,
+,Violet Crown Jasmine Liqueur 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Viski Citrus Grater,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Viski Hairpin Deco Glass,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Viski Hawthorne Strainer Copper,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Viski Japanese Jigger 1-2 oz Copper,Customer Square 3,Oak Hill,ACTIVE,,,17.0,,,
+,Viski Leopold Jigger Copper,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Viski Leopold Jigger Gold,Customer Square 3,Oak Hill,ACTIVE,,,9.0,,,
+,Viski Lewis Bag and Mallet,Customer Square 3,Oak Hill,ACTIVE,,,11.0,,,
+,Viski Meridian Coupe Glass,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Viski Meridian Highball Glass,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Viski Meridian Tumbler Glass,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Viski Mesh Cocktail Strainer,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Viski Metropolis Deco Glass,Customer Square 3,Oak Hill,ACTIVE,,,8.0,,,
+,Viski Mixing Beaker 500ml,Customer Square 3,Oak Hill,ACTIVE,,,16.0,,,
+,Viski Teardrop Barspoon 40cm Black,Customer Square 3,Oak Hill,ACTIVE,,,9.0,,,
+,Viski Teardrop Barspoon 40cm Copper,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,Vit Vane Sorta Sweet White 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Wee Chef Chardonnay 750ml,Customer Square 3,Oak Hill,ACTIVE,,,12.0,,,
+,West 32 Soju 375ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Whistlepig Piggyback Bourbon 6y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Wild Turkey Rare Breed Rye 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Wildmakers Sabatico Garnacha 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Woody Creek Bourbon 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Wormwood Bitters 150ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Worthy Park Estate Reserve 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Xicaru Reposado 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Xicaru Silver 750ml,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Yellow Spot 12y 750ml,Customer Square 3,Oak Hill,ACTIVE,,,6.0,,,
+,Yeni Raki 750ml,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
+,Yuzu Gin 750ml,Customer Square 3,Oak Hill,ACTIVE,,,5.0,,,
+,Yzaguirre Bianco 1L,Customer Square 3,Oak Hill,ACTIVE,,,3.0,,,
+,Yzaguirre Rojo 1L,Customer Square 3,Oak Hill,ACTIVE,,,4.0,,,
